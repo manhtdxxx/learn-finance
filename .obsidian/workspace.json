@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "096688a072a6de04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Managerial Accounting/Module 07. Accounting for Decision Making.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Managerial Accounting/Module 07. Accounting for Decision Making.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Managerial Accounting/Module 07. Accounting for Decision Making.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Managerial Accounting/Module 07. Accounting for Decision Making.md"
               }
             }
           },
@@ -156,29 +169,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "44feeaeb8869330a",
+  "active": "23d17c78d24123a9",
   "lastOpenFiles": [
+    "Managerial Accounting/Module 06. Giá bán sản phẩm.md",
+    "Managerial Accounting/Module 05. Budgeting.md",
+    "Managerial Accounting/Module 04. CVP Analysis.md",
+    "Managerial Accounting/Module 03. Giá thành sản phẩm.md",
+    "Managerial Accounting/Module 02. Cost Classification.md",
+    "Managerial Accounting/Module 01. Overview.md",
+    "Corporate Finance/Module 10. Dividend Policy.md",
+    "Corporate Finance/Module 09. Financial Planning.md",
+    "Corporate Finance/Module 08. Cash Flow Management.md",
+    "Corporate Finance/Module 07. Asset Management.md",
+    "Corporate Finance/Module 06. Long-term Investment.md",
+    "Corporate Finance/Module 05. Capital & Leverage.md",
+    "Corporate Finance/Module 04. Sources of Financing.md",
+    "Corporate Finance/Module 03.2. Financial Investment.md",
+    "Corporate Finance/Module 03.1. Financial Instruments.md",
+    "Corporate Finance/Module 02. Time Value of Money.md",
+    "Corporate Finance/Module 01. Overview.md",
     "Untitled.md",
     "Dictionary.md",
-    "Managerial Accounting/Module 2. Cost Classification.md",
-    "Corporate Finance/Module 8. Cash Flow Management.md",
-    "Corporate Finance/Module 9. Financial Planning.md",
-    "Corporate Finance/Module 10. Dividend Policy.md",
-    "Corporate Finance/Module 5. Capital & Leverage.md",
-    "Corporate Finance/Module 4. Sources of Financing.md",
-    "Corporate Finance/Module 3.2. Financial Investment.md",
-    "Corporate Finance/Module 6. Long-term Investment.md",
     "FinTech - P2P Lending.md",
-    "Managerial Accounting/Module 4. CVP Analysis.md",
-    "Corporate Finance/Module 7. Asset Management.md",
-    "Corporate Finance/Module 2. Time Value of Money.md",
-    "Corporate Finance/Module 1. Overview.md",
-    "Corporate Finance/Module 3.1. Financial Instruments.md",
-    "Managerial Accounting/Module 5. Budgeting.md",
-    "Managerial Accounting/Module 6. Giá bán sản phẩm.md",
-    "Managerial Accounting/Module 7. Accounting for Decision Making.md",
-    "Managerial Accounting/Module 3. Giá thành sản phẩm.md",
-    "Managerial Accounting/Module 1. Overview.md",
+    "Managerial Accounting/Module 07. Accounting for Decision Making.md",
     "Pasted image 20240616181240.png",
     "Visuals/cash conversion cycle.png.crdownload",
     "Visuals/cash conversion cycle.png",

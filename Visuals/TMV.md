@@ -169,10 +169,10 @@ CFn / (1+i)^(n-1)  ^8qlFPWjO
 SUM = PVA ^tczN6e1l
 
 # Element Links
-3EvBeqy6: [[Module 2. Time Value of Money]]
-OFgRqXF2: [[Module 2. Time Value of Money]]
-grR3yENI: [[Module 2. Time Value of Money]]
-7PjscKCr: [[Module 2. Time Value of Money]]
+3EvBeqy6: [[Module 02. Time Value of Money]]
+OFgRqXF2: [[Module 02. Time Value of Money]]
+grR3yENI: [[Module 02. Time Value of Money]]
+7PjscKCr: [[Module 02. Time Value of Money]]
 
 %%
 # Drawing

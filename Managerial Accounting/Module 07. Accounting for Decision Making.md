@@ -19,4 +19,4 @@
 #### 1.3.5. Quyết định cách thức sử dụng các năng lực giới hạn
 
 # 2. Quyết định dài hạn
-[[Module 6. Long-term Investment]]
+[[Module 06. Long-term Investment]]
