@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "adb090cc77d16ace",
+    "type": "split",
+    "children": [
+      {
+        "id": "407f18662cf364dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44feeaeb8869330a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2fbc307771d9e06",
+    "type": "split",
+    "children": [
+      {
+        "id": "13bc26299e34c020",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23d17c78d24123a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fea6886960dc7e11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Principles",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "deca52504d25d1d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.5
+  },
+  "right": {
+    "id": "aa16f2444d20c535",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f15ed5927a8027c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3891d0aa878dd816",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc1017e4f2ed2100",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d3ce0fc974ab1fe5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f24615aacce076c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "98813846d5533039",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "44feeaeb8869330a",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Dictionary.md",
+    "Managerial Accounting/Module 2. Cost Classification.md",
+    "Corporate Finance/Module 8. Cash Flow Management.md",
+    "Corporate Finance/Module 9. Financial Planning.md",
+    "Corporate Finance/Module 10. Dividend Policy.md",
+    "Corporate Finance/Module 5. Capital & Leverage.md",
+    "Corporate Finance/Module 4. Sources of Financing.md",
+    "Corporate Finance/Module 3.2. Financial Investment.md",
+    "Corporate Finance/Module 6. Long-term Investment.md",
+    "FinTech - P2P Lending.md",
+    "Managerial Accounting/Module 4. CVP Analysis.md",
+    "Corporate Finance/Module 7. Asset Management.md",
+    "Corporate Finance/Module 2. Time Value of Money.md",
+    "Corporate Finance/Module 1. Overview.md",
+    "Corporate Finance/Module 3.1. Financial Instruments.md",
+    "Managerial Accounting/Module 5. Budgeting.md",
+    "Managerial Accounting/Module 6. Giá bán sản phẩm.md",
+    "Managerial Accounting/Module 7. Accounting for Decision Making.md",
+    "Managerial Accounting/Module 3. Giá thành sản phẩm.md",
+    "Managerial Accounting/Module 1. Overview.md",
+    "Pasted image 20240616181240.png",
+    "Visuals/cash conversion cycle.png.crdownload",
+    "Visuals/cash conversion cycle.png",
+    "Visuals/EOQ_2.webp",
+    "Visuals/TMV.md",
+    "Pasted image 20240504175021.png",
+    "Visuals/interest rate to Bond Price.png",
+    "Visuals/indifference point.jpg",
+    "Visuals/IRR interpolation.png",
+    "Visuals/NPV and IRR.png",
+    "Visuals/MCC.png",
+    "Visuals/break even point.png",
+    "Images/EOQ_2.webp.crdownload",
+    "Untitled 1.md",
+    "Untitled",
+    "Images/cost classification.png.crdownload",
+    "Managerial Accounting",
+    "Images/IRR interpolation.png.crdownload",
+    "Images/IRR interpolation.heic",
+    "Images/IRR interpolation.webp.crdownload",
+    "Images/Marginal Cost of Capital.png.crdownload",
+    "V. Investment of Financial Assets.pdf",
+    "Excalidraw/Drawing 2024-04-15 18.15.41.excalidraw.md",
+    "Untitled.canvas",
+    "Dòng tiền đều ở cuối kỳ.md",
+    "2024-04-12.md"
+  ]
+}

@@ -1,0 +1,16 @@
+.image-embed[src$="#right"] {
+  text-align:right;
+  display: inline-block;
+  width: 100%;
+}
+.image-embed[src$="#left"] {
+  text-align:left;
+  display: inline-block;
+  width: 100%;
+}
+
+.image-embed[src$="#center"]{
+  text-align:center;
+  display: inline-block;
+  width: 100%;
+}

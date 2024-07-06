@@ -1,0 +1,157 @@
+# 1. Overview
+
+| **Tiêu thức phân loại** | **Đầu tư tài sản thực**                                    | **Đầu tư tài chính**                                                                                                                                                                                                                                     |
+| :---------------------: | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    **Loại tài sản**     | - Tài sản hữu hình<br>- Tài sản vô hình                    | - Các công cụ tài chính (financial instruments)                                                                                                                                                                                                          |
+|  **Chuyển đổi sở hữu**  | - Việc thay đổi lĩnh vực đầu tư và chủ sở hữu rất khó khăn | - Việc thay đổi lĩnh vực đầu tư và chủ sở hữu rất dễ dàng                                                                                                                                                                                                |
+|   **Lợi ích đầu tư**    | - Lợi nhuận<br>- Phi lợi nhuận `VD: mua nhà để ở`          | - Lợi nhuận                                                                                                                                                                                                                                              |
+| **Phân phối thu nhập**  | Phân phối lần đầu                                          | Phân phối lại thu nhập<br>%%Khi một công ty đã nộp thuế thu nhập doanh nghiệp cho lợi nhuận của mình, sau đó chia sẻ một phần lợi nhuận đó cho cổ đông dưới dạng cổ tức. Cổ đông nhận cổ tức cũng phải nộp thuế thu nhập cá nhân cho khoản cổ tức này.%% |
+|        **Thuế**         | Đánh thuế một lần                                          | Chịu thuế hai lần                                                                                                                                                                                                                                        |
+|  **Hình thức đầu tư**   | Đầu tư trực tiếp                                           | Đầu tư gián tiếp                                                                                                                                                                                                                                         |
+- **Các bước định giá chứng khoán:**
+	1. Ước lượng dòng tiền tệ thu nhập kỳ vọng
+	2. Ước lượng tỷ suất chiết khấu = Lãi suất không rủi ro + Phần gia tăng do rủi ro
+	3. Tính hiện giá dòng tiền tệ thu nhập theo tỷ suất chiết khấu vừa ước lượng
+# 2. Valuation of Debt Securities
+### 2.1 Treasury Bill
+- Định giá trên **Primary Market**
+	- `Lãi suất tín phiếu trúng thầu (%/năm)`
+	- `Kỳ hạn của tín phiếu`
+	$$Giá\ bán\ ban\ đầu = \frac{Mệnh\ giá}{1 + \frac{Lãi\ suất\ trúng\ thầu\ \cdot \ Kỳ\ hạn}{365}}$$
+- Định giá trên **Secondary Market**
+	- `Lãi suất tín phiếu hiện hành trên thị trường (%/năm)`
+	- `Kỳ hạn còn lại của tín phiếu cho đến ngày đáo hạn`
+	$$Giá\ bán\ lại = \frac{Mệnh\ giá}{1 + \frac{Lãi\ suất\ thị\ trường\ \cdot \ Kỳ\ hạn\ còn\ lại}{365}}$$
+### 2.2 Bond
+##### 2.2.1 Định giá
+1. Discount Bond
+$$P = \frac{F}{(1 + k_d)^n}$$
+2. Coupon Bond (Trả lãi theo năm)
+	$$P = \sum_{t=1}^n \frac{C}{(1+k_d)^t} + \frac{F}{(1+k_d)^n}$$
+3. Coupon Bond (Trả lãi nửa năm 1 lần)
+	$$P = \sum_{t=1}^{2n} \frac{C/2}{(1+k_d/2)^{t}} + \frac{F}{(1+k_d/2)^{2n}}$$
+- ...
+	- `P: giá trị của trái phiếu tại thời điểm phát hành`
+	- `F: giá trị của trái phiếu tại thời điểm đáo hạn`
+	- `C: lãi thanh toán hằng năm` 
+	- `k_d: tỷ suất chiết khấu/tỷ suất sinh lời cần thiết theo thị trường (%/năm)`
+	- `n: số năm còn lại cho đến khi đáo hạn`
+##### 2.2.2 Sự biến động giá trái phiếu theo lãi suất thị trường
+- Giá trái phiếu biến động khi **lãi suất thị trường / tỷ suất chiết khấu** thay đổi: 
+	- Lãi suất thị trường tăng **==>** giá trái phiếu giảm
+	- Lãi suất thị trường giảm **==>** giá trái phiếu tăng
+	- Lãi suất thị trường = lãi suất trái phiếu **==>** giá trái phiếu = mệnh giá
+	- Lãi suất thị trường < lãi suất trái phiếu **==>** giá trái phiếu > mệnh giá
+	- Lãi suất thị trường > lãi suất trái phiếu **==>** giá trái phiếu < mệnh giá
+	![[interest rate to Bond Price.png#center|480]]
+# 3. Valuation of Equity Securities
+### 3.1. Preferred Stock
+- Khi cổ phiếu ưu đãi là cổ phiếu không có quyền mua lại, không chuyển đổi được với kỳ hạn không xác định và trả cổ tức với tỷ suất cố định
+	- `P: giá trị của cổ phiếu ưu đãi cổ tức`
+	- `D: cổ tức ưu đãi`
+	- `k_p: tỷ suất chiết khấu/tỷ suất sinh lời cần thiết theo thị trường (%/năm)`
+	$$P = \frac{D}{k_{p}}$$
+### 3.2. Common Stock
+1. Do cổ phiếu không có kỳ đáo hạn *(n --> +∞)*
+	- `P: giá trị của cổ phiếu thường tại thời điểm phát hành`
+	- `D_t: cổ tức thường tại thời điểm kết thúc kỳ hạn t`
+	- `k_e: tỷ suất chiết khấu/tỷ suất sinh lời cần thiết theo thị trường (%/năm)`
+	$$P = \sum_{t=1}^n \frac{D_t}{(1+k_e)^{t}}$$
+1. Tuy nhiên các nhà đầu tư có thể sẽ không đầu tư mãi và mong muốn bán cổ phiếu tại một thời điểm kì vọng thì dòng thu nhập của họ thay vì *chỉ là cổ tức mãi mãi* thì sẽ gồm: *cổ tức + giá bán* *(n hữu hạn)*
+	- `P_n: giá bán của cổ phiếu tại thời điểm cuối kì n`
+	$$P = \sum_{t=1}^n \frac{D_t}{(1+k_e)^{t}} + \frac{P_n}{(1+k_e)^n}$$
+##### 3.2.1 Mô hình chiết khấu dòng cổ tức (Dividend Discount Model - DDM)
+1. **Khi tốc độ tăng trưởng cổ tức không đổi (Gordon growth model)**
+	- Cổ tức gia tăng hằng năm với tỉ lệ g *(g < k)*
+	$$
+	\begin{align}
+	D_0 &: cổ\ tức\ vừa\ chia\ tại\ cuối\ kì\ thứ\ 0 \\
+	D_1 &= D_0 \cdot (1+g)\\
+	D_2 &= D_0 \cdot (1+g)^2\\
+	D_3 &= D_0 \cdot (1+g)^3\\
+	&...\\
+	D_{n-1} &= D_0 \cdot (1+g)^{n-1}\\
+	D_{n} &= D_0 \cdot (1+g)^{n}
+	\end{align}
+	$$
+	- Định giá:
+	$$
+	\begin{align}
+	P &= \frac{D_1}{1+k_e} + \frac{D_2}{(1+k_e)^2} + \frac{D_3}{(1+k_e)^3} +\ ...\ + \frac{D_n}{(1+k_e)^n}\\
+	&= \frac{D_0 \cdot(1+g)}{1+k_e} + \frac{D_0 \cdot(1+g)^2}{(1+k_e)^2} +\frac{D_0 \cdot(1+g)^3}{(1+k_e)^3} +\ ...\ + \frac{D_0 \cdot(1+g)^n}{(1+k_e)^n}\\
+	&= \ ............ \ (Sum\ of\ a\ finite\ Geometric\ Series)\\
+	&= \frac{D_0 \cdot (1+g)}{k_e - g} \qquad (*)
+	\end{align}
+	$$
+	---
+1. **Khi tốc độ tăng trưởng cổ tức thay đổi**
+	- Giả sử một cổ phiếu có lợi tức cổ phần được chia lần đầu là 1,50 USD, lợi tức cổ phần gia tăng mỗi năm 20% (g1) trong 4 năm kế tiếp. Từ năm thứ 5 trở đi, tỷ lệ này giảm xuống chỉ còn 6% (g2) mỗi năm. Tỷ lệ sinh lời cần thiết của cổ phiếu theo thị trường là 16%.
+		- *Giá trị hiện tại của lợi tức cổ phần tương lai* như sau:
+			$$ \begin{align*}
+			D_1 &= 1.50 \cdot (1 + 0.2) = 1.8000 \\
+			D_2 &= 1.50 \cdot (1 + 0.2)^2 = 2.1600 \\ 
+			D_3 &= 1.50 \cdot (1 + 0.2)^3 = 2.5920 \\ 
+			D_4 &= 1.50 \cdot (1 + 0.2)^4 = 3.1104 \\ 
+			D_5 &= D_4 \cdot (1 + 0.06) = 3.2970
+			\end{align*} 
+			$$
+		- *Định giá bán của cổ phiếu tại thời điểm cuối năm 4* bằng cách chiết khấu dòng cổ tức cuối năm thứ 5 trở đi:
+			$$P_4 = \frac{D_5}{k_e - g_2} = \frac{3.2970}{0.16 - 0.06} = 32.97$$
+		- *Định giá bán của cổ phiếu lúc phát hành*
+			- Coi rằng các nhà đầu tư sẽ muốn bán cổ phiếu tại thời điểm cuối năm 4 khi không muốn đầu tư nữa:
+				$$P_0 = \sum_{t=1}^4 \frac{D_t}{(1+k_e)^{t}} + \frac{P_4}{(1+k_e)^4} = 6.535+18.21 = 24.745$$
+			- Coi rằng các nhà đầu tư sẽ đầu tư mãi mãi:
+				$$
+				\begin{align}
+				P_0 &= \sum_{t=1}^4 \frac{D_t}{(1+k_e)^{t}} + (\frac{D_4\cdot(1+g_2)}{(1+k_e)^5} + \frac{D_4\cdot(1+g_2)^2}{(1+k_e)^6}+\ ...\ +\frac{D_4\cdot(1+g_2)^{n-4}}{(1+k_e)^n})\\
+				&= \sum_{t=1}^4 \frac{D_t}{(1+k_e)^{t}} + \sum_{t=5}^n \frac{D_4 \cdot (1+g_2)^{n-4}}{(1+k_e)^{n}} = 6.535 + 18.21 = 24.745
+				\end{align}
+				$$
+##### 3.2.2. Mô hình chiết khấu dòng tiền tự do (Free Cash Flow - FCF)
+
+##### 3.2.3. Định giá bằng phương pháp P/E (Price to Earning Ratio)
+- Chỉ số P/E thể hiện số tiền mà nhà đầu tư sẵn sàng chi trả cho một đồng lợi nhuận
+$$
+\begin{align}
+P/E &= \frac{Market\ Value}{EPS}\\\\
+<< EPS &= \frac{Net\ Income - Preferred\ Equity}{Shares\ outstanding} >> \\\\
+\end{align}
+$$
+- Ý nghĩa :
+	- **P/E thấp**
+		- Có thể DN hoạt động hiệu quả hơn so với thời gian trước, khiến EPS tăng --> P/E thấp. Trong TH này có thể nói cổ phiếu đang bị định giá thấp và là cơ hội để chúng ta mua vào
+		- Tuy nhiên, P/E thấp có thể do DN thu được lợi nhuận bất thường (từ thanh lý tài sản, hay bán công ty con,…). Những khoản lợi nhuận này sẽ không bền vững do không đến từ hoạt động kinh doanh cốt lõi và sẽ không lặp lại trong tương lai
+		- Do các cổ đông hiện hữu không còn thấy khả năng phát triển của DN, nên quyết định bán chốt lời --> Market Value giảm --> P/E thấp.
+	- **P/E cao**
+		- Thông thường, chỉ số P/E cao thể hiện sự kỳ vọng của nhà đầu tư về việc tăng trưởng thu nhập từ cổ phiếu đó sẽ cao hơn trong tương lai
+		- Tuy nhiên, chỉ số P/E cao đôi khi là biểu hiện việc doanh nghiệp kinh doanh kém hiệu quả, khiến EPS thấp (thậm chí = 0) --> P/E mới cao.
+	---
+- Định giá dựa vào **... P/E** : $$P = EPS_{\ kì\ vọng}\ \cdot\ P/E_{\ trung\ bình\ ngành}$$
+- Định giá dựa vào **... P/E** :
+$$
+\begin{align}
+P &= \frac{D_1}{k_e - g} = \frac{Tỷ\ lệ\ trả\ cổ\ tức \cdot EPS_1}{k_e - g}\\\\
+=> P/E_1 &= \frac{Tỷ\ lệ\ trả\ cổ\ tức}{k_e - g}\\\\\\
+P &= EPS_{\ kì\ vọng}\ \cdot\ P/E_1  
+\end{align}
+$$
+---
+---
+---
+# 4. Quyết định đầu tư
+### 4.1. Quyết định đầu tư Debt Securities
+1. Thời hạn của dự án đầu tư
+	- Tiền nhàn rỗi trong thời gian dài, nên đầu tư vào chứng khoán nợ dài hạn
+	- Tiền nhàn rỗi trong thời gian ngắn, nên đầu tư vào chứng khoán nợ ngắn hạn hoặc dài hạn nhưng thanh khoản cao
+1. Căn cứ vào kết quả định giá (giá lý thuyết)
+	- Giá lý thuyết > Giá thị trường, nên mua
+	- Giá lý thuyết < Giá thị trường, nên bán
+3. Mức độ chấp nhận rủi ro
+	- Rủi ro khi tái đầu tư
+	- Rủi ro lãi suất
+	- Rủi ro lạm phát
+	- Rủi ro tín dụng : người phát hành không đủ khả năng thanh toán nợ
+	- Rủi ro thanh khoản : khả năng chuyển đổi thành tiền trên thị trường
+	- Rủi ro xếp hạng : dựa vào uy tín của công ty
+4. Dòng tiền kỳ vọng trong tương lai
+### 4.1. Quyết định đầu tư Equity Securities
