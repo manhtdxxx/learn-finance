@@ -4,9 +4,9 @@
   "enabledCssSnippets": [
     "align_img"
   ],
-  "cssTheme": "",
+  "cssTheme": "Things",
   "textFontFamily": "",
-  "baseFontSize": 17,
+  "baseFontSize": 16,
   "interfaceFontFamily": "",
   "baseFontSizeAction": true
 }

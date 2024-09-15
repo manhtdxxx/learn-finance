@@ -223,7 +223,7 @@ NPV_{A+A'} &= \frac{80}{(1+0.1)} + \frac{-20}{(1+0.1)^2} + \frac{80}{(1+0.1)^3} 
 NPV_B &= \frac{50}{(1+0.1)} + \frac{50}{(1+0.1)^2} + \frac{50}{(1+0.1)^3} + \frac{50}{(1+0.1)^4} -100 = 58.5
 \end{align}
 $$
-- *So sánh NPV(a+a') và NPV(b) ==> CHỌN A*
+- So sánh NPV(a+a') và NPV(b) ==> CHỌN A
 
 ##### 4.2.2 Phương pháp chuỗi tiền tệ đều thay thế hằng năm
 - Phương pháp này dàn đều giá trị NPV thành thu nhập đều hàng năm trong suốt vòng đời của dự án
@@ -240,7 +240,7 @@ $$
 	EA_B &= \frac{58.5}{1 - (1+0.1)^{-4}} \cdot 0.1 = 18.45
 	\end{align}
 	$$
-	- *So sánh EA(A) và EA(b) ==> CHỌN A*
+	- So sánh EA(A) và EA(b) ==> CHỌN A
 
 
 
