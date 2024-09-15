@@ -43,7 +43,7 @@ $$P = \frac{F}{(1 + k_d)^n}$$
 	- Lãi suất thị trường = lãi suất trái phiếu **==>** giá trái phiếu = mệnh giá
 	- Lãi suất thị trường < lãi suất trái phiếu **==>** giá trái phiếu > mệnh giá
 	- Lãi suất thị trường > lãi suất trái phiếu **==>** giá trái phiếu < mệnh giá
-	![[interest rate to Bond Price.png#center|480]]
+	![[Interest-Rate-to-Bond-Price.png#center|480]]
 # 3. Valuation of Equity Securities
 ### 3.1. Preferred Stock
 - Khi cổ phiếu ưu đãi là cổ phiếu không có quyền mua lại, không chuyển đổi được với kỳ hạn không xác định và trả cổ tức với tỷ suất cố định

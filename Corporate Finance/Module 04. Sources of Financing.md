@@ -110,4 +110,4 @@
 		\frac{(EBIT_1 - I_1)\cdot(1-t)}{NS_1} &= \frac{(EBIT_2 - I_2)\cdot(1-t)}{NS_2}
 		\end{align}
 		$$
-		![[indifference point.jpg#center|480]]
+		![[Indifference-Point.jpg#center|480]]

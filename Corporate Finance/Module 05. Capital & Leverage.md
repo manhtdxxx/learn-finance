@@ -149,7 +149,7 @@ $$
 	==> DOL_{Q_0}&= \frac{Q_0}{Q_0 - \frac{F}{p-v}} = \frac{Q_0}{Q_0 - Q_{BEP}}
 	\end{align}
 	$$
-	![[break even point.png#center|480]]
+	![[BEP.png#center|480]]
 	1. *Khi Q(0) < Q(BEP) <=> EBIT(Q(0)) < 0   ==> DOL < 0 :*
 		- DN càng sản xuất thêm càng lỗ nhiều hơn
 		- DN nào có FC cao hơn thì DN đó có mức giảm lỗ nhanh hơn
@@ -220,7 +220,7 @@ $$
 	<=> \frac{(EBIT' - I_1)\cdot(1-t) - PD_1}{NS_1} &= \frac{(EBIT' - I_2)\cdot(1-t) - PD_2}{NS_2}
 	\end{align}
 	$$
-	![[indifference point.jpg#center|480]]
+	![[Indifference-Point.jpg#center|480]]
 	- Nếu EBIT < EBIT' thì nên phát hành cổ phiếu
 		`Nếu vay càng nhiều mà EBIT không đủ lớn để bù đắp chi phí lãi vay, thì EPS phải càng giảm để bù đắp`
 	- Nếu EBIT > EBIT' thì nên phát hành trái phiếu
