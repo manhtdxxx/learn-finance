@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "13a91ef14c76551e",
+        "id": "e66bbab85f940b56",
         "type": "tabs",
         "children": [
           {
-            "id": "a5425db3a6857fdf",
+            "id": "0eab771b88ed1feb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Visuals/Indifference-Point.jpg"
-              }
+                "file": "Commercial Bank/Module 05. Nghiệp vụ tín dụng trung và dài hạn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Module 05. Nghiệp vụ tín dụng trung và dài hạn"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -46,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Principles",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -60,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -83,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visuals/Indifference-Point.jpg",
+                "file": "Commercial Bank/Module 02. Nghiệp vụ nguồn vốn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Module 02. Nghiệp vụ nguồn vốn"
             }
           },
           {
@@ -100,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visuals/Indifference-Point.jpg",
+                "file": "Commercial Bank/Module 02. Nghiệp vụ nguồn vốn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Module 02. Nghiệp vụ nguồn vốn"
             }
           },
           {
@@ -114,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -123,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Visuals/Indifference-Point.jpg"
-              }
+                "file": "Commercial Bank/Module 05. Nghiệp vụ tín dụng trung và dài hạn.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Module 05. Nghiệp vụ tín dụng trung và dài hạn"
             }
           },
           {
@@ -132,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -144,55 +164,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "a5425db3a6857fdf",
+  "active": "0eab771b88ed1feb",
   "lastOpenFiles": [
-    "Visuals/NPV and IRR.png",
-    "Visuals/TMV.md",
-    "Visuals/IRR-Interpolation.png",
-    "Visuals/MCC.png",
-    "Visuals/Interest-Rate-to-Bond-Price.png",
-    "Visuals/Cost-Classification.png",
-    "Visuals/Indifference-Point.jpg",
-    "Visuals/EOQ_2.webp",
+    "Commercial Bank/Module 03. Nghiệp vụ tín dụng ngắn hạn.md",
+    "Commercial Bank/Module 04. Nghiệp vụ chiết khấu và bao thanh toán.md",
+    "Commercial Bank/Module 05. Nghiệp vụ tín dụng trung và dài hạn.md",
+    "Corporate Finance/Module 07. Asset Management.md",
+    "Corporate Finance/Module 08. Cash Flow Management.md",
+    "Corporate Finance/Module 06. Long-term Investment.md",
+    "Corporate Finance/Module 05. Capital & Leverage.md",
+    "Commercial Bank/Module 02. Nghiệp vụ nguồn vốn.md",
+    "Corporate Finance/Module 04. Sources of Financing.md",
+    "Corporate Finance/Module 03.1. Financial Instruments.md",
+    "Corporate Finance/Module 01. Overview.md",
+    "Commercial Bank/Module 01. Overview.md",
     "Visuals/EOQ_1.png",
     "Visuals/CCC.png",
-    "Visuals/BEP.png",
     "Dictionary.md",
-    "README.md",
-    "Untitled.md",
-    "Corporate Finance/Module 06. Long-term Investment.md",
-    "Corporate Finance/Module 08. Cash Flow Management.md",
+    "Corporate Finance/Module 03.2. Financial Investment.md",
+    "Corporate Finance/Module 02. Time Value of Money.md",
+    "Corporate Finance/Module 10. Dividend Policy.md",
     "Corporate Finance/Module 09. Financial Planning.md",
-    "Corporate Finance/Module 07. Asset Management.md",
-    "Managerial Accounting/Module 07. Accounting for Decision Making.md",
+    "Commercial Bank",
+    "Managerial Accounting/Module 01. Overview.md",
+    "Managerial Accounting/Module 02. Cost Classification.md",
     "Managerial Accounting/Module 06. Giá bán sản phẩm.md",
-    "Managerial Accounting/Module 05. Budgeting.md",
     "Managerial Accounting/Module 04. CVP Analysis.md",
     "Managerial Accounting/Module 03. Giá thành sản phẩm.md",
-    "Managerial Accounting/Module 02. Cost Classification.md",
-    "Managerial Accounting/Module 01. Overview.md",
-    "Corporate Finance/Module 10. Dividend Policy.md",
-    "Corporate Finance/Module 05. Capital & Leverage.md",
-    "Corporate Finance/Module 04. Sources of Financing.md",
-    "Corporate Finance/Module 03.2. Financial Investment.md",
-    "Corporate Finance/Module 03.1. Financial Instruments.md",
-    "Corporate Finance/Module 02. Time Value of Money.md",
-    "Corporate Finance/Module 01. Overview.md",
-    "FinTech - P2P Lending.md",
+    "Managerial Accounting/Module 07. Accounting for Decision Making.md",
+    "Visuals/BEP.png",
+    "Visuals/Cost-Classification.png",
+    "Visuals/EOQ_2.webp",
+    "Visuals/TMV.md",
+    "Visuals/NPV and IRR.png",
+    "Visuals/MCC.png",
+    "Visuals/IRR-Interpolation.png",
+    "Visuals/Interest-Rate-to-Bond-Price.png",
+    "Visuals/Indifference-Point.jpg",
+    "README.md",
+    "Untitled.md",
     "Visuals/cash conversion cycle.png.crdownload",
     "Images/EOQ_2.webp.crdownload",
-    "Untitled 1.md",
-    "Untitled",
     "Images/cost classification.png.crdownload",
     "Managerial Accounting",
     "Images/IRR interpolation.png.crdownload",
@@ -200,7 +222,6 @@
     "Images/IRR interpolation.webp.crdownload",
     "Images/Marginal Cost of Capital.png.crdownload",
     "V. Investment of Financial Assets.pdf",
-    "Excalidraw/Drawing 2024-04-15 18.15.41.excalidraw.md",
     "Untitled.canvas"
   ]
 }
