@@ -169,10 +169,10 @@ CFn / (1+i)^(n-1)  ^8qlFPWjO
 SUM = PVA ^tczN6e1l
 
 # Element Links
-3EvBeqy6: [[Module 02. Time Value of Money]]
-OFgRqXF2: [[Module 02. Time Value of Money]]
-grR3yENI: [[Module 02. Time Value of Money]]
-7PjscKCr: [[Module 02. Time Value of Money]]
+3EvBeqy6: [[Chapter 02. Time Value of Money]]
+OFgRqXF2: [[Chapter 02. Time Value of Money]]
+grR3yENI: [[Chapter 02. Time Value of Money]]
+7PjscKCr: [[Chapter 02. Time Value of Money]]
 
 %%
 # Drawing
@@ -184,8 +184,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 	"elements": [
 		{
 			"type": "arrow",
-			"version": 3210,
-			"versionNonce": 984725857,
+			"version": 3215,
+			"versionNonce": 347770745,
 			"isDeleted": false,
 			"id": "butECl5DVn23WeVDP30as",
 			"fillStyle": "solid",
@@ -194,12 +194,12 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1173.8068918516697,
-			"y": -1133.465644577834,
+			"x": -1108.7871324521143,
+			"y": -1133.3796153349863,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 327.03800306698463,
-			"height": 0.43271202548339716,
+			"width": 266.1970491730709,
+			"height": 0.35188593646353183,
 			"seed": 1709962991,
 			"groupIds": [
 				"d7hLwNnkZwNLLbFtw5HBr"
@@ -209,18 +209,18 @@ grR3yENI: [[Module 02. Time Value of Money]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714286598824,
+			"updated": 1745328918448,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "3PIaFop2ZJ8U_1ikXmbDL",
-				"focus": 1.024091130928929,
-				"gap": 6.519473838388194
+				"gap": 6.519473838388194,
+				"focus": 1.024091130928929
 			},
 			"endBinding": {
 				"elementId": "Qu5eHSwW",
-				"focus": -1.4542014344092022,
-				"gap": 5.960626495146698
+				"gap": 5.960626495146698,
+				"focus": -1.4542014344092022
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -231,15 +231,15 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					0
 				],
 				[
-					327.03800306698463,
-					0.43271202548339716
+					266.1970491730709,
+					0.35188593646353183
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 1953,
-			"versionNonce": 172502543,
+			"version": 1954,
+			"versionNonce": 361955479,
 			"isDeleted": false,
 			"id": "I5XJf0MYIjssiCuwgXa_K",
 			"fillStyle": "solid",
@@ -272,14 +272,14 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598360,
+			"updated": 1745328918448,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1925,
-			"versionNonce": 1347785775,
+			"version": 1926,
+			"versionNonce": 25966681,
 			"isDeleted": false,
 			"id": "3VblqRCq",
 			"fillStyle": "solid",
@@ -301,7 +301,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598360,
+			"updated": 1745328918448,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -316,8 +316,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "rectangle",
-			"version": 1955,
-			"versionNonce": 1477523023,
+			"version": 1956,
+			"versionNonce": 1454691767,
 			"isDeleted": false,
 			"id": "3PIaFop2ZJ8U_1ikXmbDL",
 			"fillStyle": "solid",
@@ -354,14 +354,14 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598360,
+			"updated": 1745328918448,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1913,
-			"versionNonce": 1213437039,
+			"version": 1914,
+			"versionNonce": 1005962553,
 			"isDeleted": false,
 			"id": "VujR73MF",
 			"fillStyle": "solid",
@@ -383,7 +383,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598360,
+			"updated": 1745328918448,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -398,8 +398,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "rectangle",
-			"version": 1851,
-			"versionNonce": 449320655,
+			"version": 1852,
+			"versionNonce": 2065630935,
 			"isDeleted": false,
 			"id": "a9KP9wO41tuz3dwr0KKvh",
 			"fillStyle": "solid",
@@ -436,14 +436,14 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598360,
+			"updated": 1745328918449,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1827,
-			"versionNonce": 1113220335,
+			"version": 1828,
+			"versionNonce": 257603097,
 			"isDeleted": false,
 			"id": "WEai6K1h",
 			"fillStyle": "solid",
@@ -465,7 +465,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598360,
+			"updated": 1745328918449,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -480,8 +480,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2008,
-			"versionNonce": 241906991,
+			"version": 2009,
+			"versionNonce": 828773367,
 			"isDeleted": false,
 			"id": "SinV-wN_-kwUcJq1a1fhK",
 			"fillStyle": "solid",
@@ -510,14 +510,14 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "DLuz60eP"
 				}
 			],
-			"updated": 1714286598360,
+			"updated": 1745328918449,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1989,
-			"versionNonce": 1691006799,
+			"version": 1991,
+			"versionNonce": 246319865,
 			"isDeleted": false,
 			"id": "DLuz60eP",
 			"fillStyle": "solid",
@@ -526,7 +526,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1000.074253125613,
+			"x": -1000.0742531256132,
 			"y": -1164.6450255428967,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -539,7 +539,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598360,
+			"updated": 1745328918449,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -554,8 +554,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2072,
-			"versionNonce": 1681192303,
+			"version": 2073,
+			"versionNonce": 1636728087,
 			"isDeleted": false,
 			"id": "zTcWHteAWQqHV1wgnB6_G",
 			"fillStyle": "solid",
@@ -588,14 +588,14 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598360,
+			"updated": 1745328918449,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 2045,
-			"versionNonce": 334655375,
+			"version": 2046,
+			"versionNonce": 578077657,
 			"isDeleted": false,
 			"id": "lQYalHBY",
 			"fillStyle": "solid",
@@ -617,7 +617,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598360,
+			"updated": 1745328918449,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -632,8 +632,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 1122,
-			"versionNonce": 1379473359,
+			"version": 1125,
+			"versionNonce": 2131542583,
 			"isDeleted": false,
 			"id": "Qu5eHSwW",
 			"fillStyle": "solid",
@@ -646,7 +646,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -1163.7158030773708,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 44.05995178222656,
+			"width": 43.0078125,
 			"height": 25,
 			"seed": 1159959073,
 			"groupIds": [
@@ -660,7 +660,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598360,
+			"updated": 1745328918449,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -675,8 +675,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 837,
-			"versionNonce": 950185999,
+			"version": 840,
+			"versionNonce": 1455481017,
 			"isDeleted": false,
 			"id": "Ex4XWfiR",
 			"fillStyle": "solid",
@@ -689,7 +689,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -1158.5454964274704,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 16.439987182617188,
+			"width": 13.0078125,
 			"height": 25,
 			"seed": 1747084161,
 			"groupIds": [
@@ -703,7 +703,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598360,
+			"updated": 1745328918449,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -718,8 +718,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 2673,
-			"versionNonce": 659133729,
+			"version": 2676,
+			"versionNonce": 449143639,
 			"isDeleted": false,
 			"id": "U8psf8ucFVAU6CWQyF7kG",
 			"fillStyle": "solid",
@@ -748,13 +748,13 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "2ETDNtMr"
 				}
 			],
-			"updated": 1714286598824,
+			"updated": 1745328918449,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "3PIaFop2ZJ8U_1ikXmbDL",
-				"focus": 1.2589539863895434,
-				"gap": 6.7328036461281044
+				"gap": 6.7328036461281044,
+				"focus": 1.2589539863895434
 			},
 			"endBinding": {
 				"elementId": "LmMTUnT6",
@@ -781,8 +781,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 693,
-			"versionNonce": 1877300847,
+			"version": 696,
+			"versionNonce": 1765171609,
 			"isDeleted": false,
 			"id": "2ETDNtMr",
 			"fillStyle": "solid",
@@ -795,7 +795,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -942.6940673964049,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 29.779983520507812,
+			"width": 32.9296875,
 			"height": 25,
 			"seed": 609738191,
 			"groupIds": [
@@ -804,7 +804,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598360,
+			"updated": 1745328918449,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -819,8 +819,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 2440,
-			"versionNonce": 1626177761,
+			"version": 2443,
+			"versionNonce": 890036343,
 			"isDeleted": false,
 			"id": "X7NRsiyoKnpUi1gY2qwle",
 			"fillStyle": "solid",
@@ -849,13 +849,13 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "WeF0TKBP"
 				}
 			],
-			"updated": 1714286598824,
+			"updated": 1745328918449,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "a9KP9wO41tuz3dwr0KKvh",
-				"focus": 1.1928004425335528,
-				"gap": 5.205611948405931
+				"gap": 5.205611948405931,
+				"focus": 1.1928004425335528
 			},
 			"endBinding": {
 				"elementId": "oWl4juj8",
@@ -882,8 +882,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 699,
-			"versionNonce": 1342686895,
+			"version": 702,
+			"versionNonce": 386451065,
 			"isDeleted": false,
 			"id": "WeF0TKBP",
 			"fillStyle": "solid",
@@ -896,7 +896,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -969.0107986334218,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 38.5999755859375,
+			"width": 32.9296875,
 			"height": 25,
 			"seed": 960856687,
 			"groupIds": [
@@ -905,7 +905,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598360,
+			"updated": 1745328918449,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -920,8 +920,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 2586,
-			"versionNonce": 2144959649,
+			"version": 2587,
+			"versionNonce": 1336392087,
 			"isDeleted": false,
 			"id": "GRTnrNBAIC76bcNcfg02k",
 			"fillStyle": "solid",
@@ -950,7 +950,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "U8dLsdh3"
 				}
 			],
-			"updated": 1714286598825,
+			"updated": 1745328918450,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -983,8 +983,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 693,
-			"versionNonce": 1509631727,
+			"version": 694,
+			"versionNonce": 721129305,
 			"isDeleted": false,
 			"id": "U8dLsdh3",
 			"fillStyle": "solid",
@@ -997,7 +997,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -1010.0107986334219,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 37.97998046875,
+			"width": 32.9296875,
 			"height": 25,
 			"seed": 43936527,
 			"groupIds": [
@@ -1006,7 +1006,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598360,
+			"updated": 1745328918450,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1021,8 +1021,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 3200,
-			"versionNonce": 1028229217,
+			"version": 3203,
+			"versionNonce": 1070231223,
 			"isDeleted": false,
 			"id": "-tGF8ckFy7qBoyA9xsJHp",
 			"fillStyle": "solid",
@@ -1051,13 +1051,13 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "eEFgUcUJ"
 				}
 			],
-			"updated": 1714286598825,
+			"updated": 1745328918450,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "zTcWHteAWQqHV1wgnB6_G",
-				"focus": 1.1845108945057354,
-				"gap": 4.981794151654867
+				"gap": 4.981794151654867,
+				"focus": 1.1845108945057354
 			},
 			"endBinding": {
 				"elementId": "jM6DXuOr",
@@ -1084,8 +1084,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 704,
-			"versionNonce": 574846767,
+			"version": 707,
+			"versionNonce": 1264729145,
 			"isDeleted": false,
 			"id": "eEFgUcUJ",
 			"fillStyle": "solid",
@@ -1098,7 +1098,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -972.0107986334218,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 47.3399658203125,
+			"width": 52.24609375,
 			"height": 25,
 			"seed": 1995957103,
 			"groupIds": [
@@ -1107,7 +1107,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598360,
+			"updated": 1745328918450,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1122,8 +1122,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 2015,
-			"versionNonce": 177984577,
+			"version": 2016,
+			"versionNonce": 1075412951,
 			"isDeleted": false,
 			"id": "sQ5V-96DNgkOhTwRV1rlJ",
 			"fillStyle": "solid",
@@ -1152,7 +1152,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "xm7hwgRZ"
 				}
 			],
-			"updated": 1714286598825,
+			"updated": 1745328918450,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1181,8 +1181,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 703,
-			"versionNonce": 1818539887,
+			"version": 704,
+			"versionNonce": 136334617,
 			"isDeleted": false,
 			"id": "xm7hwgRZ",
 			"fillStyle": "solid",
@@ -1195,7 +1195,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -1072.010798633422,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 33.699981689453125,
+			"width": 33.466796875,
 			"height": 25,
 			"seed": 1801659439,
 			"groupIds": [
@@ -1204,7 +1204,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598360,
+			"updated": 1745328918450,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1219,8 +1219,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 900,
-			"versionNonce": 1155133839,
+			"version": 903,
+			"versionNonce": 1118399735,
 			"isDeleted": false,
 			"id": "T16Z4KAh",
 			"fillStyle": "solid",
@@ -1233,7 +1233,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -1065.4610243392435,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 33.699981689453125,
+			"width": 33.466796875,
 			"height": 25,
 			"seed": 835705121,
 			"groupIds": [
@@ -1247,7 +1247,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598360,
+			"updated": 1745328918450,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1262,8 +1262,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 825,
-			"versionNonce": 1822955983,
+			"version": 828,
+			"versionNonce": 682181113,
 			"isDeleted": false,
 			"id": "jM6DXuOr",
 			"fillStyle": "solid",
@@ -1276,7 +1276,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -1031.510798633422,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 131.31991577148438,
+			"width": 137.3828125,
 			"height": 25,
 			"seed": 445091457,
 			"groupIds": [
@@ -1290,7 +1290,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598360,
+			"updated": 1745328918450,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1305,8 +1305,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 799,
-			"versionNonce": 549007887,
+			"version": 802,
+			"versionNonce": 50247191,
 			"isDeleted": false,
 			"id": "CagpTcnD",
 			"fillStyle": "solid",
@@ -1319,7 +1319,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -980.1774653000886,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 162.77989196777344,
+			"width": 149.453125,
 			"height": 25,
 			"seed": 1831166497,
 			"groupIds": [
@@ -1333,7 +1333,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598360,
+			"updated": 1745328918450,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1348,8 +1348,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 764,
-			"versionNonce": 17906255,
+			"version": 767,
+			"versionNonce": 973118169,
 			"isDeleted": false,
 			"id": "oWl4juj8",
 			"fillStyle": "solid",
@@ -1362,7 +1362,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -948.5107986334218,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 164.01988220214844,
+			"width": 149.453125,
 			"height": 25,
 			"seed": 1030530415,
 			"groupIds": [
@@ -1376,7 +1376,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598360,
+			"updated": 1745328918450,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1391,8 +1391,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 781,
-			"versionNonce": 2092184207,
+			"version": 784,
+			"versionNonce": 1477303095,
 			"isDeleted": false,
 			"id": "LmMTUnT6",
 			"fillStyle": "solid",
@@ -1405,7 +1405,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -914.5107986334218,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 146.37989807128906,
+			"width": 149.453125,
 			"height": 25,
 			"seed": 173137615,
 			"groupIds": [
@@ -1419,7 +1419,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598360,
+			"updated": 1745328918450,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1434,8 +1434,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "line",
-			"version": 744,
-			"versionNonce": 296098511,
+			"version": 745,
+			"versionNonce": 1555683257,
 			"isDeleted": false,
 			"id": "GmkHuDpTAnLcd37K0xAb9",
 			"fillStyle": "solid",
@@ -1459,7 +1459,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714286598360,
+			"updated": 1745328918451,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1480,8 +1480,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 757,
-			"versionNonce": 920119535,
+			"version": 760,
+			"versionNonce": 1178295383,
 			"isDeleted": false,
 			"id": "tUNDJd1y",
 			"fillStyle": "solid",
@@ -1494,7 +1494,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -861.5107986334218,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 109.03996276855469,
+			"width": 100.908203125,
 			"height": 25,
 			"seed": 1768843727,
 			"groupIds": [
@@ -1503,7 +1503,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598360,
+			"updated": 1745328918451,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1518,8 +1518,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 757,
-			"versionNonce": 216724239,
+			"version": 760,
+			"versionNonce": 1392015513,
 			"isDeleted": false,
 			"id": "3EvBeqy6",
 			"fillStyle": "solid",
@@ -1532,7 +1532,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -1253.430945443743,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 358.383544921875,
+			"width": 294.4921875,
 			"height": 75,
 			"seed": 244473729,
 			"groupIds": [
@@ -1541,8 +1541,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598360,
-			"link": "[[II. Time Value of Money]]",
+			"updated": 1745328918451,
+			"link": "[[Chapter 02. Time Value of Money]]",
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
@@ -1556,8 +1556,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 3284,
-			"versionNonce": 1137866753,
+			"version": 3285,
+			"versionNonce": 1364965751,
 			"isDeleted": false,
 			"id": "jco5Do3MFbi45AaBnO1bp",
 			"fillStyle": "solid",
@@ -1581,7 +1581,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714286598825,
+			"updated": 1745328918451,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1610,8 +1610,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2018,
-			"versionNonce": 1250343759,
+			"version": 2019,
+			"versionNonce": 1315962233,
 			"isDeleted": false,
 			"id": "UjtjJBPRBpQ2e-Lt6B250",
 			"fillStyle": "solid",
@@ -1648,14 +1648,14 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598360,
+			"updated": 1745328918451,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1988,
-			"versionNonce": 1003518319,
+			"version": 1989,
+			"versionNonce": 246641303,
 			"isDeleted": false,
 			"id": "khvooPLm",
 			"fillStyle": "solid",
@@ -1677,7 +1677,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598360,
+			"updated": 1745328918451,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1692,8 +1692,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2021,
-			"versionNonce": 2143693231,
+			"version": 2022,
+			"versionNonce": 2120476249,
 			"isDeleted": false,
 			"id": "og5YbIVTh7DJ2Ptq64W5H",
 			"fillStyle": "solid",
@@ -1738,14 +1738,14 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598360,
+			"updated": 1745328918451,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1976,
-			"versionNonce": 1205017551,
+			"version": 1977,
+			"versionNonce": 1995900855,
 			"isDeleted": false,
 			"id": "tf8IG19A",
 			"fillStyle": "solid",
@@ -1767,7 +1767,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598360,
+			"updated": 1745328918451,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1782,8 +1782,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "rectangle",
-			"version": 1916,
-			"versionNonce": 171465263,
+			"version": 1917,
+			"versionNonce": 1571271481,
 			"isDeleted": false,
 			"id": "7Jh2Gs5O28vzhoRGctssY",
 			"fillStyle": "solid",
@@ -1824,14 +1824,14 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598360,
+			"updated": 1745328918451,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1890,
-			"versionNonce": 363543631,
+			"version": 1891,
+			"versionNonce": 2018179287,
 			"isDeleted": false,
 			"id": "5edk2t2X",
 			"fillStyle": "solid",
@@ -1853,7 +1853,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598360,
+			"updated": 1745328918451,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1868,8 +1868,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2073,
-			"versionNonce": 280812143,
+			"version": 2074,
+			"versionNonce": 1084154905,
 			"isDeleted": false,
 			"id": "zO8osEKNC_2orgW5LOXo0",
 			"fillStyle": "solid",
@@ -1902,14 +1902,14 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598360,
+			"updated": 1745328918452,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 2052,
-			"versionNonce": 271955087,
+			"version": 2053,
+			"versionNonce": 1212401143,
 			"isDeleted": false,
 			"id": "A96qDfMM",
 			"fillStyle": "solid",
@@ -1931,7 +1931,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598360,
+			"updated": 1745328918452,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1946,8 +1946,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2137,
-			"versionNonce": 808393935,
+			"version": 2138,
+			"versionNonce": 591198457,
 			"isDeleted": false,
 			"id": "YOlMq4_Rds61W9VkZAixa",
 			"fillStyle": "solid",
@@ -1984,14 +1984,14 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598361,
+			"updated": 1745328918452,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 2108,
-			"versionNonce": 1626385135,
+			"version": 2109,
+			"versionNonce": 1978003223,
 			"isDeleted": false,
 			"id": "xZHHCehN",
 			"fillStyle": "solid",
@@ -2013,7 +2013,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598361,
+			"updated": 1745328918452,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2028,8 +2028,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 1185,
-			"versionNonce": 983266575,
+			"version": 1188,
+			"versionNonce": 923103705,
 			"isDeleted": false,
 			"id": "FJ9rGuPX",
 			"fillStyle": "solid",
@@ -2042,7 +2042,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -1168.812167940282,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 44.05995178222656,
+			"width": 43.0078125,
 			"height": 25,
 			"seed": 1141051585,
 			"groupIds": [
@@ -2056,7 +2056,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598361,
+			"updated": 1745328918452,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2071,8 +2071,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 903,
-			"versionNonce": 58637647,
+			"version": 906,
+			"versionNonce": 1000731703,
 			"isDeleted": false,
 			"id": "5wx5pPhG",
 			"fillStyle": "solid",
@@ -2085,7 +2085,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -1163.6418612903817,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 16.439987182617188,
+			"width": 13.0078125,
 			"height": 25,
 			"seed": 1040455631,
 			"groupIds": [
@@ -2103,7 +2103,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598361,
+			"updated": 1745328918452,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2118,8 +2118,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 3049,
-			"versionNonce": 922954689,
+			"version": 3052,
+			"versionNonce": 822857401,
 			"isDeleted": false,
 			"id": "ewu_8Ixs3OfrsIwVstdc7",
 			"fillStyle": "solid",
@@ -2148,13 +2148,13 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "aEFuD8Xu"
 				}
 			],
-			"updated": 1714286598826,
+			"updated": 1745328918452,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "UjtjJBPRBpQ2e-Lt6B250",
-				"focus": 0.9228419695008553,
-				"gap": 1
+				"gap": 1,
+				"focus": 0.9228419695008553
 			},
 			"endBinding": {
 				"elementId": "5AEQ5P8C",
@@ -2181,8 +2181,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 755,
-			"versionNonce": 1155885999,
+			"version": 758,
+			"versionNonce": 292050263,
 			"isDeleted": false,
 			"id": "aEFuD8Xu",
 			"fillStyle": "solid",
@@ -2195,7 +2195,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -885.7904322593159,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 29.779983520507812,
+			"width": 32.9296875,
 			"height": 25,
 			"seed": 7226863,
 			"groupIds": [
@@ -2204,7 +2204,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598361,
+			"updated": 1745328918452,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2219,8 +2219,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 2895,
-			"versionNonce": 417984385,
+			"version": 2898,
+			"versionNonce": 1475579801,
 			"isDeleted": false,
 			"id": "anPsBIz0WK6-Ob0AvYlSN",
 			"fillStyle": "solid",
@@ -2249,13 +2249,13 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "jysQSMvn"
 				}
 			],
-			"updated": 1714286598826,
+			"updated": 1745328918452,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "og5YbIVTh7DJ2Ptq64W5H",
-				"focus": 0.9268963152616806,
-				"gap": 1
+				"gap": 1,
+				"focus": 0.9268963152616806
 			},
 			"endBinding": {
 				"elementId": "agrRlIH6",
@@ -2282,8 +2282,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 762,
-			"versionNonce": 1433635823,
+			"version": 765,
+			"versionNonce": 2122420855,
 			"isDeleted": false,
 			"id": "jysQSMvn",
 			"fillStyle": "solid",
@@ -2296,7 +2296,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -974.1071634963331,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 38.5999755859375,
+			"width": 32.9296875,
 			"height": 25,
 			"seed": 1840099343,
 			"groupIds": [
@@ -2305,7 +2305,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598361,
+			"updated": 1745328918452,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2320,8 +2320,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 2917,
-			"versionNonce": 524469057,
+			"version": 2920,
+			"versionNonce": 1374696569,
 			"isDeleted": false,
 			"id": "KN0lnsB8NwhqWCaWlplIE",
 			"fillStyle": "solid",
@@ -2350,13 +2350,13 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "Ts6wpyFC"
 				}
 			],
-			"updated": 1714286598826,
+			"updated": 1745328918452,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "og5YbIVTh7DJ2Ptq64W5H",
-				"focus": -1.1315535696525647,
-				"gap": 7.7044632760712375
+				"gap": 7.7044632760712375,
+				"focus": -1.1315535696525647
 			},
 			"endBinding": {
 				"elementId": "vzDHw7Ul",
@@ -2383,8 +2383,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 755,
-			"versionNonce": 1285987375,
+			"version": 758,
+			"versionNonce": 733358999,
 			"isDeleted": false,
 			"id": "Ts6wpyFC",
 			"fillStyle": "solid",
@@ -2397,7 +2397,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -944.1071634963331,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 37.97998046875,
+			"width": 32.9296875,
 			"height": 25,
 			"seed": 1874515503,
 			"groupIds": [
@@ -2406,7 +2406,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598361,
+			"updated": 1745328918452,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2421,8 +2421,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 3320,
-			"versionNonce": 325759777,
+			"version": 3321,
+			"versionNonce": 851787097,
 			"isDeleted": false,
 			"id": "iiYlEzpplpJ09D0JF-7Wo",
 			"fillStyle": "solid",
@@ -2451,7 +2451,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "DrDFtRXJ"
 				}
 			],
-			"updated": 1714286598826,
+			"updated": 1745328918453,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2480,8 +2480,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 768,
-			"versionNonce": 436378735,
+			"version": 769,
+			"versionNonce": 893034679,
 			"isDeleted": false,
 			"id": "DrDFtRXJ",
 			"fillStyle": "solid",
@@ -2494,7 +2494,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -1042.1071634963332,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 47.3399658203125,
+			"width": 52.24609375,
 			"height": 25,
 			"seed": 494811215,
 			"groupIds": [
@@ -2503,7 +2503,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598361,
+			"updated": 1745328918453,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2518,8 +2518,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 2316,
-			"versionNonce": 1910447841,
+			"version": 2319,
+			"versionNonce": 1237723705,
 			"isDeleted": false,
 			"id": "KntyylP-Uoa8wNfes5zhq",
 			"fillStyle": "solid",
@@ -2548,13 +2548,13 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "wzeAEyfi"
 				}
 			],
-			"updated": 1714286598826,
+			"updated": 1745328918453,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "zO8osEKNC_2orgW5LOXo0",
-				"focus": -1.13122915554504,
-				"gap": 6.726530676678152
+				"gap": 6.726530676678152,
+				"focus": -1.13122915554504
 			},
 			"endBinding": {
 				"elementId": "HdFz8PNL",
@@ -2581,8 +2581,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 767,
-			"versionNonce": 470518959,
+			"version": 770,
+			"versionNonce": 1018393047,
 			"isDeleted": false,
 			"id": "wzeAEyfi",
 			"fillStyle": "solid",
@@ -2595,7 +2595,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -1082.4404968296667,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 33.699981689453125,
+			"width": 33.466796875,
 			"height": 25,
 			"seed": 483415663,
 			"groupIds": [
@@ -2604,7 +2604,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598361,
+			"updated": 1745328918453,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2619,8 +2619,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 920,
-			"versionNonce": 460594895,
+			"version": 923,
+			"versionNonce": 802585369,
 			"isDeleted": false,
 			"id": "HdFz8PNL",
 			"fillStyle": "solid",
@@ -2633,7 +2633,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -1073.9404968296662,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 117.679931640625,
+			"width": 118.603515625,
 			"height": 25,
 			"seed": 1148825743,
 			"groupIds": [
@@ -2647,7 +2647,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598361,
+			"updated": 1745328918453,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2662,8 +2662,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 1195,
-			"versionNonce": 906491663,
+			"version": 1198,
+			"versionNonce": 993337079,
 			"isDeleted": false,
 			"id": "vzDHw7Ul",
 			"fillStyle": "solid",
@@ -2676,7 +2676,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -994.293438006137,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 163.39988708496094,
+			"width": 149.453125,
 			"height": 25,
 			"seed": 497198049,
 			"groupIds": [
@@ -2690,7 +2690,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598361,
+			"updated": 1745328918453,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2705,8 +2705,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 930,
-			"versionNonce": 1261616975,
+			"version": 933,
+			"versionNonce": 359247865,
 			"isDeleted": false,
 			"id": "agrRlIH6",
 			"fillStyle": "solid",
@@ -2719,7 +2719,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -955.9601046728036,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 155.19989013671875,
+			"width": 149.453125,
 			"height": 25,
 			"seed": 2117256879,
 			"groupIds": [
@@ -2733,7 +2733,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598361,
+			"updated": 1745328918453,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2748,8 +2748,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 936,
-			"versionNonce": 1979217807,
+			"version": 939,
+			"versionNonce": 323233815,
 			"isDeleted": false,
 			"id": "5AEQ5P8C",
 			"fillStyle": "solid",
@@ -2762,7 +2762,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -919.6071634963331,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 117.679931640625,
+			"width": 118.603515625,
 			"height": 25,
 			"seed": 1212514241,
 			"groupIds": [
@@ -2776,7 +2776,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598361,
+			"updated": 1745328918453,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2791,8 +2791,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "line",
-			"version": 897,
-			"versionNonce": 1616715727,
+			"version": 898,
+			"versionNonce": 1350781145,
 			"isDeleted": false,
 			"id": "Kh2B7rMvVE_a1cJHa_iKk",
 			"fillStyle": "solid",
@@ -2816,7 +2816,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714286598361,
+			"updated": 1745328918453,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2837,8 +2837,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 917,
-			"versionNonce": 40259055,
+			"version": 920,
+			"versionNonce": 1658129719,
 			"isDeleted": false,
 			"id": "dD5nQfQ1",
 			"fillStyle": "solid",
@@ -2851,7 +2851,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -859.5483399669214,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 109.03996276855469,
+			"width": 100.908203125,
 			"height": 25,
 			"seed": 1977737121,
 			"groupIds": [
@@ -2860,7 +2860,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598361,
+			"updated": 1745328918453,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2875,8 +2875,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 263,
-			"versionNonce": 56932367,
+			"version": 266,
+			"versionNonce": 716621241,
 			"isDeleted": false,
 			"id": "OFgRqXF2",
 			"fillStyle": "hachure",
@@ -2889,7 +2889,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -1258.346736176314,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 344.34356689453125,
+			"width": 285.751953125,
 			"height": 75,
 			"seed": 51017,
 			"groupIds": [
@@ -2898,8 +2898,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286598361,
-			"link": "[[II. Time Value of Money]]",
+			"updated": 1745328918454,
+			"link": "[[Chapter 02. Time Value of Money]]",
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
@@ -2913,8 +2913,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 175,
-			"versionNonce": 1230036527,
+			"version": 178,
+			"versionNonce": 357322327,
 			"isDeleted": false,
 			"id": "kHWC7Q6o",
 			"fillStyle": "solid",
@@ -2927,7 +2927,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -1040.0289036788317,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 140.13990783691406,
+			"width": 137.3828125,
 			"height": 25,
 			"seed": 1255235855,
 			"groupIds": [
@@ -2941,7 +2941,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286598361,
+			"updated": 1745328918454,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2956,8 +2956,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 4138,
-			"versionNonce": 494356641,
+			"version": 4139,
+			"versionNonce": 1864869529,
 			"isDeleted": false,
 			"id": "nKmUb-caYS50cOo_UgFRF",
 			"fillStyle": "solid",
@@ -2981,7 +2981,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714286619256,
+			"updated": 1745328918454,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3010,8 +3010,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2268,
-			"versionNonce": 391492239,
+			"version": 2269,
+			"versionNonce": 897477495,
 			"isDeleted": false,
 			"id": "Z7B0zxXKRKfztuEdrfwJW",
 			"fillStyle": "solid",
@@ -3044,14 +3044,14 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "Jw9IBFOu"
 				}
 			],
-			"updated": 1714286617280,
+			"updated": 1745328918454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 2239,
-			"versionNonce": 1514047663,
+			"version": 2240,
+			"versionNonce": 948530041,
 			"isDeleted": false,
 			"id": "Jw9IBFOu",
 			"fillStyle": "solid",
@@ -3073,7 +3073,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286617280,
+			"updated": 1745328918454,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3088,8 +3088,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2270,
-			"versionNonce": 300391119,
+			"version": 2271,
+			"versionNonce": 2142233751,
 			"isDeleted": false,
 			"id": "DGyuiZg_3VNRT-5SURUK6",
 			"fillStyle": "solid",
@@ -3126,14 +3126,14 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "kNeBAUSQ"
 				}
 			],
-			"updated": 1714286617280,
+			"updated": 1745328918454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 2227,
-			"versionNonce": 854157551,
+			"version": 2228,
+			"versionNonce": 2132776025,
 			"isDeleted": false,
 			"id": "kNeBAUSQ",
 			"fillStyle": "solid",
@@ -3155,7 +3155,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286617280,
+			"updated": 1745328918454,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3170,8 +3170,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2166,
-			"versionNonce": 571029807,
+			"version": 2167,
+			"versionNonce": 865417655,
 			"isDeleted": false,
 			"id": "7gsCJWbDRX4rytCu4LGpw",
 			"fillStyle": "solid",
@@ -3208,14 +3208,14 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "AGOIBInG"
 				}
 			],
-			"updated": 1714286617280,
+			"updated": 1745328918454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 2141,
-			"versionNonce": 1577597775,
+			"version": 2142,
+			"versionNonce": 1723703609,
 			"isDeleted": false,
 			"id": "AGOIBInG",
 			"fillStyle": "solid",
@@ -3237,7 +3237,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286617280,
+			"updated": 1745328918454,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3252,8 +3252,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2323,
-			"versionNonce": 916386703,
+			"version": 2324,
+			"versionNonce": 642968279,
 			"isDeleted": false,
 			"id": "XpDdCUadSf3bTFM9CqvG0",
 			"fillStyle": "solid",
@@ -3282,14 +3282,14 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "tiA6w76g"
 				}
 			],
-			"updated": 1714286617280,
+			"updated": 1745328918454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 2305,
-			"versionNonce": 548907439,
+			"version": 2307,
+			"versionNonce": 1288114713,
 			"isDeleted": false,
 			"id": "tiA6w76g",
 			"fillStyle": "solid",
@@ -3299,7 +3299,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"opacity": 100,
 			"angle": 0,
 			"x": -857.8776719290321,
-			"y": -676.2712196102672,
+			"y": -676.2712196102673,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 49.679962158203125,
@@ -3311,7 +3311,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286617280,
+			"updated": 1745328918454,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3326,8 +3326,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2387,
-			"versionNonce": 1318362063,
+			"version": 2388,
+			"versionNonce": 343767031,
 			"isDeleted": false,
 			"id": "MxzdpZ-Wlj0Px0Fc3gv3N",
 			"fillStyle": "solid",
@@ -3360,14 +3360,14 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "pJG2XhM7"
 				}
 			],
-			"updated": 1714286617280,
+			"updated": 1745328918454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 2359,
-			"versionNonce": 877545967,
+			"version": 2360,
+			"versionNonce": 372205305,
 			"isDeleted": false,
 			"id": "pJG2XhM7",
 			"fillStyle": "solid",
@@ -3389,7 +3389,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286617280,
+			"updated": 1745328918455,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3404,8 +3404,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 1436,
-			"versionNonce": 1718213167,
+			"version": 1439,
+			"versionNonce": 874078487,
 			"isDeleted": false,
 			"id": "hrYhDq9A",
 			"fillStyle": "solid",
@@ -3418,7 +3418,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -675.3419971447413,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 44.05995178222656,
+			"width": 43.0078125,
 			"height": 25,
 			"seed": 2093173327,
 			"groupIds": [
@@ -3432,7 +3432,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286617280,
+			"updated": 1745328918455,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3447,8 +3447,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 1152,
-			"versionNonce": 781081199,
+			"version": 1155,
+			"versionNonce": 1031413721,
 			"isDeleted": false,
 			"id": "SUnCHJZP",
 			"fillStyle": "solid",
@@ -3461,7 +3461,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -670.171690494841,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 16.439987182617188,
+			"width": 13.0078125,
 			"height": 25,
 			"seed": 464029217,
 			"groupIds": [
@@ -3479,7 +3479,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286617280,
+			"updated": 1745328918455,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3494,8 +3494,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 3731,
-			"versionNonce": 249844833,
+			"version": 3734,
+			"versionNonce": 110831159,
 			"isDeleted": false,
 			"id": "Y0Qd8LBbMdFUQ3n9cJilo",
 			"fillStyle": "solid",
@@ -3524,13 +3524,13 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "YegYngVN"
 				}
 			],
-			"updated": 1714286619257,
+			"updated": 1745328918455,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "DGyuiZg_3VNRT-5SURUK6",
-				"focus": 1.295040531186601,
-				"gap": 11.438685999069321
+				"gap": 11.438685999069321,
+				"focus": 1.295040531186601
 			},
 			"endBinding": {
 				"elementId": "Ei3jRIW3",
@@ -3557,8 +3557,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 956,
-			"versionNonce": 1241656047,
+			"version": 959,
+			"versionNonce": 549108921,
 			"isDeleted": false,
 			"id": "YegYngVN",
 			"fillStyle": "solid",
@@ -3571,7 +3571,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -505.089492233006,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 29.779983520507812,
+			"width": 32.9296875,
 			"height": 25,
 			"seed": 1205148161,
 			"groupIds": [
@@ -3580,7 +3580,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286617280,
+			"updated": 1745328918455,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3595,8 +3595,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 3458,
-			"versionNonce": 500264993,
+			"version": 3461,
+			"versionNonce": 1793541975,
 			"isDeleted": false,
 			"id": "UqhEk-xZLSnglatX-jBVN",
 			"fillStyle": "solid",
@@ -3605,12 +3605,12 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -970.8970802307333,
-			"y": -644.7853974148443,
+			"x": -970.8664115009748,
+			"y": -644.9663979823351,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 149.43202094386095,
-			"height": 102.4160631593547,
+			"width": 149.46268967361948,
+			"height": 102.59706372684556,
 			"seed": 522338959,
 			"groupIds": [
 				"QXNqd9tVa6SyTVrTbMKdt"
@@ -3625,13 +3625,13 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "sbGmplNO"
 				}
 			],
-			"updated": 1714286619257,
+			"updated": 1745328918455,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "7gsCJWbDRX4rytCu4LGpw",
-				"focus": 0.9567338581321948,
-				"gap": 4.755957417053651
+				"gap": 4.755957417053651,
+				"focus": 0.9567338581321948
 			},
 			"endBinding": {
 				"elementId": "DdMlMQae",
@@ -3647,19 +3647,19 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					0
 				],
 				[
-					-15.977420009110688,
-					94.29546353758138
+					-16.00808873886922,
+					94.47646410507224
 				],
 				[
-					-149.43202094386095,
-					102.4160631593547
+					-149.46268967361948,
+					102.59706372684556
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 962,
-			"versionNonce": 928611119,
+			"version": 965,
+			"versionNonce": 261406105,
 			"isDeleted": false,
 			"id": "sbGmplNO",
 			"fillStyle": "solid",
@@ -3672,7 +3672,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -531.406223470023,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 38.5999755859375,
+			"width": 32.9296875,
 			"height": 25,
 			"seed": 218378721,
 			"groupIds": [
@@ -3681,7 +3681,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286617280,
+			"updated": 1745328918455,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3696,8 +3696,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 3614,
-			"versionNonce": 1434098657,
+			"version": 3615,
+			"versionNonce": 1867662455,
 			"isDeleted": false,
 			"id": "R0vhKxtnoasjUsiwUlqQE",
 			"fillStyle": "solid",
@@ -3726,7 +3726,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "K0uxnTGP"
 				}
 			],
-			"updated": 1714286619257,
+			"updated": 1745328918455,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3759,8 +3759,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 956,
-			"versionNonce": 1858714479,
+			"version": 957,
+			"versionNonce": 423338617,
 			"isDeleted": false,
 			"id": "K0uxnTGP",
 			"fillStyle": "solid",
@@ -3773,7 +3773,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -572.4062234700232,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 37.97998046875,
+			"width": 32.9296875,
 			"height": 25,
 			"seed": 809848257,
 			"groupIds": [
@@ -3782,7 +3782,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286617280,
+			"updated": 1745328918455,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3797,8 +3797,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 4208,
-			"versionNonce": 572250017,
+			"version": 4211,
+			"versionNonce": 1671470487,
 			"isDeleted": false,
 			"id": "I8dT0eVnII5ReJHGjXuyE",
 			"fillStyle": "solid",
@@ -3807,12 +3807,12 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -799.228924740914,
-			"y": -644.7940134362939,
+			"x": -799.185576094594,
+			"y": -644.987305967304,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 318.34452739061567,
-			"height": 190.4199631908603,
+			"width": 318.3878760369356,
+			"height": 190.61325572187042,
 			"seed": 1540369103,
 			"groupIds": [
 				"QXNqd9tVa6SyTVrTbMKdt"
@@ -3827,13 +3827,13 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "dU9qSQcx"
 				}
 			],
-			"updated": 1714286619257,
+			"updated": 1745328918455,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "MxzdpZ-Wlj0Px0Fc3gv3N",
-				"focus": 0.8838595954926279,
-				"gap": 4.4398039060879455
+				"gap": 4.4398039060879455,
+				"focus": 0.8838595954926279
 			},
 			"endBinding": {
 				"elementId": "gHf6yyeY",
@@ -3849,19 +3849,19 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					0
 				],
 				[
-					-38.35145785187103,
-					171.0099619119722
+					-38.394806498190974,
+					171.2032544429823
 				],
 				[
-					-318.34452739061567,
-					190.4199631908603
+					-318.3878760369356,
+					190.61325572187042
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 967,
-			"versionNonce": 316074927,
+			"version": 970,
+			"versionNonce": 443738969,
 			"isDeleted": false,
 			"id": "dU9qSQcx",
 			"fillStyle": "solid",
@@ -3874,7 +3874,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -534.406223470023,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 47.3399658203125,
+			"width": 52.24609375,
 			"height": 25,
 			"seed": 683142561,
 			"groupIds": [
@@ -3883,7 +3883,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286617280,
+			"updated": 1745328918455,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3898,8 +3898,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 2692,
-			"versionNonce": 383925121,
+			"version": 2693,
+			"versionNonce": 721867447,
 			"isDeleted": false,
 			"id": "IK5YDZvSSkfiaU7E7UPqh",
 			"fillStyle": "solid",
@@ -3928,7 +3928,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "gslJbZTp"
 				}
 			],
-			"updated": 1714286619257,
+			"updated": 1745328918456,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3957,8 +3957,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 966,
-			"versionNonce": 1963265007,
+			"version": 967,
+			"versionNonce": 193861689,
 			"isDeleted": false,
 			"id": "gslJbZTp",
 			"fillStyle": "solid",
@@ -3971,7 +3971,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -634.4062234700232,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 33.699981689453125,
+			"width": 33.466796875,
 			"height": 25,
 			"seed": 1569427841,
 			"groupIds": [
@@ -3980,7 +3980,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286617280,
+			"updated": 1745328918456,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3995,8 +3995,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 1108,
-			"versionNonce": 1870378511,
+			"version": 1111,
+			"versionNonce": 1311335383,
 			"isDeleted": false,
 			"id": "grR3yENI",
 			"fillStyle": "solid",
@@ -4009,7 +4009,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -765.0571395111135,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 348.383544921875,
+			"width": 289.013671875,
 			"height": 75,
 			"seed": 2122991873,
 			"groupIds": [
@@ -4018,8 +4018,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286617280,
-			"link": "[[II. Time Value of Money]]",
+			"updated": 1745328918456,
+			"link": "[[Chapter 02. Time Value of Money]]",
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
@@ -4033,8 +4033,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 406,
-			"versionNonce": 1440226351,
+			"version": 409,
+			"versionNonce": 242264345,
 			"isDeleted": false,
 			"id": "Ei3jRIW3",
 			"fillStyle": "solid",
@@ -4047,7 +4047,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -595.6850011049423,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 123.43994140625,
+			"width": 122.998046875,
 			"height": 25,
 			"seed": 669446177,
 			"groupIds": [
@@ -4061,7 +4061,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286617280,
+			"updated": 1745328918456,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4076,8 +4076,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 447,
-			"versionNonce": 617880687,
+			"version": 450,
+			"versionNonce": 1293734135,
 			"isDeleted": false,
 			"id": "DdMlMQae",
 			"fillStyle": "solid",
@@ -4090,7 +4090,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -552.6294455493868,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 131.07992553710938,
+			"width": 117.51953125,
 			"height": 25,
 			"seed": 1941082383,
 			"groupIds": [
@@ -4104,7 +4104,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286617280,
+			"updated": 1745328918456,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4119,8 +4119,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 451,
-			"versionNonce": 1081937071,
+			"version": 454,
+			"versionNonce": 1015946745,
 			"isDeleted": false,
 			"id": "vFRQ5bEu",
 			"fillStyle": "solid",
@@ -4133,7 +4133,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -509.29611221605353,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 139.83993530273438,
+			"width": 122.998046875,
 			"height": 25,
 			"seed": 525203905,
 			"groupIds": [
@@ -4147,7 +4147,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286617280,
+			"updated": 1745328918456,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4162,8 +4162,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 460,
-			"versionNonce": 911666415,
+			"version": 463,
+			"versionNonce": 828742167,
 			"isDeleted": false,
 			"id": "gHf6yyeY",
 			"fillStyle": "solid",
@@ -4176,7 +4176,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -463.740556660498,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 173.61988830566406,
+			"width": 173.701171875,
 			"height": 25,
 			"seed": 1896059297,
 			"groupIds": [
@@ -4190,7 +4190,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286617280,
+			"updated": 1745328918456,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4205,8 +4205,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 474,
-			"versionNonce": 48610607,
+			"version": 477,
+			"versionNonce": 887748313,
 			"isDeleted": false,
 			"id": "3f4C6aUr",
 			"fillStyle": "solid",
@@ -4219,7 +4219,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -420.4072233271647,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 131.27993774414062,
+			"width": 124.072265625,
 			"height": 25,
 			"seed": 1091599023,
 			"groupIds": [
@@ -4233,7 +4233,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286617280,
+			"updated": 1745328918456,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4248,8 +4248,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "line",
-			"version": 357,
-			"versionNonce": 1370324335,
+			"version": 358,
+			"versionNonce": 1610104631,
 			"isDeleted": false,
 			"id": "iBgs3PTvozyS1ODHYgU5n",
 			"fillStyle": "solid",
@@ -4273,7 +4273,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714286617280,
+			"updated": 1745328918456,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4294,8 +4294,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 351,
-			"versionNonce": 1360656271,
+			"version": 354,
+			"versionNonce": 1779938233,
 			"isDeleted": false,
 			"id": "KWQ1MleN",
 			"fillStyle": "solid",
@@ -4308,7 +4308,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -367.9072233271646,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 110.77995300292969,
+			"width": 102.34375,
 			"height": 25,
 			"seed": 908264623,
 			"groupIds": [
@@ -4317,7 +4317,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286617280,
+			"updated": 1745328918456,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4332,8 +4332,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 4125,
-			"versionNonce": 1291399841,
+			"version": 4126,
+			"versionNonce": 725172311,
 			"isDeleted": false,
 			"id": "yQJM0Qf3-Dg33OSBve7nk",
 			"fillStyle": "solid",
@@ -4357,7 +4357,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714286614976,
+			"updated": 1745328918456,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4386,8 +4386,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2276,
-			"versionNonce": 787589263,
+			"version": 2277,
+			"versionNonce": 809161881,
 			"isDeleted": false,
 			"id": "fS89aitoaNy0cwiM68KAN",
 			"fillStyle": "solid",
@@ -4424,14 +4424,14 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286614751,
+			"updated": 1745328918456,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 2243,
-			"versionNonce": 1189854895,
+			"version": 2244,
+			"versionNonce": 620567927,
 			"isDeleted": false,
 			"id": "CjpyDDTu",
 			"fillStyle": "solid",
@@ -4453,7 +4453,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286614751,
+			"updated": 1745328918457,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4468,8 +4468,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2277,
-			"versionNonce": 528355535,
+			"version": 2278,
+			"versionNonce": 184998265,
 			"isDeleted": false,
 			"id": "mlN5FqcKJTiTxWEg7Yo7_",
 			"fillStyle": "solid",
@@ -4514,14 +4514,14 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286614751,
+			"updated": 1745328918457,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 2231,
-			"versionNonce": 1916870383,
+			"version": 2232,
+			"versionNonce": 814241431,
 			"isDeleted": false,
 			"id": "7IkSRcad",
 			"fillStyle": "solid",
@@ -4543,7 +4543,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286614751,
+			"updated": 1745328918457,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4558,8 +4558,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2172,
-			"versionNonce": 1802202927,
+			"version": 2173,
+			"versionNonce": 1002390105,
 			"isDeleted": false,
 			"id": "uBmS1UFJPDAiXlMqKPqHC",
 			"fillStyle": "solid",
@@ -4600,14 +4600,14 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286614751,
+			"updated": 1745328918457,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 2145,
-			"versionNonce": 1773384015,
+			"version": 2146,
+			"versionNonce": 1418685367,
 			"isDeleted": false,
 			"id": "1WBjNDpj",
 			"fillStyle": "solid",
@@ -4629,7 +4629,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286614751,
+			"updated": 1745328918457,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4644,8 +4644,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2329,
-			"versionNonce": 442821007,
+			"version": 2330,
+			"versionNonce": 255299385,
 			"isDeleted": false,
 			"id": "OOoS52NkdpXWMDCnSaXEV",
 			"fillStyle": "solid",
@@ -4678,14 +4678,14 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286614751,
+			"updated": 1745328918457,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 2311,
-			"versionNonce": 1146019759,
+			"version": 2313,
+			"versionNonce": 1295441111,
 			"isDeleted": false,
 			"id": "ZCbdv7bt",
 			"fillStyle": "solid",
@@ -4694,8 +4694,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -176.48878304014283,
-			"y": -686.1601084991559,
+			"x": -176.4887830401428,
+			"y": -686.160108499156,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 49.679962158203125,
@@ -4707,7 +4707,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286614751,
+			"updated": 1745328918457,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4722,8 +4722,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2393,
-			"versionNonce": 634720719,
+			"version": 2394,
+			"versionNonce": 1809006617,
 			"isDeleted": false,
 			"id": "UDJUyJcDL2wUTHeQLlcCU",
 			"fillStyle": "solid",
@@ -4760,14 +4760,14 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286614751,
+			"updated": 1745328918457,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 2363,
-			"versionNonce": 2014314479,
+			"version": 2364,
+			"versionNonce": 1578314231,
 			"isDeleted": false,
 			"id": "T05hSTcW",
 			"fillStyle": "solid",
@@ -4789,7 +4789,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286614751,
+			"updated": 1745328918457,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4804,8 +4804,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 1440,
-			"versionNonce": 565579823,
+			"version": 1443,
+			"versionNonce": 528864505,
 			"isDeleted": false,
 			"id": "ectN6qlN",
 			"fillStyle": "solid",
@@ -4818,7 +4818,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -685.23088603363,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 44.05995178222656,
+			"width": 43.0078125,
 			"height": 25,
 			"seed": 278832431,
 			"groupIds": [
@@ -4832,7 +4832,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286614751,
+			"updated": 1745328918457,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4847,8 +4847,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 1157,
-			"versionNonce": 1623527535,
+			"version": 1160,
+			"versionNonce": 1680397079,
 			"isDeleted": false,
 			"id": "vOvPleiG",
 			"fillStyle": "solid",
@@ -4861,7 +4861,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -680.0605793837296,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 16.439987182617188,
+			"width": 13.0078125,
 			"height": 25,
 			"seed": 1240254785,
 			"groupIds": [
@@ -4883,7 +4883,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286614751,
+			"updated": 1745328918457,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4898,8 +4898,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 3624,
-			"versionNonce": 1398552193,
+			"version": 3625,
+			"versionNonce": 1842531801,
 			"isDeleted": false,
 			"id": "bP86BxrkYmJYdj1H5X3VB",
 			"fillStyle": "solid",
@@ -4928,7 +4928,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "3srCuD58"
 				}
 			],
-			"updated": 1714286614977,
+			"updated": 1745328918457,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4957,8 +4957,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 959,
-			"versionNonce": 137224431,
+			"version": 960,
+			"versionNonce": 669800503,
 			"isDeleted": false,
 			"id": "3srCuD58",
 			"fillStyle": "solid",
@@ -4971,7 +4971,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -517.4783811218947,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 29.779983520507812,
+			"width": 32.9296875,
 			"height": 25,
 			"seed": 652474657,
 			"groupIds": [
@@ -4980,7 +4980,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286614751,
+			"updated": 1745328918458,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4995,8 +4995,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 3664,
-			"versionNonce": 420432449,
+			"version": 3667,
+			"versionNonce": 1573759673,
 			"isDeleted": false,
 			"id": "O_zfoqcLiSPK0NB2Eb-c4",
 			"fillStyle": "solid",
@@ -5005,12 +5005,12 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -345.1364750306931,
-			"y": -649.525653152124,
+			"x": -345.1151691746254,
+			"y": -649.698345361053,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 125.87553986419721,
-			"height": 94.13267329149471,
+			"width": 125.89684572026488,
+			"height": 94.3053655004237,
 			"seed": 608986479,
 			"groupIds": [
 				"_uCIRfsID5_Ov9bTSaLhY"
@@ -5025,13 +5025,13 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "dnc4NyBp"
 				}
 			],
-			"updated": 1714286614977,
+			"updated": 1745328918458,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "mlN5FqcKJTiTxWEg7Yo7_",
-				"focus": 0.871882813890691,
-				"gap": 5.868871861805019
+				"gap": 5.868871861805019,
+				"focus": 0.871882813890691
 			},
 			"endBinding": {
 				"elementId": "UOq3ovgg",
@@ -5047,19 +5047,19 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					0
 				],
 				[
-					-9.682469653594808,
-					78.48016371930572
+					-9.703775509662478,
+					78.65285592823471
 				],
 				[
-					-125.87553986419721,
-					94.13267329149471
+					-125.89684572026488,
+					94.3053655004237
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 965,
-			"versionNonce": 1519366447,
+			"version": 968,
+			"versionNonce": 1866611031,
 			"isDeleted": false,
 			"id": "dnc4NyBp",
 			"fillStyle": "solid",
@@ -5072,7 +5072,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -543.7951123589116,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 38.5999755859375,
+			"width": 32.9296875,
 			"height": 25,
 			"seed": 1630153985,
 			"groupIds": [
@@ -5081,7 +5081,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286614751,
+			"updated": 1745328918458,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5096,8 +5096,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 3692,
-			"versionNonce": 408972801,
+			"version": 3695,
+			"versionNonce": 1209658265,
 			"isDeleted": false,
 			"id": "Bwh4pOkVD8jJxv_VZV2Ra",
 			"fillStyle": "solid",
@@ -5106,12 +5106,12 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -287.15285937300393,
-			"y": -649.389555412485,
+			"x": -287.0806985679901,
+			"y": -649.8593725932965,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 180.47213380227117,
-			"height": 144.55028380205525,
+			"width": 180.544294607285,
+			"height": 145.0201009828667,
 			"seed": 1067179919,
 			"groupIds": [
 				"_uCIRfsID5_Ov9bTSaLhY"
@@ -5126,13 +5126,13 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "B5UXzPmM"
 				}
 			],
-			"updated": 1714286614977,
+			"updated": 1745328918458,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "uBmS1UFJPDAiXlMqKPqHC",
-				"focus": 0.8687186294770235,
-				"gap": 6.0049696014440315
+				"gap": 6.0049696014440315,
+				"focus": 0.8687186294770235
 			},
 			"endBinding": {
 				"elementId": "jez796gF",
@@ -5148,19 +5148,19 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					0
 				],
 				[
-					-19.68569315442153,
-					128.1675953914313
+					-19.75785395943535,
+					128.63741257224274
 				],
 				[
-					-180.47213380227117,
-					144.55028380205525
+					-180.544294607285,
+					145.0201009828667
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 959,
-			"versionNonce": 376074607,
+			"version": 962,
+			"versionNonce": 1333720695,
 			"isDeleted": false,
 			"id": "B5UXzPmM",
 			"fillStyle": "solid",
@@ -5173,7 +5173,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -584.7951123589119,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 37.97998046875,
+			"width": 32.9296875,
 			"height": 25,
 			"seed": 4121825,
 			"groupIds": [
@@ -5182,7 +5182,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286614751,
+			"updated": 1745328918458,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5197,8 +5197,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 4423,
-			"versionNonce": 1829478849,
+			"version": 4424,
+			"versionNonce": 619384953,
 			"isDeleted": false,
 			"id": "UqBZkr6tmHM0Hb4y_MlP1",
 			"fillStyle": "solid",
@@ -5227,7 +5227,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "GZptFWsB"
 				}
 			],
-			"updated": 1714286614977,
+			"updated": 1745328918458,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5260,8 +5260,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 971,
-			"versionNonce": 104997295,
+			"version": 972,
+			"versionNonce": 1063718807,
 			"isDeleted": false,
 			"id": "GZptFWsB",
 			"fillStyle": "solid",
@@ -5274,7 +5274,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -506.6729404132104,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 47.3399658203125,
+			"width": 52.24609375,
 			"height": 25,
 			"seed": 1873912001,
 			"groupIds": [
@@ -5283,7 +5283,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286614751,
+			"updated": 1745328918458,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5298,8 +5298,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "arrow",
-			"version": 3025,
-			"versionNonce": 1942807937,
+			"version": 3028,
+			"versionNonce": 436509017,
 			"isDeleted": false,
 			"id": "DCSWkH16JpplmSwPWfIcy",
 			"fillStyle": "solid",
@@ -5308,12 +5308,12 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -114.26664253906193,
-			"y": -649.3599175688587,
+			"x": -114.25748638637106,
+			"y": -649.4201038742751,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 350.4538950786319,
-			"height": 246.41398942799594,
+			"width": 350.46305123132277,
+			"height": 246.47417573341238,
 			"seed": 1447462863,
 			"groupIds": [
 				"_uCIRfsID5_Ov9bTSaLhY"
@@ -5328,13 +5328,13 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"id": "5gNALUjX"
 				}
 			],
-			"updated": 1714286614977,
+			"updated": 1745328918458,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "UDJUyJcDL2wUTHeQLlcCU",
-				"focus": 0.8182374551081328,
-				"gap": 6.135179439028661
+				"gap": 6.135179439028661,
+				"focus": 0.8182374551081328
 			},
 			"endBinding": {
 				"elementId": "8qlFPWjO",
@@ -5350,19 +5350,19 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					0
 				],
 				[
-					-31.944459007971147,
-					209.981094802707
+					-31.953615160662025,
+					210.04128110812343
 				],
 				[
-					-350.4538950786319,
-					246.41398942799594
+					-350.46305123132277,
+					246.47417573341238
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 969,
-			"versionNonce": 597344751,
+			"version": 972,
+			"versionNonce": 1764689079,
 			"isDeleted": false,
 			"id": "5gNALUjX",
 			"fillStyle": "solid",
@@ -5375,7 +5375,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -646.7951123589119,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 33.699981689453125,
+			"width": 33.466796875,
 			"height": 25,
 			"seed": 2099372193,
 			"groupIds": [
@@ -5384,7 +5384,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286614751,
+			"updated": 1745328918458,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5399,8 +5399,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 1125,
-			"versionNonce": 1844096015,
+			"version": 1128,
+			"versionNonce": 1220150841,
 			"isDeleted": false,
 			"id": "7PjscKCr",
 			"fillStyle": "solid",
@@ -5413,7 +5413,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -774.9460284000022,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 344.34356689453125,
+			"width": 285.751953125,
 			"height": 75,
 			"seed": 1189262831,
 			"groupIds": [
@@ -5422,8 +5422,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286614751,
-			"link": "[[II. Time Value of Money]]",
+			"updated": 1745328918458,
+			"link": "[[Chapter 02. Time Value of Money]]",
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
@@ -5437,8 +5437,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 551,
-			"versionNonce": 1459114543,
+			"version": 554,
+			"versionNonce": 1014715863,
 			"isDeleted": false,
 			"id": "Bf5JYY8Q",
 			"fillStyle": "solid",
@@ -5451,7 +5451,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -610.9072233271645,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 39.77998352050781,
+			"width": 38.408203125,
 			"height": 25,
 			"seed": 373236865,
 			"groupIds": [
@@ -5465,7 +5465,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286614751,
+			"updated": 1745328918458,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5480,8 +5480,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 498,
-			"versionNonce": 937349743,
+			"version": 501,
+			"versionNonce": 1542379289,
 			"isDeleted": false,
 			"id": "UOq3ovgg",
 			"fillStyle": "solid",
@@ -5494,7 +5494,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -570.5183344382754,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 105.95994567871094,
+			"width": 93.056640625,
 			"height": 25,
 			"seed": 1276387343,
 			"groupIds": [
@@ -5508,7 +5508,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286614751,
+			"updated": 1745328918458,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5523,8 +5523,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 485,
-			"versionNonce": 1288848047,
+			"version": 488,
+			"versionNonce": 1080066807,
 			"isDeleted": false,
 			"id": "jez796gF",
 			"fillStyle": "solid",
@@ -5537,7 +5537,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -516.5183344382755,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 140.45993041992188,
+			"width": 122.998046875,
 			"height": 25,
 			"seed": 1187572833,
 			"groupIds": [
@@ -5551,7 +5551,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286614751,
+			"updated": 1745328918459,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5566,8 +5566,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 527,
-			"versionNonce": 1263969007,
+			"version": 530,
+			"versionNonce": 1444318201,
 			"isDeleted": false,
 			"id": "gyarazMM",
 			"fillStyle": "solid",
@@ -5580,7 +5580,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -462.9627788827201,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 182.43988037109375,
+			"width": 173.701171875,
 			"height": 25,
 			"seed": 399722031,
 			"groupIds": [
@@ -5594,7 +5594,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286614751,
+			"updated": 1745328918459,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5609,8 +5609,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 535,
-			"versionNonce": 1475343151,
+			"version": 538,
+			"versionNonce": 627248151,
 			"isDeleted": false,
 			"id": "8qlFPWjO",
 			"fillStyle": "solid",
@@ -5623,7 +5623,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -411.62944554938673,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 159.9799041748047,
+			"width": 154.921875,
 			"height": 25,
 			"seed": 1989064769,
 			"groupIds": [
@@ -5637,7 +5637,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714286614751,
+			"updated": 1745328918459,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5652,8 +5652,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "line",
-			"version": 400,
-			"versionNonce": 1176646511,
+			"version": 401,
+			"versionNonce": 523543769,
 			"isDeleted": false,
 			"id": "alhy20ZP36N3IsawTH1ny",
 			"fillStyle": "solid",
@@ -5677,7 +5677,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714286614751,
+			"updated": 1745328918459,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5698,8 +5698,8 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		},
 		{
 			"type": "text",
-			"version": 388,
-			"versionNonce": 25685391,
+			"version": 391,
+			"versionNonce": 393703735,
 			"isDeleted": false,
 			"id": "tczN6e1l",
 			"fillStyle": "solid",
@@ -5712,7 +5712,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"y": -352.46277888272004,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 110.77995300292969,
+			"width": 102.34375,
 			"height": 25,
 			"seed": 1735395361,
 			"groupIds": [
@@ -5721,7 +5721,7 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714286614751,
+			"updated": 1745328918459,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5732,6 +5732,71 @@ grR3yENI: [[Module 02. Time Value of Money]]
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "SUM = PVA",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "HNKcd-3OJc8Xvg394kXlO",
+			"type": "rectangle",
+			"x": -737.2348009999547,
+			"y": -1193.5970722643424,
+			"width": 1.2307504507210751,
+			"height": 18.461538461538566,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 460962551,
+			"version": 5,
+			"versionNonce": 1390191033,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1745328918459,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "FxiKpVsM",
+			"type": "text",
+			"x": -896.311761636974,
+			"y": -1203.7509278082125,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 568696247,
+			"version": 2,
+			"versionNonce": 1438871065,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1745329266400,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "",
 			"lineHeight": 1.25
 		}
 	],
@@ -5750,10 +5815,10 @@ grR3yENI: [[Module 02. Time Value of Money]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1633.8960261061945,
-		"scrollY": 1712.6449721759818,
+		"scrollX": 1341.6963770215893,
+		"scrollY": 1371.28939169418,
 		"zoom": {
-			"value": 0.45
+			"value": 0.65
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

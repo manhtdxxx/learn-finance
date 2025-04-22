@@ -13,9 +13,9 @@
 	- Việc làm, phúc lợi cho nhân viên
 	- Lợi ích của cổ đông và xã hội
 ### 1.3 Quyết định
-1. **Investment Decision** `quan trọng nhất trong 3`
-	- Chủ yếu liên quan đến việc hình thành *TSCĐ* --> đưa ra quyết định có nên thực hiện một dự án đầu tư dài hạn hay không, đa dạng về quy mô và thời gian
-2. **Financing Decision**
+1. **Financing Decision**
+	[[Chapter 04. Sources of Financing]]
+	[[Chapter 05. Capital & Leverage]]
 	- Lựa chọn nguồn vốn (từ vốn chủ sở hữu hay đi vay) cho việc đầu tư
 	- Bao gồm :
 		- Quyết định huy động nguồn vốn ngắn hạn
@@ -23,8 +23,13 @@
 		- Quyết định *cấu trúc nguồn vốn* (VCSH và Nợ) `<< quan trọng nhất >>`
 			- Nhiều nợ sẽ mất khả năng thanh khoản
 			- Nhiều VCSH sẽ pha loãng thu nhập và cổ phần của các cổ đông
-1. **Dividend Decision**
-	- Liệu nên giữ lợi lợi nhuận để tái đầu tư hay phân phối thu nhập cho các nhà đầu tư
+2. **Investment Decision** `<< quan trọng nhất trong 3 >>`
+	[[Chapter 03.(2). Financial Investment]]
+	[[Chapter 06. Long-term Investment]]
+	- Chủ yếu liên quan đến việc hình thành *TSCĐ* --> đưa ra quyết định có nên thực hiện một dự án đầu tư dài hạn hay không, đa dạng về quy mô và thời gian
+3. **Dividend Decision**
+	[[Chapter 10. Dividend Policy]]
+	- Liệu nên giữ lợi nhuận để tái đầu tư hay phân phối thu nhập cho các nhà đầu tư
 # 2. Nhân tố tác động tới việc quản trị TCDN
 ### 2.1 Hình thức pháp lý của doanh nghiệp
 - Doanh nghiệp tư nhân 

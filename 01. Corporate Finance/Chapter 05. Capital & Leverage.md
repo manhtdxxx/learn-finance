@@ -13,14 +13,13 @@ $$ P = \sum_{t=1}^n \frac{CF_t}{(1+i)^t}$$
 $$P = CF \cdot \frac{1-(\frac{1}{1+i})^n}{i}$$
 ##### 1.1.2. After Tax
 - Do Cost of Equity vẫn bị tính thuế TNDN nên để có thể so sánh được chi phí sử dụng từ các nguồn vốn khác nhau thì cần có cơ sở đồng nhất
+ `-- Nếu DN làm ăn thua lỗ thì sẽ không phải nộp thuế ==> CIT rate = 0% --`
 $$i\ \ AFTER\ \ tax \ =\  i\ \ BEFORE\ \ tax \cdot (1 - CIT\ rate)$$
- `Nếu DN làm ăn thua lỗ thì sẽ không phải nộp thuế ==> CIT rate = 0%`
  
 ---
 ### 1.2. Cost of Equity
 ##### 1.2.1. Common Share
 1. **Cổ phiếu thường**
-	$$P =\sum_{t=1}^n \frac{D_t}{(1+i)^t}$$
 	- *Theo mô hình tăng trưởng không đổi (Gordon growth model):*
 	$$P = \frac{D_0 \cdot (1+g)}{i - g} \  \ => \ \ i  = \frac{D_1}{P} + g$$
 	- *Theo mô hình CAPM (Capital Asset Pricing Model)*
@@ -40,7 +39,7 @@ $$i\ \ AFTER\ \ tax \ =\  i\ \ BEFORE\ \ tax \cdot (1 - CIT\ rate)$$
 		\end{align}
 		$$
 	---
-1. **Cổ phiếu thường mới phát hành**
+2. **Cổ phiếu thường mới phát hành**
 	- Khi phát hành một cổ phiếu mới thì sẽ phát sinh thêm chi phí mới: in ấn, bảo lãnh phát hành, môi giới, ... Vì vậy cần phải tính giá ròng cho cổ phiếu đó
 	$$Giá\ ròng = Giá\ phát\ hành \cdot (1- Tỷ\ lệ\ chi\ phí\ phát\ hành)$$
 	- Theo mô hình tăng trưởng không đổi (Gordon growth model):
@@ -66,12 +65,12 @@ $$i  = \frac{D_1}{P} + g$$
 	 $$WACC = \sum_{i=1}^n w_i \cdot k_i \  = \  \sum_{i=1}^n \frac{t_i}{T} \cdot k_i$$
 ---
 ### 1.4. Marginal Cost of Capital (MCC)
-- Chi phí sử dụng vốn cận biên là chi phí cho đồng vốn mới nhất tăng thêm khi doanh nghiệp huy động đầu tư cho hoạt động kinh doanh (**WACC đạo hàm theo t(i), T**)
-- DN sẽ huy động vốn có chi phí thấp trước (lợi nhuận giữ lại, nợ lãi suất thấp, ...). Tuy nhiên, khi DN đạt đến giới hạn của những nguồn giá rẻ này (hết lợi nhuận giữ lại, nợ thêm sẽ tăng lãi, ...) và cần phát hành cổ phiếu mới, chi phí sẽ tăng vọt vì vốn chủ sở hữu thường có chi phí cao hơn nợ. Bước nhảy này sẽ phản ánh được mối quan hệ phi tuyến tính
+- Chi phí sử dụng vốn cận biên là *chi phí* cho *đồng vốn mới nhất tăng thêm* khi doanh nghiệp huy động đầu tư cho hoạt động kinh doanh `-- WACC đạo hàm theo t(i), T --`
+- DN sẽ huy động vốn có *chi phí thấp trước* (lợi nhuận giữ lại, nợ lãi suất thấp, ...). Tuy nhiên, khi DN *đạt đến giới hạn* của những nguồn giá rẻ này (hết lợi nhuận giữ lại, nợ thêm sẽ tăng lãi, ...) và *cần phát hành cổ phiếu mới*, *chi phí sẽ tăng vọt* vì vốn chủ sở hữu thường có chi phí cao hơn nợ --> Bước nhảy này sẽ phản ánh được mối quan hệ phi tuyến tính
+![[marginal-wacc.png#center|480]]
 - **Điểm gãy** - **Break Point** là điểm mà số vốn mới có thể huy động được trước khi MCC nhảy vọt
 $$Break\ Point\ i = \frac{Tổng\ giá\ trị\ của\ nguồn\ vốn\ i}{Tỷ\ trọng\ của\  nguồn\ vốn\ i}$$
 **==>** DN có thể huy động vốn tới Break-Point (Tổng số vốn mới) mà không thay đổi WACC, sau đó nếu muốn tăng vốn, thì WACC sẽ nhảy vọt
-![[MCC.png#center|480]]
 
 ---
 # 2. Capital Structure
@@ -125,6 +124,12 @@ $$
 	- `% ΔSales: % thay đổi về sản lượng (hay doanh thu)`
 	$$DOL_{Q_0} = \frac{\% \ \Delta EBIT}{\% \ \Delta Sales} = \frac{\Delta EBIT / EBIT_{Q_0}}{\Delta Q / Q_0} = \frac{\Delta EBIT / EBIT_{Q_0}}{(p\cdot \Delta Q) / (p \cdot Q_0)}$$
 	**==>** Tại mức sản lượng Q(0) hay mức doanh thu P * Q(0), khi sản lượng/doanh thu tăng 1% thì EBIT sẽ tăng DOL (%)
+- ...
+	- `p x Q : Doanh thu`
+	- `FC hoặc F : chi phí cố định (không gồm I vì I thuộc hđ tài chính)`
+	- `VC : chi phí biến đổi`
+	- `v : chi phí biến đổi trên 1 sản phẩm`
+	- `Q(BEP): sản lượng hòa vốn (doanh thu = chi phí)`
 	$$
 	\begin{align}
 	EBIT &= p \cdot Q - (FC + VC)\\
@@ -134,12 +139,6 @@ $$
 	==> DOL_{Q_0} &= \frac{Q_0 \cdot (p - v)}{Q_0 \cdot (p - v)  - F} = \frac{EBIT_{Q_0} + F}{EBIT_{Q_0}}
 	\end{align}
 	$$
-- ...
-	- `p x Q : Doanh thu`
-	- `FC hoặc F : chi phí cố định (không gồm I vì I thuộc hđ tài chính)`
-	- `VC : chi phí biến đổi`
-	- `v : chi phí biến đổi trên 1 sản phẩm`
-	- `Q(BEP): sản lượng hòa vốn (doanh thu = chi phí)`
 	---
 - **Quan hệ giữa DOL và BEP:**
 	- Ta thấy FC càng lớn thì DOL càng lớn, vậy FC càng cao thì EBIT càng tốt?
@@ -149,15 +148,39 @@ $$
 	==> DOL_{Q_0}&= \frac{Q_0}{Q_0 - \frac{F}{p-v}} = \frac{Q_0}{Q_0 - Q_{BEP}}
 	\end{align}
 	$$
-	![[BEP.png#center|480]]
-	1. *Khi Q(0) < Q(BEP) <=> EBIT(Q(0)) < 0   ==> DOL < 0 :*
+	![[break-even-point.png#center|480]]
+	1. Khi *Q(0) < Q(BEP)* <=> EBIT(Q(0)) < 0   ==> DOL < 0 :
 		- DN càng sản xuất thêm càng lỗ nhiều hơn
 		- DN nào có FC cao hơn thì DN đó có mức giảm lỗ nhanh hơn
-	2. *Khi Q(0) > Q(BEP) <=> EBIT(Q(0)) > 0   ==> DOL > 0 :*
+	2. Khi *Q(0) > Q(BEP)* <=> EBIT(Q(0)) > 0   ==> DOL > 0 :
 		- DN càng sản xuất thêm càng lãi ít đi
 		- DN nào có FC cao hơn thì DN đó có mức tăng trưởng lợi nhuận nhanh hơn
+---
+
 ### 3.2. Financial Leverage
 - FL thể hiện ở việc doanh nghiệp sử dụng **vốn vay** (Debt) nhằm gia tăng tỉ suất lợi nhuận trên vốn chủ sở hữu (ROE) hay thu nhập trên mỗi cổ phiếu (EPS) của DN
+- **Degree of Financial Leverage (DFL)** :
+	$$
+	\begin{align}
+	DFL_{EBIT_0} &= \frac{\% \ \Delta ROE}{\% \ \Delta EBIT} = \frac{\Delta ROE / ROE_{EBIT_0}}{\Delta EBIT / EBIT_0}
+	\end{align}
+	$$
+	**==>** Tại mức EBIT(0), khi EBIT tăng 1% thì EPS hay ROE sẽ tăng DFL (%)
+- ...
+	- `NI : Net Income (after Interest and Tax)`
+	- `A = E + D (Assets = Equity + Debt)`
+	- `I = D . i (Interest = Debt . interest_rate)` 
+	- `t : CIT rate`
+	- `PD: Preferred Dividends`
+	- `NS : Number of Outstanding Common Shares`
+	$$
+	\begin{align}
+	 EPS &= \frac{NI - PD}{NS} = \frac{(EBIT - I) \cdot (1-t) - PD}{NS}\\\\
+	=> \Delta EPS &= \frac{\Delta EBIT \cdot (1-t)}{NS}\\\\\\
+	==> DFL_{EBIT_0} &= \frac{EBIT_0 \cdot (1-t)}{(EBIT_0 - I) \cdot (1-t) - PD}
+	\end{align}
+	$$
+	---
 - **Một vài chỉ số đánh giá:** 
 	- *Return on Assets - ROA* : tỉ suất lợi nhuận ròng trên tổng tài sản (Equity + Debt)
 		`--> cứ 1 đồng tài sản (VCSH + NPT) sẽ có ROA đồng lợi nhuận ròng`
@@ -181,36 +204,14 @@ $$
 	\end{align}
 	$$
 	- *Khi OROA > i :*
-		`OROA (đồng lợi nhuận trước lãi vay sinh ra từ 1 đồng tài sản) > i (đồng chi phí lãi vay sinh ra từ 1 đồng vay nợ)`
 		- Khi vay càng nhiều thì lợi nhuận sau lãi vay càng tăng => DFL dương và tăng => ROE/EPS dương và tăng 
+		`OROA (đồng lợi nhuận trước lãi vay sinh ra từ 1 đồng tài sản) > i (đồng chi phí lãi vay sinh ra từ 1 đồng vay nợ)`
 	- *Khi OROA < i :*
-		`OROA (đồng lợi nhuận trước lãi vay sinh ra từ 1 đồng tài sản) < i (đồng chi phí lãi vay sinh ra từ 1 đồng vay nợ)`
 		- Khi vay càng nhiều thì càng lỗ => DFL âm và giảm => ROE/EPS âm và giảm 
+		`OROA (đồng lợi nhuận trước lãi vay sinh ra từ 1 đồng tài sản) < i (đồng chi phí lãi vay sinh ra từ 1 đồng vay nợ)`
 	- *Khi OROA = i :* 
-		`OROA (đồng lợi nhuận trước lãi vay sinh ra từ 1 đồng tài sản) = i (đồng chi phí lãi vay sinh ra từ 1 đồng vay nợ)`
 		- Dù vay như thế nào thì lợi nhuận trước và sau lãi vay như nhau
-	---
-- **Degree of Financial Leverage (DFL)** :
-	$$
-	\begin{align}
-	DFL_{EBIT_0} &= \frac{\% \ \Delta ROE}{\% \ \Delta EBIT} = \frac{\Delta ROE / ROE_{EBIT_0}}{\Delta EBIT / EBIT_0}
-	\end{align}
-	$$
-	**==>** Tại mức EBIT(0), khi EBIT tăng 1% thì EPS hay ROE sẽ tăng DFL (%)
-	$$
-	\begin{align}
-	 EPS &= \frac{NI - PD}{NS} = \frac{(EBIT - I) \cdot (1-t) - PD}{NS}\\\\
-	=> \Delta EPS &= \frac{\Delta EBIT \cdot (1-t)}{NS}\\\\\\
-	==> DFL_{EBIT_0} &= \frac{EBIT_0 \cdot (1-t)}{(EBIT_0 - I) \cdot (1-t) - PD}
-	\end{align}
-	$$
-- ...
-	- `NI : Net Income (after Interest and Tax)`
-	- `A = E + D (Assets = Equity + Debt)`
-	- `I = D . i (Interest = Debt . interest_rate)` 
-	- `t : CIT rate`
-	- `PD: Preferred Dividends`
-	- `NS : Number of Outstanding Common Shares`
+		`OROA (đồng lợi nhuận trước lãi vay sinh ra từ 1 đồng tài sản) = i (đồng chi phí lãi vay sinh ra từ 1 đồng vay nợ)`
 	---
 - **Mối quan hệ giữa EBIT và EPS:**
 	- Ta thấy vay càng nhiều thì DFL càng lớn, vậy vay càng nhiều thì EPS sẽ càng cao?
@@ -220,10 +221,11 @@ $$
 	<=> \frac{(EBIT' - I_1)\cdot(1-t) - PD_1}{NS_1} &= \frac{(EBIT' - I_2)\cdot(1-t) - PD_2}{NS_2}
 	\end{align}
 	$$
-	![[Indifference-Point.jpg#center|480]]
+	![[indifference-point.jpg#center|480]]
 	- Nếu EBIT < EBIT' thì nên phát hành cổ phiếu
 		`Nếu vay càng nhiều mà EBIT không đủ lớn để bù đắp chi phí lãi vay, thì EPS phải càng giảm để bù đắp`
 	- Nếu EBIT > EBIT' thì nên phát hành trái phiếu
+---
 ### 3.3. Total Leverage
 - **Degree of Total Leverage (DTL):**
 	$$ 

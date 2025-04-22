@@ -1,0 +1,6 @@
+# 1. 
+- Đối tượng đầu tư:
+	-  Tài sản thực:
+		- Tài sản hữu hình: tiền vốn, đất đai, nhà xưởng, máy móc, thiết bị, hàng hóa...
+		- Tài sản vô hình: bằng sáng chế, phát minh, nhãn hiệu hàng hóa, bí quyết kinh doanh/ kỹ thuật, uy tín kính doanh, quyền thăm dò khai thác tài sản, sử dụng tài nguyên, phần mềm máy tính...
+	- Tài sản 

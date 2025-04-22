@@ -4,13 +4,13 @@
 	- Chắc chắn thu được lợi ích kích tế trong tương lai từ việc sử dụng TS đó
 	- Có thời gian sử dụng tối thiếu (>1 năm)
 	- Nguyên giá TS được xác định một cách tin cậy và có giá trị > 30 triệu đồng
-- Đặc điểm :
+- **Đặc điểm :**
 	- VCĐ tham gia vào nhiều chu kỳ sản xuất sản phẩm
 	- VCĐ được luân chuyển dần dần từng phần trong các chu kỳ sản xuất.
 	- Sau nhiều chu kỳ sản xuất VCĐ mới hoàn thành một vòng luân chuyển.
-- Phân loại :
-	- **Theo hình thái biểu hiện** :
-		- TSCĐ hữu hình **< Theo công dụng kinh tế >**
+- **Phân loại :**
+	- *Theo hình thái biểu hiện :*
+		- TSCĐ hữu hình `< Theo công dụng kinh tế >`
 			- Nhà cửa, vật kiến trúc
 			- Máy móc, thiết bị
 			- Phương tiện vận tải, thiết bị truyền dẫn
@@ -18,11 +18,11 @@
 			- Vườn cây lâu năm, súc vật làm việc, hoặc cho sản phẩm
 			- ...
 		- TSCĐ vô hình
-	- **Theo mục đích sử dụng** :
+	- *Theo mục đích sử dụng :*
 		- TSCĐ dùng cho kinh doanh
 		- TSCĐ dùng cho phúc lợi, sự nghiệp, an ninh, quốc phòng
 		- TSCĐ bảo quản hộ, giữ hộ, cất giữ hộ Nhà nước
-	- **Theo tình hình sử dụng** :
+	- *Theo tình hình sử dụng :*
 		- TSCĐ đang sử dụng
 		- TSCĐ chưa cần dùng
 		- TSCĐ không cần dùng 
@@ -31,12 +31,12 @@
 ##### 1.2.1 Hao mòn TSCĐ
 1. **Hao mòn hữu hình** :
 	- Là sự hao mòn về :
-		- **Về mặt vật chất**, đó là sự thay đổi hình thức hay trạng thái vật lí 
-		- **Về giá trị sử dụng**, đó là sự giảm sút về công dụng hay các tính năng kĩ thuật; muốn khôi phục lại giá trị sử dụng, phải tiến hành thay thế, sửa chữa
-		- **Về giá trị**, đó là sự giảm dần giá trị của TSCĐ cùng với quá trình chuyển dịch dần từng phần giá trị hao mòn của nó vào giá trị sản phẩm 
+		- *Về mặt vật chất*, đó là sự thay đổi hình thức hay trạng thái vật lí 
+		- *Về giá trị sử dụng*, đó là sự giảm sút về công dụng hay các tính năng kĩ thuật; muốn khôi phục lại giá trị sử dụng, phải tiến hành thay thế, sửa chữa
+		- *Về giá trị*, đó là sự giảm dần giá trị của TSCĐ cùng với quá trình chuyển dịch dần từng phần giá trị hao mòn của nó vào giá trị sản phẩm 
 	- Do sự tham gia vào HĐ SXKD, sự bào mòn của tự nhiên và sự tiến bộ của KH-KT
 2. **Hao mòn vô hình** :
-	- Là sự giảm sút thuần túy **về giá trị** của TSCĐ, biểu hiện ở sự giảm sút giá trị trao đổi của TSCĐ do ảnh hưởng của tiến bộ KH-KT
+	- Là sự giảm sút thuần túy *về giá trị* của TSCĐ, biểu hiện ở sự giảm sút giá trị trao đổi của TSCĐ do ảnh hưởng của tiến bộ KH-KT
 	- Hao mòn vô hình cũng xảy ra khi sản phẩm bị chấm dứt chu kì sống của nó trên thị trường nên những TSCĐ dùng để chế tạo các sản phẩm đó cũng không còn được tiếp tục sử dụng
 ##### 1.2.2. Khấu hao TSCĐ
 - Khấu hao TSCĐ là phương pháp chuyển dịch phần giá trị hao mòn của TSCĐ vào giá trị sản phẩm theo các phương pháp thích hợp
@@ -56,13 +56,13 @@ $$
 - **Công thức** :
 $$
 \begin{align}
-Tỷ\ lệ\ KH\ nhanh &= Tỷ\ lệ\ KH\ bình\ quân \cdot Hệ\ số\ điều\ chỉnh\\\\
-Mức\ KH\ hàng\ năm &= Giá\ trị\ TSCĐ\ còn\ lại \cdot Tỷ\ lệ\ KH\ nhanh
+Tỷ\ lệ\ KH\ nhanh &= Tỷ\ lệ\ KH\ bình\ quân\ \cdot\ Hệ\ số\ điều\ chỉnh\\\\
+Mức\ KH\ hàng\ năm &= Giá\ trị\ TSCĐ\ còn\ lại\ \cdot\ Tỷ\ lệ\ KH\ nhanh
 \end{align}
 $$
 - Hệ số điều chỉnh theo thời gian sử dụng TSCĐ (t) :
 	- `t ≤ 4 năm  --> hệ số điều chỉnh là 1.5` 
-	- `4 năm < t ≤ 6 năm  --> hệ   số điều chỉnh là 2`
+	- `4 năm < t ≤ 6 năm  --> hệ số điều chỉnh là 2`
 	- `t > 6 năm  --> hệ số điều chỉnh là 2.5` 
 ###### 1.2.2.3. Khấu hao theo khối lượng, số lượng sản phẩm
 - TSCĐ áp dụng được phương pháp này phải thỏa các ĐK sau:
@@ -95,7 +95,7 @@ Hệ\ số\ hao\ mòn\ TSCĐ &= \frac{Số\ tiền\ khấu\ hao\ lũy\ kế}{Ngu
 Hệ\ số\ trang\ bị\ TSCĐ &= \frac{Nguyên\ giá\ bình\ quân\ TSCĐ\ trong\ kỳ}{Số\ công\ nhân\ bình\ quân\ trong\ kỳ} &(2)
 \end{align}
 $$
-# 2. Current Assets Management
+# 2. Current Asset Management
 ### 2.1. Overview
 - **Tài sản lưu động** là những tài sản ngắn hạn và những tài sản thường xuyên luân chuyển trong quá trình hoạt động kinh doanh của doanh nghiệp
 - **Phân loại TSLĐ :**
@@ -122,7 +122,7 @@ Số\ lần\ luân\ chuyển\ VLĐ &= \frac{Doanh\ thu\ (hoặc\ doanh\ thu\ thu
 Kỳ\ luân\ chuyển\ VLĐ &= \frac{Số\ ngày\ trong\ kỳ\ (360\ nếu\ theo\ năm)}{Số\ lần\ luân\ chuyển\ VLĐ} &(2)
 \end{align}
 $$
-- Mức tiết kiệm do tăng tốc độ luân chuyển : do tăng tốc độ luân chuyển VLĐ của kỳ kế hoạch so với kỳ báo cáo, DN có thể tiết kiệm được VLĐ
+- **Mức tiết kiệm do tăng tốc độ luân chuyển** : do tăng tốc độ luân chuyển VLĐ của kỳ kế hoạch so với kỳ báo cáo, DN có thể tiết kiệm được VLĐ
 	- `S(0), S(1) : doanh thu (hoặc doanh thu thuần) trong năm báo cáo, năm kế hoạch`
 	- `K(0), K(1) : kỳ luân chuyển VLĐ trong năm báo cáo, năm kế hoạch`
 	- `L(0), L(1) : số lần luân chuyển VLĐ trong năm báo cáo, năm kế hoạch`
@@ -137,11 +137,11 @@ $$
 	$$
 ---
 ### 2.3. Inventory Management
-- `Câu hỏi đặt ra khi quản trị hàng tồn kho :`
-	- `Khi nào đặt hay bổ sung tồn kho dự trữ?`
-	- `Mỗi lần cần đặt hay bổ sung tồn kho mới là bao nhiêu?`
+- Câu hỏi đặt ra khi quản trị hàng tồn kho :
+	- *Khi nào* đặt hay bổ sung tồn kho dự trữ?
+	- Mỗi lần cần đặt hay bổ sung tồn kho mới là *bao nhiêu*?
 ##### 2.3.1. Mô hình EOQ - Economic Order Quantity
-![[EOQ_1.png#center]]
+![[eoq_1.png#center]]
 - Hàm tổng chi phí :
 	- `C(1) : chi phí lưu kho trong 1 năm`
 	- `c(1) : chi phí lưu kho đơn vị trong 1 năm`
@@ -151,7 +151,7 @@ $$
 	- `Q: Số lượng mỗi lần đặt hàng`
 	$$C = C_1 + C_2 = c_1 \cdot \frac{Q}{2} + c_2 \cdot \frac{D}{Q}$$
 - Tìm điểm tối thiểu hóa chi phí :
-	- ![[EOQ_2.webp#center]]
+	- ![[eoq_2.webp#center]]
 	- *Điểm đặt hàng tối ưu* :
 	$$
 	\begin{align}
@@ -172,9 +172,9 @@ $$
 - ...
 ---
 ### 2.4. Cash Management
-- `Câu hỏi đặt ra khi quản trị tiền :`
-	- `Khi nào cần bổ sung tiền hay lấy tiền nhàn rỗi đi đầu tư?`
-	- `Cần giữ một lượng tiền bao nhiêu là đủ?`
+- Câu hỏi đặt ra khi quản trị tiền :
+	- *Khi nào* cần bổ sung tiền hay lấy tiền nhàn rỗi đi đầu tư?
+	- Cần giữ một lượng tiền *bao nhiêu* là đủ?
 ##### 2.4.1 Mô hình Baumol
 ##### 2.4.2 Mô hình Miller-Orr
 ---

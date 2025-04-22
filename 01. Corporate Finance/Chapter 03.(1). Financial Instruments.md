@@ -1,10 +1,10 @@
-# 1. Financial Instruments of Money Market
+# 1. Financial Instruments in Money Market
 ### 1.1. Tín phiếu kho bạc (Treasury Bill)
 - Công cụ vay **nợ** ngắn hạn do **nhà nước** phát hành
 - Được giá chiết khấu và mua lại với giá mệnh giá khi đáo hạn
-- Mức lãi suất chiết khấu thường thấp hơn các Financial Instruments of Money Markets 
+- Mức lãi suất chiết khấu thường thấp hơn other Financial Instruments of Money Markets 
 - Độ rủi ro thấp nhất trên Money Market
-- Tính lỏng cao nhất do được mua bán trên Money Market nhiều nhất
+- Tính lỏng (Liquidity) cao nhất do được mua bán trên Money Market nhiều nhất
 ### 1.2. Chứng chỉ tiền gửi (Negotiable Certificate of Deposit - NCD)
 - Công cụ **nợ** ngắn hạn do **ngân hàng** phát hành
 - Trả lãi định kì + hoàn vốn gốc (mệnh giá) khi đáo hạn
@@ -25,11 +25,11 @@
 - Công cụ vay **nợ** ngắn hạn của **ngân hàng**
 - Hợp đồng mà ngân hàng sẽ bán một lượng tín phiếu kho bạc mà nó đang nắm giữ, kèm theo điều khoản sẽ mua lại số đó sau một vài ngày/tuần với giá cao hơn
 - Khi ngân hàng không thể mua lại, thì người cho vay có thể bán lượng tín phiếu trên Money Market đó để thu hồi vốn về
-# 2. Financial Instruments of Capital Market
+# 2. Financial Instruments in Capital Market
 ### 2.1. Cổ phiếu (Stock/Share)
 - Công cụ góp **vốn** do chỉ do **công ty cổ phần** phát hành
 - **Quyền cổ đông** (shareholder/stockholder):
-	- Quyền tham gia quyển lý công ty
+	- Quyền tham gia quản lý công ty
 	- Quyền sở hữu tài sản ròng của công ty
 	- Quyền tham gia chia lợi nhuận ròng - cổ tức (dividend) chỉ khi làm ăn có lãi
 - **Đặc điểm** cổ phiếu:
@@ -41,6 +41,7 @@
 		- Giá trị ghi sổ (Book value):
 			$$BV/share = \frac{Total\ equity - Preferred\ equity}{Oustanding\ Common\ shares}$$
 		- Giá trị thị trường (Market value): giá cả mua bán trên thị trường
+		- Giá trĩ nọi tại
 - **Phân loại:**
 	- *Căn cứ vào quyền lợi cổ đông:*
 		1. Cổ phiếu thường (Common Stock):
@@ -61,7 +62,7 @@
 - Công cụ nợ của tổ chức phát hành
 - **Đặc điểm** trái phiếu:
 	- Mệnh giá (Face/Par value): số vốn gốc hoàn trả khi đáo hạn
-		- Đối với Coupon Bond: giá bán lúc phát hành = mệnh giá
+		- Đối với Coupon Bond: giá bán lúc phát hành = mệnh giá (trả lãi định kỳ)
 		- Đối với Discount Bond/Zero-coupon Bond:  giá bán lúc phát hành < mệnh giá
 	- Thời hạn (Maturity): từ ngày phát hành đến ngày đáo hạn
 		- Thời hạn còn lại (Term to Maturity)

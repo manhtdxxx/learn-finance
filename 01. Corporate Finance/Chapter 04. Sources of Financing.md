@@ -59,7 +59,7 @@
 		$$
 # 4. Nguồn tài trợ dài hạn
 ### 4.1. Phát hành chứng khoán
-[[Module 03.1. Financial Instruments]]
+[[Chapter 03.(1). Financial Instruments]]
 ### 4.2. Vay dài hạn
 - DN đi vay các tổ chức tài chính dưới dạng 1 hợp đồng tín dụng
 - Lãi suất khoản vay dài hạn có thể theo 2 cách :
@@ -83,7 +83,7 @@
 
 ### 4.4. Nguồn nội bộ
 - Doanh nghiệp chuyển một phần lợi nhuận ròng thành vốn đầu tư, nên cố gắng giữ mức trên dưới 30% so với tổng vốn đầu tư
-- Chi phí của nguồn vốn nội bộ đo lường bằng chi phí cơ hội `nếu lợi nhuận không giữ lại mà chia cho các cổ đông thì họ có thể dùng cổ tức để đầu tư tại nơi khác`
+- Chi phí của nguồn vốn nội bộ đo lường bằng chi phí cơ hội `-- nếu lợi nhuận không giữ lại mà chia cho các cổ đông thì họ có thể dùng cổ tức để đầu tư tại nơi khác --`
 - **Ưu điểm** :
 	- Chi phí huy động vốn thấp
 - **Nhược điểm** :
@@ -110,4 +110,4 @@
 		\frac{(EBIT_1 - I_1)\cdot(1-t)}{NS_1} &= \frac{(EBIT_2 - I_2)\cdot(1-t)}{NS_2}
 		\end{align}
 		$$
-		![[Indifference-Point.jpg#center|480]]
+		![[indifference-point.jpg#center|480]]

@@ -1,12 +1,12 @@
 {
-  "accentColor": "",
+  "accentColor": "#fb2364",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "align_img"
   ],
-  "cssTheme": "Things",
+  "cssTheme": "Dracula Official",
   "textFontFamily": "",
-  "baseFontSize": 18,
+  "baseFontSize": 13,
   "interfaceFontFamily": "",
   "baseFontSizeAction": true
 }

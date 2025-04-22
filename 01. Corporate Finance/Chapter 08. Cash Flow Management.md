@@ -5,67 +5,64 @@
 	- Cash Outflows: 
 		- Các khoản chi trả cho nhà cung cấp
 		- Khoản lương cho nhân viên
-		- Trả lãi vay, thuế ...
+		- Trả *lãi* vay, thuế ...
 - **Dòng tiền từ hoạt động đầu tư (Investing Cash Flow - ICF)**
 	- Cash Inflows: 
 		- Thanh lý TSCĐ
 		- Thu hồi các khoản đầu tư góp vốn
 		- Thu hồi các khoản cho vay
-		- Bán chứng khoán dài hạn
 	- Cash Outflows: 
 		- Đầu tư TSCĐ
 		- Đầu tư góp vốn
 		- Cho vay
-		- Đầu tư chứng khoán dài hạn
 - **Dòng tiền từ hoạt động tài chính (Financing Cash Flow - FCF)**
 	- Cash Inflows:
 		- Vay vốn NH, hay qua trái phiếu
 		- Huy động VCSH
 	- Cash Outflows:
-		- Trả nợ vay NH, trái phiếu
+		- Trả *nợ* gốc vay NH, trái phiếu
 		- Trả cổ tức
 ### 1.2. Phân loại theo tính chất sở hữu
 ##### 1.2.1. Dòng tiền tự do của doanh nghiệp (Free Cash Flow to Firm – FCFF)
-- Là dòng tiền được tạo ra từ hoạt động kinh doanh thuộc về các nhà đầu tư, bao gồm cả **chủ sở hữu** và **chủ nợ**, sau khi trừ đi những khoản đầu tư cần thiết
-	- OCF gồm: 
-		- NOPAT
-		- Khấu hao 
+- Là dòng tiền được tạo ra từ *hoạt động kinh doanh* thuộc về các nhà đầu tư, bao gồm cả *chủ sở hữu* và *chủ nợ*, sau khi *trừ đi* những *khoản đầu tư* cần thiết
+	- **OCF** gồm: 
+		- Lợi nhuận sau thuế
+		- Khấu hao và hao mòn tài sản cố định
 		- Thay đổi VLĐ
-	- CAPEX - Capital Expenditure:
+	- **CAPEX - Capital Expenditure** gồm:
 		- Mua sắm TSCĐ mới
-		- Sửa chữa TSCĐ hiện có
-		- Nâng cấp TSCĐ
-	`<< D&A - CAPEX có thể hiểu là sự thay đổi về VCĐ bởi lẽ D&A là khoản thu hồi VCĐ để tái đầu tư vào TSCĐ >>`
-- *Formula:*
-	- Từ lợi nhuận thuần (NI):
+		- Sửa chữa, nâng cấp TSCĐ hiện có
+- **Formula :**
+	- From *Net Income*
 	$$
 	\begin{align}
-	FCFF &= NI + D\&A - CAPEX - \Delta WC + I \cdot (1 - t)
+	FCFF &= NI + I \cdot (1 - t) + D\&A - CAPEX - \Delta WC
 	\end{align}
 	$$
+	`<< D&A - CAPEX có thể hiểu là sự thay đổi về VCĐ bởi lẽ D&A là khoản thu hồi VCĐ để tái đầu tư vào TSCĐ >>`
 	
-	- Từ thu nhập trước thuế và lãi suất (EBIT):
+	- From *EBIT*
 	$$
 	\begin{align}
 	FCFF &= EBIT \cdot (1 - t) + D\&A - CAPEX - \Delta WC\\
 	&= NOPAT + D\&A - CAPEX - \Delta WC
 	\end{align}
 	$$
-	- Từ thu nhập trước thuế, lãi suất, khấu hao (EBITDA):
+	- From *EBITDA*
 	$$
 	\begin{align}
 	FCFF = EBITDA \cdot (1 - t) + D\&A \cdot t- CAPEX - \Delta WC
 	\end{align}
 	$$
-	- Từ dòng tiền thuần từ hoạt động kinh doanh (CFO):
+	- From *Operating Cash Flow*
 	$$
 	\begin{align}
-	FCFF &= OCF - CAPEX + I \cdot (1 - t)
+	FCFF &= OCF + I \cdot (1 - t) - CAPEX
 	\end{align}
 	$$
 ##### 1.2.2. Dòng tiền tự do của chủ sở hữu (Free Cash Flow to Equity – FCFE)
-- Là dòng tiền còn lại của **chủ sở hữu** sau khi công ty đã thanh toán lãi vay và nợ gốc cho chủ nợ, và công ty tiếp tục phát hành nợ vay mới, số tiền vay mới đó có thể dùng để chi trả cổ tức cho các cổ đông
-- *Formula:*
+- Là dòng tiền còn lại của *chủ sở hữu* sau khi công ty đã *thanh toán lãi vay* và *nợ gốc* cho chủ nợ, và công ty tiếp tục *phát hành nợ vay mới*, số tiền vay mới đó có thể dùng để chi trả cổ tức cho các cổ đông
+- **Formula :**
 $$
 \begin{align}
 FCFE &= FCFF- I \cdot (1 - t) + Net\ Borrowings \\
@@ -75,7 +72,7 @@ FCFE &= FCFF- I \cdot (1 - t) + Net\ Borrowings \\
 $$
 # 2. Các chỉ tiêu đánh giá tình hình dòng tiền
 ### 2.1. Chỉ tiêu kỳ luân chuyển tiền
-![[CCC.png#center|640]]
+![[cash-conversion-cycle.png#center|640]]
 - **Formula**
 $$
 \begin{align}
@@ -129,12 +126,12 @@ $$
 ### 4.1. Đầu tư tiền dư thừa
 - Tiền dùng cho mục đích: Chi tiêu, Dự phòng, Đầu cơ
 - Khi có tiền nhàn rỗi, DN nên tìm kiếm các cơ hội đầu tư. Trước khi đầu tư, DN sẽ cân nhắc 4 yếu tố *Rủi ro, Thanh khoản, Kỳ hạn đầu tư, Mức sinh lời* sao cho tối đa hóa lợi nhuận trong thời gian nhàn rỗi của tiền
-- Đầu tư ngắn hạn:
+- **Đầu tư ngắn hạn** :
 	- Thời gian ngắn hơn
 	- Tỷ suất sinh lời chỉ cần cao hơn so với tiền lãi gửi không kỳ hạn tại ngân hàng
 	- Tránh rủi ro giảm vốn hay mất vốn
 	- Đảm bảo thanh khoản tốt
-- **Nhóm tài sản mà DN có thể đầu tư ngắn hạn:**
+- **Nhóm tài sản** mà DN có thể đầu tư ngắn hạn :
 	- Tiền gửi có kỳ hạn
 	- Chứng khoán ngắn hạn
 - Nếu DN vẫn muốn đầu tư vào cổ phiếu trong ngắn hạn thì nên xây dựng một danh mục đầu tư phù hợp

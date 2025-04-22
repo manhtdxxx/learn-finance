@@ -43,7 +43,7 @@ $$P = \frac{F}{(1 + k_d)^n}$$
 	- Lãi suất thị trường = lãi suất trái phiếu **==>** giá trái phiếu = mệnh giá
 	- Lãi suất thị trường < lãi suất trái phiếu **==>** giá trái phiếu > mệnh giá
 	- Lãi suất thị trường > lãi suất trái phiếu **==>** giá trái phiếu < mệnh giá
-	![[Interest-Rate-to-Bond-Price.png#center|480]]
+	![[interest-to-bond-price.png#center|480]]
 # 3. Valuation of Equity Securities
 ### 3.1. Preferred Stock
 - Khi cổ phiếu ưu đãi là cổ phiếu không có quyền mua lại, không chuyển đổi được với kỳ hạn không xác định và trả cổ tức với tỷ suất cố định
@@ -57,12 +57,12 @@ $$P = \frac{F}{(1 + k_d)^n}$$
 	- `D_t: cổ tức thường tại thời điểm kết thúc kỳ hạn t`
 	- `k_e: tỷ suất chiết khấu/tỷ suất sinh lời cần thiết theo thị trường (%/năm)`
 	$$P = \sum_{t=1}^n \frac{D_t}{(1+k_e)^{t}}$$
-1. Tuy nhiên các nhà đầu tư có thể sẽ không đầu tư mãi và mong muốn bán cổ phiếu tại một thời điểm kì vọng thì dòng thu nhập của họ thay vì *chỉ là cổ tức mãi mãi* thì sẽ gồm: *cổ tức + giá bán* *(n hữu hạn)*
+2. Tuy nhiên các nhà đầu tư có thể sẽ không đầu tư mãi và mong muốn bán cổ phiếu tại một thời điểm kì vọng thì dòng thu nhập của họ thay vì *chỉ là cổ tức mãi mãi* thì sẽ gồm *cổ tức + giá bán* --> *(n hữu hạn)*
 	- `P_n: giá bán của cổ phiếu tại thời điểm cuối kì n`
 	$$P = \sum_{t=1}^n \frac{D_t}{(1+k_e)^{t}} + \frac{P_n}{(1+k_e)^n}$$
 ##### 3.2.1 Mô hình chiết khấu dòng cổ tức (Dividend Discount Model - DDM)
 1. **Khi tốc độ tăng trưởng cổ tức không đổi (Gordon growth model)**
-	- Cổ tức gia tăng hằng năm với tỉ lệ g *(g < k)*
+	- Cổ tức gia tăng hằng năm với tỉ lệ g
 	$$
 	\begin{align}
 	D_0 &: cổ\ tức\ vừa\ chia\ tại\ cuối\ kì\ thứ\ 0 \\
@@ -99,14 +99,14 @@ $$P = \frac{F}{(1 + k_d)^n}$$
 			$$P_4 = \frac{D_5}{k_e - g_2} = \frac{3.2970}{0.16 - 0.06} = 32.97$$
 		- *Định giá bán của cổ phiếu lúc phát hành*
 			- Coi rằng các nhà đầu tư sẽ muốn bán cổ phiếu tại thời điểm cuối năm 4 khi không muốn đầu tư nữa:
-				$$P_0 = \sum_{t=1}^4 \frac{D_t}{(1+k_e)^{t}} + \frac{P_4}{(1+k_e)^4} = 6.535+18.21 = 24.745$$
+			$$P_0 = \sum_{t=1}^4 \frac{D_t}{(1+k_e)^{t}} + \frac{P_4}{(1+k_e)^4} = 6.535+18.21 = 24.745$$
 			- Coi rằng các nhà đầu tư sẽ đầu tư mãi mãi:
-				$$
-				\begin{align}
-				P_0 &= \sum_{t=1}^4 \frac{D_t}{(1+k_e)^{t}} + (\frac{D_4\cdot(1+g_2)}{(1+k_e)^5} + \frac{D_4\cdot(1+g_2)^2}{(1+k_e)^6}+\ ...\ +\frac{D_4\cdot(1+g_2)^{n-4}}{(1+k_e)^n})\\
-				&= \sum_{t=1}^4 \frac{D_t}{(1+k_e)^{t}} + \sum_{t=5}^n \frac{D_4 \cdot (1+g_2)^{n-4}}{(1+k_e)^{n}} = 6.535 + 18.21 = 24.745
-				\end{align}
-				$$
+			$$
+			\begin{align}
+			P_0 &= \sum_{t=1}^4 \frac{D_t}{(1+k_e)^{t}} + (\frac{D_4\cdot(1+g_2)}{(1+k_e)^5} + \frac{D_4\cdot(1+g_2)^2}{(1+k_e)^6}+\ ...\ +\frac{D_4\cdot(1+g_2)^{n-4}}{(1+k_e)^n})\\
+			&= \sum_{t=1}^4 \frac{D_t}{(1+k_e)^{t}} + \sum_{t=5}^n \frac{D_4 \cdot (1+g_2)^{n-4}}{(1+k_e)^{n}} = 6.535 + 18.21 = 24.745
+			\end{align}
+			$$
 ##### 3.2.2. Mô hình chiết khấu dòng tiền tự do (Free Cash Flow - FCF)
 
 ##### 3.2.3. Định giá bằng phương pháp P/E (Price to Earning Ratio)
@@ -121,23 +121,20 @@ $$
 	- **P/E thấp**
 		- Có thể DN hoạt động hiệu quả hơn so với thời gian trước, khiến EPS tăng --> P/E thấp. Trong TH này có thể nói cổ phiếu đang bị định giá thấp và là cơ hội để chúng ta mua vào
 		- Tuy nhiên, P/E thấp có thể do DN thu được lợi nhuận bất thường (từ thanh lý tài sản, hay bán công ty con,…). Những khoản lợi nhuận này sẽ không bền vững do không đến từ hoạt động kinh doanh cốt lõi và sẽ không lặp lại trong tương lai
-		- Do các cổ đông hiện hữu không còn thấy khả năng phát triển của DN, nên quyết định bán chốt lời --> Market Value giảm --> P/E thấp.
+		- Do các cổ đông hiện hữu không còn thấy khả năng phát triển của DN, nên quyết định bán chốt lời --> Market Value giảm --> P/E thấp
 	- **P/E cao**
 		- Thông thường, chỉ số P/E cao thể hiện sự kỳ vọng của nhà đầu tư về việc tăng trưởng thu nhập từ cổ phiếu đó sẽ cao hơn trong tương lai
-		- Tuy nhiên, chỉ số P/E cao đôi khi là biểu hiện việc doanh nghiệp kinh doanh kém hiệu quả, khiến EPS thấp (thậm chí = 0) --> P/E mới cao.
+		- Tuy nhiên, chỉ số P/E cao đôi khi là biểu hiện việc doanh nghiệp kinh doanh kém hiệu quả, khiến EPS thấp (thậm chí = 0) --> P/E mới cao
 	---
-- Định giá dựa vào **... P/E** : $$P = EPS_{\ kì\ vọng}\ \cdot\ P/E_{\ trung\ bình\ ngành}$$
-- Định giá dựa vào **... P/E** :
+- Định giá dựa theo P/E : $$P = EPS_{\ kì\ vọng}\ \cdot\ P/E_{\ trung\ bình\ ngành}$$
+- Định giá dựa theo P/E khi *thu nhập tăng trưởng cố định với tỷ lệ g* :
 $$
 \begin{align}
-P &= \frac{D_1}{k_e - g} = \frac{Tỷ\ lệ\ trả\ cổ\ tức \cdot EPS_1}{k_e - g}\\\\
-=> P/E_1 &= \frac{Tỷ\ lệ\ trả\ cổ\ tức}{k_e - g}\\\\\\
-P &= EPS_{\ kì\ vọng}\ \cdot\ P/E_1  
+P = \frac{D_1}{k_e - g} &= \frac{Dividend\ Payout\ Ratio \cdot EPS_1}{k_e - g}\\\\
+=>\ P &= EPS_{\ kì\ vọng}\ \cdot\ \frac{Dividend\ Payout\ Ratio}{k_e - g}
 \end{align}
 $$
----
----
----
+
 # 4. Quyết định đầu tư
 ### 4.1. Quyết định đầu tư Debt Securities
 1. Thời hạn của dự án đầu tư

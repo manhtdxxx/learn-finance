@@ -1,5 +1,5 @@
 # 1.  Giá trị thời gian của tiền
-- Giá trị của lượng tiền hôm nay có giá trị > giá trị của lượng tiền **tương tự** trong tương lai do khả năng sinh lời tiềm năng của nó
+- Giá trị của lượng *tiền hôm nay* có giá trị > giá trị của *lượng tiền tương tự* trong *tương lai* do khả năng sinh lời tiềm năng của nó
 - Nguyên nhân ... > ... :
 	- **Chi phí cơ hội của việc sử dụng tiền**: số tiền nhàn rỗi để trong két sắt sẽ khiến các nhà đầu tư mất đi một khoản sinh lời trong tương lai qua việc đầu tư
 	- **Lạm phát**: sức mua của tiền sẽ giảm trong tương lai nếu lạm phát tăng
@@ -8,7 +8,7 @@
 1. Lãi đơn (Simple Interest)
 	- Lãi chính là số tiền thu được (đối với người cho vay) hoặc chi ra (đối với người đi vay) do việc sử dụng vốn vay. Lãi đơn là số tiền lãi chỉ được tính trên số tiền gốc mà không tính trên số tiền lãi do số tiền gốc sinh ra
 	$$P_n = P_o + P_o\cdot (1+i\cdot n)$$
-2. Lãi kép (compound interest)
+2. Lãi kép (Compound Interest)
 	- Lãi kép là số tiền lãi không chỉ tính trên số tiền gốc mà còn tính trên số tiền lãi do số tiền gốc sinh ra. Nó chính là lãi tính trên lãi hay còn gọi là ghép lãi (compounding).
 	$$P_n = P_o\cdot (1 + i)^n$$
 ### 1.2 Future Value of Money (FV)
