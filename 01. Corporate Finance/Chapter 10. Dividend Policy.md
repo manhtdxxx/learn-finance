@@ -130,8 +130,8 @@ $$
 	- *Equity* : giảm `cổ phiếu quỹ - TK 419 (mang dấu âm) tăng`
 	- *Shares outstanding* : giảm
 	- *Book Value of Share*: không rõ `Equity / Shares outstanding`
-		- When the shares are repurchased **above** the current book value per share (means equity decrease more), it **lowers** the **book value per share**. 
-		- If the stock was trading **below** book value, which is rare, the company could have **raised** its **book value per share** through a buyback
+		- When the shares are repurchased **above** the current book value per share , it **lowers** the book value per share. `<< treasury shares are more expensive, means TK 419 increases more, equity decreases more >>`
+		- If the stock was trading **below** book value, which is rare, the company could have **raised** its book value per share through a buyback
 	- *EPS* : tăng `Net Income (o đổi) / Shares outstanding`
 	- *ROA / ROE* : tăng `Net Income (o đổi) / Assets hoặc Equity`
 	- *Market Value of Share* : tăng `Market Cap (o đổi) / Shares outstanding`

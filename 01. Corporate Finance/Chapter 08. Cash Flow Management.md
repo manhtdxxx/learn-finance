@@ -25,11 +25,11 @@
 ### 1.2. Phân loại theo tính chất sở hữu
 ##### 1.2.1. Dòng tiền tự do của doanh nghiệp (Free Cash Flow to Firm – FCFF)
 - Là dòng tiền được tạo ra từ *hoạt động kinh doanh* thuộc về các nhà đầu tư, bao gồm cả *chủ sở hữu* và *chủ nợ*, sau khi *trừ đi* những *khoản đầu tư* cần thiết
-	- **OCF** gồm: 
+	- OCF gồm: 
 		- Lợi nhuận sau thuế
 		- Khấu hao và hao mòn tài sản cố định
 		- Thay đổi VLĐ
-	- **CAPEX - Capital Expenditure** gồm:
+	- CAPEX - Capital Expenditure gồm:
 		- Mua sắm TSCĐ mới
 		- Sửa chữa, nâng cấp TSCĐ hiện có
 - **Formula :**
@@ -77,32 +77,29 @@ $$
 $$
 \begin{align}
 Cash\ Conversion\ Cycle &= DIO + DSO - DPO\\\\\\
-Days\ Inventory\ Outstanding\ (DIO) &= \frac{Tồn\ kho\ trung\ bình\ năm}{Giá\ vồn\ hàng\ tồn\ kho\ /\ 365}\\\\
-Days\ Sales\ Outstanding\ (DSO) &= \frac{Phải\ thu\ trung\ bình\ năm}{Doanh\ thu\ /\ 365}\\\\
-Days\ Payable\ Outstanding\ (DPO) &= \frac{Phải\ trả\ trung\ bình\ năm}{Giá\ hàng\ mua\ /\ 365}\\\\
+Days\ Inventory\ Outstanding\ (DIO) &= \frac{Average\ Inventory}{COGS\ /\ 365}\\\\
+Days\ Sales\ Outstanding\ (DSO) &= \frac{Average\ Accounts\ Receivable}{Sales\ /\ 365}\\\\
+Days\ Payable\ Outstanding\ (DPO) &= \frac{Average\ Accounts\ Payable}{Supplier\ Purchases\ /\ 365}\\\\
 \end{align}
 $$
 - CCC có xu hướng *giảm* hoặc ổn định qua nhiều thời kì thì đó là một dấu hiệu tốt, khi đó DN có thể tiết kiệm được tiền và tập trung vào các hoạt động sinh lời khác
 - Ngược lại, khi CCC có xu hướng *tăng*, ta phải kiểm tra và phân tích các yếu tố khác để xem xét kỹ hơn vấn đề quản trị tiền của DN
-### 2.2. Chỉ tiêu đánh giá tình hình dòng tiền của DN
-- Hệ số này nếu > 1 có nghĩa DN có thể tạo đủ tiền từ hoạt động kinh doanh để chi trả cho các khoảng chi liên quan tới hoạt động này
-$$\begin{align}
-Hệ\ số\ tạo\ tiền\ từ\ HĐKD = \frac{Tổng\ tiền\ thu\ từ\ HĐKD}{Tổng\ tiền\ chi\ từ\ HĐKD}\\\\
-\end{align}$$
-- Hệ số này cao thì DN thường sẽ không có khó khăn về dòng tiền
+### 2.2. Chỉ tiêu đánh giá tình hình dòng tiền của DN 
+- 
 $$\begin{align} 
-Operating\ Cash\ Flow\ Margin = \frac{Doanh\ thu\ bằng\ tiền}{Doanh\ thu}\\\\
-\end{align}$$
-- Hệ số này > 1 thể hiện DN không có vấn đề trong thanh toán nợ ngắn hạn
-$$
-\begin{align}
-Current\ Debt\ Coverage\ Ratio = \frac{Dòng\ tiền\ thuần\ hoạt\ động}{Nợ\ ngắn\ hạn}\\\\
+Operating\ Cash\ Flow\ Margin = \frac{Cash\ Flow\ from\ Operating\ Activities}{Sales}\\\\
 \end{align}
 $$
-- Hệ số này càng cao, khả năng thanh toán nợ càng tốt
+- 
 $$
 \begin{align}
-Debt\ Coverage\ Ratio = \frac{Dòng\ tiền\ thuần\ hoạt\ động}{Tổng\ nợ}\\\\
+Operating\ Cash\ Flow\ Ratio = \frac{Cash\ Flow\ from\ Operating\ Activities}{Current\ Liabilities}\\\\
+\end{align}
+$$
+- 
+$$
+\begin{align}
+Cash\ Flow\ to\ Debt\ Ratio = \frac{Cash\ Flow\ from\ Operating\ Activities}{Total\ Debt}\\\\
 \end{align}
 $$
 # 3. Lập kế hoạch dòng tiền

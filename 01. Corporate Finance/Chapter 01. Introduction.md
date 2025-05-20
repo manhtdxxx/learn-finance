@@ -15,7 +15,7 @@
 ### 1.3 Quyết định
 1. **Financing Decision**
 	[[Chapter 04. Sources of Financing]]
-	[[Chapter 05. Capital & Leverage]]
+	[[Chapter 05-1. Capital]]
 	- Lựa chọn nguồn vốn (từ vốn chủ sở hữu hay đi vay) cho việc đầu tư
 	- Bao gồm :
 		- Quyết định huy động nguồn vốn ngắn hạn
@@ -24,7 +24,7 @@
 			- Nhiều nợ sẽ mất khả năng thanh khoản
 			- Nhiều VCSH sẽ pha loãng thu nhập và cổ phần của các cổ đông
 2. **Investment Decision** `<< quan trọng nhất trong 3 >>`
-	[[Chapter 03.(2). Financial Investment]]
+	[[Chapter 03-2. Financial Investment]]
 	[[Chapter 06. Long-term Investment]]
 	- Chủ yếu liên quan đến việc hình thành *TSCĐ* --> đưa ra quyết định có nên thực hiện một dự án đầu tư dài hạn hay không, đa dạng về quy mô và thời gian
 3. **Dividend Decision**

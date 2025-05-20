@@ -82,7 +82,7 @@ $$
 $$
 \begin{align}
 \\\\
-Hiệu\ suất\ sử\ dụng\ VCĐ &= \frac{Doanh\ thu\ (hoặc\ doanh\ thu\ thuần)\ trong\ kỳ}{Số\ VCĐ\ bình\ quân\ trong\ kỳ} &(1)\\\\
+Vòng\ quay\ VCĐ &= \frac{Doanh\ thu\ (hoặc\ doanh\ thu\ thuần)\ trong\ kỳ}{Số\ VCĐ\ bình\ quân\ trong\ kỳ} &(1)\\\\
 <<\ Số\ VCĐ\ bình\ quân\ trong\ kỳ &= \frac{VCĐ\ đầu\ kỳ + VCĐ\ cuối\ kỳ}{2}\ >>\\\\\\
 Hàm\ lượng\ VCĐ &= \frac{Số\ VCĐ\ bình\ quân\ trong\ kỳ}{Doanh\ thu\ (hoặc\ doanh\ thu\ thuần)\ trong\ kỳ} &(2)\\\\
 Tỷ\ suất\ lợi\ nhuận\ trên\ VCĐ &= \frac{Lợi\ nhuận\ sau\ thuế\ (hoặc\ trước\ thuế)\ trong\ kỳ}{Số\ VCĐ\ bình\ quân\ trong\ kỳ} &(3)\\\\
@@ -118,7 +118,7 @@ $$Net\ Working\ Capital = Current\ Assets - Current\ Liabilities$$
 - Tốc độ luân chuyển VLĐ : đo lường khả năng thu hồi VLĐ bao lần trong kỳ và mất bao lâu để thu hồi VLĐ 1 lần 
 $$
 \begin{align}
-Số\ lần\ luân\ chuyển\ VLĐ &= \frac{Doanh\ thu\ (hoặc\ doanh\ thu\ thuần)\ trong\ kỳ}{Số\ VLĐ\ bình\ quân\ trong\ kỳ} &(1)\\\\
+Vòng\ quay\ VLĐ &= \frac{Doanh\ thu\ (hoặc\ doanh\ thu\ thuần)\ trong\ kỳ}{Số\ VLĐ\ bình\ quân\ trong\ kỳ} &(1)\\\\
 Kỳ\ luân\ chuyển\ VLĐ &= \frac{Số\ ngày\ trong\ kỳ\ (360\ nếu\ theo\ năm)}{Số\ lần\ luân\ chuyển\ VLĐ} &(2)
 \end{align}
 $$

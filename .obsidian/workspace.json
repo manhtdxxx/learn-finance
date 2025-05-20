@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f441afc43e60b244",
+        "id": "091b0d2b066a84c9",
         "type": "tabs",
         "children": [
           {
-            "id": "fc4cb85c3a17b4ee",
+            "id": "56c61fa71d1e6c6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Financial Investment/Chapter 02. Financial Asset Pricing Model.md",
+                "file": "01. Corporate Finance/Chapter 05-2. Leverage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 02. Financial Asset Pricing Model"
-            }
-          },
-          {
-            "id": "ba4be8c38e9514ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dictionary"
+              "title": "Chapter 05-2. Leverage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary.md",
+                "file": "01. Corporate Finance/Chapter 05-2. Leverage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dictionary"
+              "title": "Outline of Chapter 05-2. Leverage"
             }
           },
           {
@@ -195,53 +180,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba4be8c38e9514ce",
+  "active": "56c61fa71d1e6c6e",
   "lastOpenFiles": [
-    "Pasted image 20250417091506.png",
-    "Untitled.md",
-    "Dictionary.md",
-    "04. Financial Investment/Chapter 03. Stock Analysis & Valuation.md",
-    "04. Financial Investment/Chapter 04. Bond Analysis & Valuation.md",
-    "04. Financial Investment/Chapter 02. Financial Asset Pricing Model.md",
-    "01. Corporate Finance/Chapter 10. Dividend Policy.md",
-    "01. Corporate Finance/Chapter 09. Financial Planning.md",
-    "01. Corporate Finance/Chapter 08. Cash Flow Management.md",
-    "01. Corporate Finance/Chapter 04. Sources of Financing.md",
-    "01. Corporate Finance/Chapter 05. Capital & Leverage.md",
     "01. Corporate Finance/Chapter 07. Asset Management.md",
-    "01. Corporate Finance/Chapter 06. Long-term Investment.md",
-    "01. Corporate Finance/Chapter 03.(1). Financial Instruments.md",
-    "01. Corporate Finance/Chapter 03.(2). Financial Investment.md",
-    "01. Corporate Finance/Chapter 02. Time Value of Money.md",
-    "01. Corporate Finance/Chapter 01. Introduction.md",
-    "Visuals/time-value-of-money.md",
-    "03. Financial Statement Analysis/Chapter 03. Financial Structure Analysis.md",
+    "01. Corporate Finance/Chapter 08. Cash Flow Management.md",
+    "01. Corporate Finance/Chapter 09. Financial Planning.md",
+    "04. Financial Investment/Chapter 05. Portfolio Theory.md",
+    "04. Financial Investment/Chapter 04. Bond Analysis & Valuation.md",
+    "03. Financial Statement Analysis/Chapter 03. Financial Structure.md",
     "03. Financial Statement Analysis/Chapter 02. Analysis Methods.md",
-    "02. Commercial Bank/Chapter 04. Nghiệp vụ chiết khấu và bao thanh toán.md",
     "03. Financial Statement Analysis/Chapter 01. Financial Statement.md",
-    "02. Commercial Bank/Chapter 03. Nghiệp vụ tín dụng ngắn hạn.md",
-    "02. Commercial Bank/Chapter 05. Nghiệp vụ tín dụng trung và dài hạn.md",
-    "02. Commercial Bank/Chapter 02. Nghiệp vụ nguồn vốn.md",
-    "02. Commercial Bank/Chapter 01. Overview.md",
-    "Visuals/ddm-three-stage.jpg",
-    "Visuals/ddm-three-stage.jpg.crdownload",
-    "Visuals/ddm-two-stage.jpg",
-    "Visuals/ddm-two-stage.jpg.crdownload",
-    "Visuals/industry-life-cycle.png",
-    "Visuals/industry-life-cycle.png.crdownload",
-    "Visuals/sector-rotation.png",
-    "Visuals/sector-rotation.png.crdownload",
-    "Visuals/business-cycle.webp",
-    "Visuals/business-cycle.webp.crdownload",
-    "Visuals/interest-to-capital-deman-supply.jpg",
-    "Visuals/interest-to-capital-deman-supply.jpg.crdownload",
-    "Visuals/eoq_2.webp",
-    "Visuals/eoq_1.png",
+    "Visuals/the-yield-curves.webp",
+    "Dictionary.md",
+    "01. Corporate Finance/Chapter 03-2. Financial Investment.md",
+    "Visuals/term-to-bond-price-with-diff-coupon.png",
+    "01. Corporate Finance/Chapter 02. Time Value of Money.md",
+    "01. Corporate Finance/Chapter 03-1. Financial Instruments.md",
+    "Visuals/credit-rating-criteria.png",
+    "Visuals/credit-rating-criteria.png.crdownload",
+    "Visuals/credit-ratings.png",
+    "Visuals/credit-ratings.png.crdownload",
+    "04. Financial Investment/Chapter 03. Stock Analysis & Valuation.md",
+    "04. Financial Investment/Chapter 02. Financial Asset Pricing Model.md",
+    "Visuals/irr-to-npv.png",
     "Visuals/irr-interpolation.png",
+    "Visuals/loanable-funds-theory.jpg",
+    "Visuals/callable_bond.jpg",
+    "Visuals/callable_bond.jpg.crdownload",
+    "Visuals/marginal-wacc.png",
+    "Visuals/sector-rotation.png",
+    "Untitled 1.md",
+    "Untitled.md",
+    "03. Financial Statement Analysis/Chapter 04. AR & AP.md",
+    "03. Financial Statement Analysis/Chapter 06. Efficiency & Profitability.md",
+    "01. Corporate Finance/Chapter 05-1. Capital.md",
+    "01. Corporate Finance/Chapter 06. Long-term Investment.md",
+    "01. Corporate Finance/Chapter 04. Sources of Financing.md",
+    "01. Corporate Finance/Chapter 05-2. Leverage.md",
+    "03. Financial Statement Analysis/Chapter 05. Liquidity & Solvency.md",
+    "01. Corporate Finance/Chapter 10. Dividend Policy.md",
+    "02. Commercial Bank/Chapter 04. Nghiệp vụ chiết khấu và bao thanh toán.md",
+    "02. Commercial Bank/Chapter 03. Nghiệp vụ tín dụng ngắn hạn.md",
+    "Visuals/ddm-three-stage.jpg.crdownload",
+    "Visuals/ddm-two-stage.jpg.crdownload",
+    "Visuals/industry-life-cycle.png.crdownload",
+    "Visuals/sector-rotation.png.crdownload",
+    "Visuals/business-cycle.webp.crdownload",
+    "Visuals/interest-to-capital-deman-supply.jpg.crdownload",
     "Visuals/demand-supply-for-loanable-funds.jpg.crdownload",
-    "03. Financial Statement Analysis",
-    "04. Financial Investment",
-    "02. Commercial Bank",
     "Untitled.canvas"
   ]
 }

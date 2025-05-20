@@ -1,4 +1,4 @@
-# 1.  Giá trị thời gian của tiền
+	# 1.  Giá trị thời gian của tiền
 - Giá trị của lượng *tiền hôm nay* có giá trị > giá trị của *lượng tiền tương tự* trong *tương lai* do khả năng sinh lời tiềm năng của nó
 - Nguyên nhân ... > ... :
 	- **Chi phí cơ hội của việc sử dụng tiền**: số tiền nhàn rỗi để trong két sắt sẽ khiến các nhà đầu tư mất đi một khoản sinh lời trong tương lai qua việc đầu tư

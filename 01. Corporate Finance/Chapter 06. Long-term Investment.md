@@ -32,13 +32,13 @@
 	- Các dự án đầu tư phụ thuộc
 	- Các dự án đầu tư xung khắc
 # 2. Dòng tiền của dự án đầu tư
-### 2.1. #Principles  xác định dòng tiền
+### 2.1. #Principles  of Cash Flow Estimation
 - Trong phân tích tài chính dự án, chúng ta sử dụng dòng tiền chứ không sử dụng lợi nhuận như là cơ sở để đánh giá dự án
 	+ Dòng tiền ra - Cash Inflows: là những khoản tiền chi ra để thực hiện dự án
 	+ Dòng tiền vào - Cash Outflows: là những khoản tiền thu nhập do dự án mang lại
-- Phải tính đến chi phí cơ hội khi đánh giá dòng tiền dự án tư mang lại
-- Không tính đến chi phí chìm khi đánh giá dòng tiền dự án
-- Phải tính đến yếu tố lạm phát khi đánh giá dòng tiền dự án
+- Phải tính đến *chi phí cơ hội* khi đánh giá dòng tiền dự án tư mang lại
+- Không tính đến *chi phí chìm* khi đánh giá dòng tiền dự án
+- Phải tính đến yếu tố *lạm phát* khi đánh giá dòng tiền dự án
 - Phải tính đến ảnh hưởng của dự án đến các bộ phận khác
 ### 2.2. Xác định dòng tiền ra của dự án (Cash Outflows)
 - Một dự án đầu tư điển hình dòng tiền ra của dự án bao gồm:
@@ -89,7 +89,7 @@
 	- Với các dự án độc lập, chọn các dự án có PBP < or = PBP max theo yêu cầu
 	- Với các dự án xung khắc, chọn dự án có PBP ngắn nhất
 ##### 3.2.1 Simple PP
-- Một DN đang xem xét đầu tư vào một trong 2 dự án A và B. Số vốn đầu tư vào mỗi dự án đều là 180 triệu và bỏ ngay 1 lần. Thu nhập thuần mỗi năm (lợi nhuận sau thuế + khấu hao) dự tính như sau:
+- ***BT:*** Một DN đang xem xét đầu tư vào một trong 2 dự án A và B. Số vốn đầu tư vào mỗi dự án đều là 180 triệu và bỏ ngay 1 lần. Thu nhập thuần mỗi năm (lợi nhuận sau thuế + khấu hao) dự tính như sau:
 
 | Năm | Dòng tiền thuần (A) | VTĐ còn phải thu hồi cuối năm (A) | Dòng tiền thuần (B) | VTĐ còn phải thu hồi cuối năm (B) |
 | --- | ------------------- | --------------------------------- | ------------------- | --------------------------------- |
@@ -193,7 +193,7 @@ $$
 | :---: | :-------------: | :-------------: | :-------------: | :-------------: | :--------: | :----: |
 | A |      (150)      |       20        |       120       |       120       |   81,55    | 26,53% |
 | B |      (150)      |       90        |       32        |       130       |   77,04    | 28,80% |
-- **Giải quyết mâu thuẫn :**
+- **Giải quyết mâu thuẫn:**
 $$
 \begin{align}
 NPV_A &= NPV_B\\
@@ -208,7 +208,7 @@ $$
 ### 4.2. Tính NPV cho các dự án có tuổi thọ không bằng nhau
 ##### 4.2.1 Phương pháp thay thế
 - Qui các dự án về cùng một một độ dài thời gian hoạt động bằng bội số chung nhỏ nhất của tuổi thọ các dự án
-- **BT** : Dự án A có thời hạn 2 năm, dự án B có thời hạn 4 năm ==> Tái đầu tư để quy các dự án về tuổi thọ bằng nhau ( BSCNN = 4)
+- ***BT:*** Dự án A có thời hạn 2 năm, dự án B có thời hạn 4 năm ==> Tái đầu tư để quy các dự án về tuổi thọ bằng nhau ( BSCNN = 4)
 
 | Dự án  | Dòng tiền năm 0 | Dòng tiền năm 1 | Dòng tiền năm 2 | Dòng tiền năm 3 | Dòng tiền năm 4 |
 | :----: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
@@ -234,7 +234,7 @@ NPV &= \sum_{t=1}^n \frac{EA}{(1 + r)^t} = EA \cdot \frac{1-(\frac{1}{1+r})^n}{r
 => EA &= \frac{NPV}{1 - (1+r)^{-n}} \cdot r
 \end{align}
 $$
-- **Với BT trên :**
+- ***Với BT trên:***
 	- $$
 	\begin{align}
 	EA_A &= \frac{38.8}{1 - (1+0.1)^{-2}} \cdot 0.1 = 22.35 \\\\

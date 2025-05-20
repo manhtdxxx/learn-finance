@@ -24,7 +24,7 @@
 	- Để duy trì cán cân ngân sách, chính phủ vay mượn qua trái phiếu hoặc trực tiếp từ các tổ chức tài chính --> tổng cầu nền kinh tế tăng --> có thể gây sức ép tăng lãi suất ảnh hưởng tới vay mượn tư nhân và đầu tư `-- cầu vốn > cung vốn thì cung có nhiều lựa chọn, cung phải tăng lãi suất lên để chọn lọc cầu --`
 - **Sentiment** - tâm lý của người tiêu dùng hoặc nhà sản xuất
 ##### 1.1.3. Interest Rate
-![[interest-to-capital-deman-supply.jpg#center|360x]]
+![[loanable-funds-theory.jpg#center|360x]]
 -  Lí thuyết về cung cầu vốn vay *(Loanable Funds Theory)* là lí thuyết cho rằng lãi suất thị trường bị tác động bởi các yếu tố tác động tới cung và cầu của các món cho vay
 	- Lãi suất càng tăng thì nhu cầu vay vốn càng giảm --> đường cầu vốn dốc xuống
 	- Lãi suất càng tăng thì nhu cầu tiết kiệm và cho vay càng tăng --> đường cung vốn dốc lên
@@ -63,7 +63,7 @@
 			- Không thường xuyên thay đổi được
 		- Tỷ lệ dự trữ bắt buộc *(Required Reserve Ratio)* - tỷ lệ tiền gửi mà NHTM phải giữ không cho vay hoặc gửi tại NHTW
 			- Tỷ lệ này giảm --> NHTM có nhiều tiền cho vay hơn --> tăng cung tiền
-		- Lãi suất quỹ liên bang *(Federal Funds Rate - FFR / Interbank Rate)* - lãi suất cho vay ngắn hạn giữa các ngân hàng, chủ yếu cho vay qua đêm để đáp ứng dự trữ bắt buộc
+		- Lãi suất quỹ liên bang / Lãi suất liên ngân hàng *(Federal Funds Rate - FFR / Interbank Rate)* là lãi suất cho vay ngắn hạn giữa các ngân hàng, chủ yếu cho vay qua đêm để đáp ứng dự trữ bắt buộc
 ###### 1.1.5.2. Supply-side Policies
 - Chính sác tác động về phía cung giải quyết các vấn đề nhằm nâng cao năng lực sản xuất , tăng sản lượng của nền kinh tế
 - VD:
@@ -329,15 +329,11 @@
 		\end{align}
 		$$
 	- Định giá cổ phiếu theo FCFF :
-		- General
-			$$
-			\begin{align}
-			P_0 &= \sum_{t=1}^n \frac{FCFF_t}{(1 + WACC)^{t}}
-			\end{align}
-			$$
-		- Stable Growth
-		- 2-Stage Growth
-		- 3-Stage Growth
+		$$
+		\begin{align}
+		P_0 &= \sum_{t=1}^n \frac{FCFF_t}{(1 + WACC)^{t}}
+		\end{align}
+		$$
 	---
 - **Free Cash Flow to Equity (FCFE)**
 	- Dòng tiền còn lại cho *riêng cổ đông* sau khi *chi trả thêm* :
@@ -350,15 +346,11 @@
 		\end{align}
 		$$
 	- Định giá cổ phiếu theo FCFE :
-		- General
-			$$
-			\begin{align}
-			P_0 &= \sum_{t=1}^n \frac{FCFE_t}{(1 + r_e)^{t}}
-			\end{align}
-			$$
-		- Stable Growth
-		- 2-Stage Growth
-		- 3-Stage Growth
+		$$
+		\begin{align}
+		P_0 &= \sum_{t=1}^n \frac{FCFE_t}{(1 + r_e)^{t}}
+		\end{align}
+		$$
 ##### 💡 Pros & Cons
 - **Dividend Discount Model (DDM)**
 	- ✅ Ưu điểm :
@@ -377,7 +369,7 @@
 		- *Linh hoạt trong giả định :* dễ tùy chỉnh các kịch bản như tăng trưởng, đầu tư, chi phí vốn...
 	- ❌ Nhược điểm :
 		- *Phức tạp, cần nhiều dữ liệu :* phải thu thập thông tin tài chính chi tiết như lợi nhuận, chi phí, đầu tư, nợ...
-		- *Nặng về giả định :* phụ thuộc vào dự báo dòng tiền, tỷ lệ chiết khấu... → sai lệch có thể làm sai kết quả
+		- *Nặng về giả định :* phụ thuộc vào dự báo dòng tiền, `g`, `WACC`... → sai lệch có thể làm sai kết quả
 ### 2.2. Relative Valuation Methods
 ##### 2.2.1. P/E - Price to Earnings
 $$

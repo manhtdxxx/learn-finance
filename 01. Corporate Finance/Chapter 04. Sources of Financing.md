@@ -59,7 +59,7 @@
 		$$
 # 4. Nguồn tài trợ dài hạn
 ### 4.1. Phát hành chứng khoán
-[[Chapter 03.(1). Financial Instruments]]
+[[Chapter 03-1. Financial Instruments]]
 ### 4.2. Vay dài hạn
 - DN đi vay các tổ chức tài chính dưới dạng 1 hợp đồng tín dụng
 - Lãi suất khoản vay dài hạn có thể theo 2 cách :
