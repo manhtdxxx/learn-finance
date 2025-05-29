@@ -129,7 +129,7 @@
 	- `n : thời gian/tuổi thọ dự án`
 $$
 \begin{align}
-NPV &=  Inflows_{discounted} - Outflows_{discounted}\\\
+NPV &= Inflows_{discounted} - Outflows_{discounted}\\\\
 &= \sum_{t=1}^n \frac{DTT_t}{(1+r)^t} + \frac{Thanh\ lý\ TSCĐ + Thu\ hồi\ VLĐ}{(1+r)^n} - VĐT_0
 \end{align}
 $$
