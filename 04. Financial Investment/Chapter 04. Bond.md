@@ -60,10 +60,10 @@ $$
 P_0 = \sum_{t=1}^n \frac{C}{(1 + YTC)^t} + \frac{P_c}{(1 + YTC)^n} \tag{2.4}\\\\
 \end{align}
 $$
-- Nhà phát hành có thể phát hành ***trái phiếu kèm theo điều khoản mua lại / gọi lại - Callable Bond***. Công ty sẽ gọi lại với giá ***thu hồi khi lãi suất thị trường giảm*** (thường thấp hơn YTM), tức là công ty đang phải trả lãi cao hơn so với thị trường. Sau đó, công ty phát hành trái phiếu mới với lãi suất thấp hơn để thay thế
+- Nhà phát hành có thể phát hành ***trái phiếu kèm theo điều khoản mua lại / gọi lại - Callable Bond***. Công ty sẽ gọi lại với giá ***thu hồi khi lãi suất thị trường r giảm*** (thường khi r < YTM), tức là công ty đang phải trả lãi cao hơn so với thị trường. Sau đó, công ty phát hành trái phiếu mới với lãi suất thấp hơn để thay thế
 - **Giá thu hồi (Call Price)** thường:
 	- Cao hơn mệnh giá để bù đắp rủi ro cho nhà đầu tư `<< giá thu hồi = mệnh giá + phí gọi lại (call premium) >>`
-	- Thấp hơn giá thị trường do lãi suất thị trường giảm
+	- Thấp hơn giá thị trường `<< lãi suất khi giảm khiến giá tăng, Call Price đặt ra mức giá trần >>`
 - **Lợi suất thu hồi (YTC)** mà nhà đầu tư thực sự nhận được **thường thấp hơn YTM** do:
 	- Thời gian đầu tư ngắn đi do bị thu hồi sớm
 	- Tổng lợi tức nhận được ít hơn, không nhận đủ lợi tức cho tới lúc đáo hạn mà chỉ nhận cho tới lúc bị thu hồi
@@ -138,10 +138,17 @@ $$
 	- Nếu *1 trái phiếu có coupon 8%*, và các trái phiếu tương đồng cũng 8%, thì trái phiếu đó sẽ được bán bằng mệnh giá
 	- Tuy nhiên, *nếu lãi suất thị trường tăng lên 9%*, liệu có ai mua một trái phiếu với coupon 8% bằng mệnh giá? Giá trái phiếu sẽ phải giảm cho tới khi lợi suất kỳ vọng (YTM) của trái phiếu tăng lên bằng lãi suất thị trường
 	- Ngược lại, *nếu lãi suất thị trường xuống 7%*, trái phiếu coupon 8% trở nên hấp dẫn khiến các nhà đầu tư trả giá cao hơn cho tới khi lợi suất kỳ vọng (YTM) của trái phiếu không còn cao hơn lãi suất thị trường
+- **Các ý chính tóm tắt như sau:**
+	- Giá trái phiếu tỷ lệ nghịch với YTM
+	- Với cùng một lượng tăng/giảm của YTM, giá sẽ giảm nhiều (khi YTM tăng) ít so với khi giá tăng (khi YTM giảm)
+	- Giá của trái phiếu dài hạn nhạy cảm với lãi suất hơn so với trái phiếu ngắn hạn
+	- Khi thời gian đáo hạn gia tăng, độ nhạy cảm của giá với lãi suất tăng với tỷ lệ giảm dần
+	- Trái phiếu có lãi suất coupon thấp hơn sẽ nhạy cảm hơn
+	- Trái phiếu có YTM thấp hơn sẽ nhạy cảm hơn
 ### 5.3. Theory
-- Lý thuyết kì vọng
-- Lý thuyết ưu tiên thanh khoản
-- Lý thuyết phân đoạn thị trường
+- Lý thuyết kì vọng (Expectations Theory)
+- Lý thuyết ưu tiên thanh khoản (Liquidity Preference Theory)
+- Lý thuyết phân đoạn thị trường (Segmented Markets Theory)
 ### 5.4. Duration
 ##### 5.4.1 Macaulay Duration
 - **Duration:**
@@ -231,9 +238,17 @@ $$
 	\end{align}
 	$$
 ### 5.5. Convexity
-- Duration chỉ đo được sự thay đổi tuyến tính. Qui tắc duration là một ước tính tương đối tốt nếu lãi suất thay đổi nhỏ, và sai số sẽ càng cao khi biến động lãi suất càng mạnh
-- Convexity giúp điều chỉnh sai số của Duration, giúp ước lượng chính xác hơn khi đo được sự thay đổi phi tuyến tính (bậc 2)
-![[convexity.png#center|480x]]
+- ***Duration chỉ đo được sự thay đổi tuyến tính***. Qui tắc duration là một ước tính tương đối tốt nếu lãi suất thay đổi nhỏ, và sai số sẽ càng cao khi biến động lãi suất càng mạnh
+- ***Độ lồi (Convexity)*** ***đo được sự thay đổi phi tuyến tính (bậc 2)***, điều chỉnh sai số của Duration giúp ước lượng chính xác hơn
+- **Đặc điểm Convexity:**
+	- Lãi suất coupon càng thấp thì độ lồi càng cao
+	- Thời hạn càng dài thì độ lồi càng cao
+	- Khi lợi suất tăng thì độ lồi giảm. Đường cong giá lồi hơn ở mức lợi suất thấp và ít lồi hơn ở mức lợi suất cao
+	- Khi lợi suất giảm, giá trái phiếu tăng lên nhiều hơn so với việc giá trái phiếu giảm khi lợi suất tăng cùng một lượng
+	- Giả sử trái phiếu A có đường cong giá lồi hơn trái phiếu B
+		- Khi lợi suất giảm, giá trái phiếu A tăng nhiều hơn B
+		- Khi lợi suất tăng, giá trái phiếu A giảm ít hơn B
+- ![[convexity.png#center|480x]]
 - **Công thức Convexity:**
 	$$
 	\begin{align}
@@ -263,7 +278,7 @@ $$
 		\text{và:}\quad \frac{d^2P_r}{dr^2} &> 0 
 		\end{align}
 		$$
-	- Tại ***vùng r mà giá trái phiếu sắp bị Call***, khi r giảm, giá sẽ không còn tăng với tốc độ tăng dần như trước (Positive Convexity), mà giá sẽ tăng với tốc độ giảm dần (Negative Convexity) `<< đạo hàm bậc 2 để nói về tốc độ thay đổi của độ dốc, convexity âm vì đồ thị đang cong lên bỗng cong xuống >>`
+	- Tại ***vùng r mà giá trái phiếu sắp bị Call***, khi r giảm, giá sẽ không còn ***tăng với tốc độ tăng dần*** như trước (Positive Convexity), mà giá sẽ ***tăng với tốc độ giảm dần*** (Negative Convexity) `<< đạo hàm bậc 2 để nói về tốc độ thay đổi của độ dốc, convexity âm vì đồ thị đang cong lên bỗng cong xuống >>`
 		$$
 		\begin{align}
 		P_r &= P_{non-callable}\\\\
@@ -271,7 +286,7 @@ $$
 		\text{và:}\quad \frac{d^2P_r}{dr^2} &< 0 
 		\end{align}
 		$$
-	- Khi ***lãi suất r giảm tới một ngưỡng nào đó***, nhà phát hành quyết định thu hồi ở mức giá Call. Lúc này, ***giá không còn phụ thuộc vào lãi suất r nữa*** (Convexity "phẳng" ra)
+	- Khi ***lãi suất r giảm tới một ngưỡng nào đó***, nhà phát hành quyết định thu hồi ở mức giá Call. Lúc này, ***giá không còn phụ thuộc vào lãi suất r nữa*** (Convexity phẳng)
 		$$
 		\begin{align}
 		P_r &= C\\\\

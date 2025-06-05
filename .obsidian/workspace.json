@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Financial Investment/Chapter 04. Bond.md",
-                "mode": "source",
+                "file": "04. Financial Investment/Chapter 05-1. Asset Allocation.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 04. Bond"
+              "title": "Chapter 05-1. Asset Allocation"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Financial Investment/Chapter 04. Bond.md",
+                "file": "04. Financial Investment/Chapter 05-1. Asset Allocation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 04. Bond"
+              "title": "Outline of Chapter 05-1. Asset Allocation"
             }
           },
           {
@@ -180,11 +180,14 @@
   },
   "active": "82c21eccbc5d0f2a",
   "lastOpenFiles": [
-    "04. Financial Investment/Chapter 05-1. Asset Allocation.md",
     "04. Financial Investment/Chapter 05-2. Portfolio Theory.md",
+    "04. Financial Investment/Chapter 04. Bond.md",
+    "03. Financial Statement Analysis/Chapter 04. AR & AP.md",
+    "03. Financial Statement Analysis/Chapter 05. Liquidity & Solvency.md",
+    "03. Financial Statement Analysis/Chapter 06. Efficiency & Profitability.md",
+    "04. Financial Investment/Chapter 05-1. Asset Allocation.md",
     "04. Financial Investment/Chapter 07. Technical Analysis.md",
     "01. Corporate Finance/Chapter 02. Time Value of Money.md",
-    "04. Financial Investment/Chapter 04. Bond.md",
     "01. Corporate Finance/Chapter 06. Long-term Investment.md",
     "01. Corporate Finance/Chapter 07. Asset Management.md",
     "01. Corporate Finance/Chapter 08. Cash Flow Management.md",
@@ -200,9 +203,6 @@
     "01. Corporate Finance/Chapter 05-1. Capital.md",
     "04. Financial Investment/Chapter 01. Overview.md",
     "03. Financial Statement Analysis/Chapter 03. Financial Structure.md",
-    "03. Financial Statement Analysis/Chapter 04. AR & AP.md",
-    "03. Financial Statement Analysis/Chapter 06. Efficiency & Profitability.md",
-    "03. Financial Statement Analysis/Chapter 05. Liquidity & Solvency.md",
     "03. Financial Statement Analysis/Chapter 01. Overview.md",
     "03. Financial Statement Analysis/Chapter 02. Analysis Methods.md",
     "01. Corporate Finance/Chapter 01. Overview.md",
