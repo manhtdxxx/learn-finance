@@ -72,7 +72,7 @@ FCFE &= FCFF- I \cdot (1 - t) + Net\ Borrowings \\
 $$
 # 2. Các chỉ tiêu đánh giá tình hình dòng tiền
 ### 2.1. Chỉ tiêu kỳ luân chuyển tiền
-![[cash-conversion-cycle.png#center|640]]
+![[cash_conversion_cycle.png#center|640]]
 - **Formula**
 $$
 \begin{align}

@@ -1,4 +1,4 @@
-# 1. Financial Instruments in Money Market
+# 1. In Money Market
 ### 1.1. Tín phiếu kho bạc (Treasury Bill)
 - Công cụ vay **nợ** ngắn hạn do **nhà nước** phát hành
 - Được giá chiết khấu và mua lại với giá mệnh giá khi đáo hạn
@@ -25,7 +25,7 @@
 - Công cụ vay **nợ** ngắn hạn của **ngân hàng**
 - Hợp đồng mà ngân hàng sẽ bán một lượng tín phiếu kho bạc mà nó đang nắm giữ, kèm theo điều khoản sẽ mua lại số đó sau một vài ngày/tuần với giá cao hơn
 - Khi ngân hàng không thể mua lại, thì người cho vay có thể bán lượng tín phiếu trên Money Market đó để thu hồi vốn về
-# 2. Financial Instruments in Capital Market
+# 2. In Capital Market
 ### 2.1. Cổ phiếu (Stock/Share)
 - Công cụ góp **vốn** do chỉ do **công ty cổ phần** phát hành
 - **Quyền cổ đông (shareholder/stockholder) :**

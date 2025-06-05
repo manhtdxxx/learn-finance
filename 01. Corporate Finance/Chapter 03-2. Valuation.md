@@ -11,36 +11,36 @@
 
 # 2. Valuation of Debt Securities
 ### 2.1 Treasury Bill
-- Định giá trên *Primary Market*:
+- **Trên Primary Market:**
 	- `Lãi suất tín phiếu trúng thầu (%/năm)`
 	- `Kỳ hạn của tín phiếu`
-	$$Giá\ bán\ ban\ đầu = \frac{Mệnh\ giá}{1 + \frac{Lãi\ suất\ trúng\ thầu\ \cdot \ Kỳ\ hạn}{365}}$$
-- Định giá trên *Secondary Market*:
+	$$Giá\ bán\ ban\ đầu = \frac{Mệnh\ giá}{1 + \dfrac{Lãi\ suất\ trúng\ thầu\ \cdot \ Kỳ\ hạn}{365}}$$
+- **Trên Secondary Market:**
 	- `Lãi suất tín phiếu hiện hành trên thị trường (%/năm)`
 	- `Kỳ hạn còn lại của tín phiếu cho đến ngày đáo hạn`
-	$$Giá\ bán\ lại = \frac{Mệnh\ giá}{1 + \frac{Lãi\ suất\ thị\ trường\ \cdot \ Kỳ\ hạn\ còn\ lại}{365}}$$
+	$$Giá\ bán\ lại = \frac{Mệnh\ giá}{1 + \dfrac{Lãi\ suất\ thị\ trường\ \cdot \ Kỳ\ hạn\ còn\ lại}{365}}$$
 ### 2.2 Bond
-##### 2.2.1 Định giá
-1. Discount Bond
-$$P = \frac{F}{(1 + k_d)^n}$$
-2. Coupon Bond (Trả lãi theo năm)
-	$$P = \sum_{t=1}^n \frac{C}{(1+k_d)^t} + \frac{F}{(1+k_d)^n}$$
-3. Coupon Bond (Trả lãi nửa năm 1 lần)
-	$$P = \sum_{t=1}^{2n} \frac{C/2}{(1+k_d/2)^{t}} + \frac{F}{(1+k_d/2)^{2n}}$$
-- ...
+##### 2.2.1. Valuation
+- Chú thích:
 	- `P: giá trị của trái phiếu tại thời điểm phát hành`
 	- `F: giá trị của trái phiếu tại thời điểm đáo hạn`
 	- `C: lãi thanh toán hằng năm` 
 	- `k_d: tỷ suất chiết khấu/tỷ suất sinh lời cần thiết theo thị trường (%/năm)`
 	- `n: số năm còn lại cho đến khi đáo hạn`
-##### 2.2.2 Sự biến động giá trái phiếu theo lãi suất thị trường
+1. **Discount Bond**
+$$P = \frac{F}{(1 + k_d)^n}$$
+2. **Coupon Bond (Trả lãi theo năm)**
+	$$P = \sum_{t=1}^n \frac{C}{(1+k_d)^t} + \frac{F}{(1+k_d)^n}$$
+3. **Coupon Bond (Trả lãi nửa năm 1 lần)**
+	$$P = \sum_{t=1}^{2n} \frac{C/2}{(1+k_d/2)^{t}} + \frac{F}{(1+k_d/2)^{2n}}$$
+##### 2.2.2. Sensitivity of the Bond Price to the Interest Rate
 - ***Giá trái phiếu*** với ***lãi Coupon khác nhau*** biến động khi ***lãi suất thị trường*** thay đổi
-	- Lãi suất thị trường tăng `==>` giá trái phiếu giảm
-	- Lãi suất thị trường giảm `==>` giá trái phiếu tăng
-	- Lãi suất thị trường = lãi suất trái phiếu `==>` giá trái phiếu = mệnh giá
-	- Lãi suất thị trường < lãi suất trái phiếu `==>` giá trái phiếu > mệnh giá
-	- Lãi suất thị trường > lãi suất trái phiếu `==>` giá trái phiếu < mệnh giá
-![[term-to-bond-price-with-diff-coupon.png|center|560]]
+	- Lãi suất thị trường tăng → giá trái phiếu giảm
+	- Lãi suất thị trường giảm → giá trái phiếu tăng
+	- Lãi suất thị trường = lãi suất trái phiếu → giá trái phiếu = mệnh giá
+	- Lãi suất thị trường < lãi suất trái phiếu → giá trái phiếu > mệnh giá
+	- Lãi suất thị trường > lãi suất trái phiếu → giá trái phiếu < mệnh giá
+![[bond_price_to_interest_rate.png|center|560]]
 - Trục
 	- X: số kỳ còn lại tới ngày đáo hạn
 	- Y: giá thị trường của trái phiếu
@@ -63,19 +63,19 @@ $$P = \frac{F}{(1 + k_d)^n}$$
 	- `D: cổ tức ưu đãi`
 	- `k_p: tỷ suất chiết khấu/tỷ suất sinh lời cần thiết theo thị trường (%/năm)`
 	$$P = \frac{D}{k_{p}}$$
+---
 ### 3.2. Common Stock
-1. Do cổ phiếu không có kỳ đáo hạn *(n --> +∞)*
+1. Do cổ phiếu không có kỳ đáo hạn ***(n --> +∞)***
 	- `P: giá trị của cổ phiếu thường tại thời điểm phát hành`
 	- `D_t: cổ tức thường tại thời điểm kết thúc kỳ hạn t`
 	- `k_e: tỷ suất chiết khấu/tỷ suất sinh lời cần thiết theo thị trường (%/năm)`
 	$$P = \sum_{t=1}^n \frac{D_t}{(1+k_e)^{t}}$$
-2. Tuy nhiên các nhà đầu tư có thể sẽ không đầu tư mãi và mong muốn bán cổ phiếu tại một thời điểm kì vọng thì dòng thu nhập của họ thay vì *chỉ là cổ tức mãi mãi* thì sẽ gồm *cổ tức + giá bán* --> *(n hữu hạn)*
+2. Tuy nhiên các nhà đầu tư có thể sẽ không đầu tư mãi và mong muốn *bán cổ phiếu tại một thời điểm* kì vọng thì dòng thu nhập của họ thay vì chỉ là cổ tức mãi mãi thì sẽ gồm cổ tức và giá bán ***(n hữu hạn)***
 	- `P_n: giá bán của cổ phiếu tại thời điểm cuối kì n`
 	$$P = \sum_{t=1}^n \frac{D_t}{(1+k_e)^{t}} + \frac{P_n}{(1+k_e)^n}$$
----
 ##### 3.2.1 Mô hình chiết khấu dòng cổ tức (Dividend Discount Model - DDM)
 1. **Khi tốc độ tăng trưởng cổ tức không đổi (Gordon growth model)**
-	- Cổ tức gia tăng hằng năm với tỉ lệ g
+	- ***Cổ tức gia tăng hằng năm với tỉ lệ g***
 	$$
 	\begin{align}
 	D_0 &: \text{cổ tức vừa chia tại cuối kì thứ 0} \\
@@ -87,7 +87,7 @@ $$P = \frac{F}{(1 + k_d)^n}$$
 	D_{n} &= D_0 \cdot (1+g)^{n}
 	\end{align}
 	$$
-	- Định giá:
+	- ***Định giá***
 	$$
 	\begin{align}
 	P &= \frac{D_1}{1+k_e} + \frac{D_2}{(1+k_e)^2} + \frac{D_3}{(1+k_e)^3} +\ ...\ + \frac{D_n}{(1+k_e)^n}\\\\
@@ -120,51 +120,34 @@ $$P = \frac{F}{(1 + k_d)^n}$$
 			&= \sum_{t=1}^4 \frac{D_t}{(1+k_e)^{t}} + \sum_{t=5}^n \frac{D_4 \cdot (1+g_2)^{n-4}}{(1+k_e)^{n}} = 6.535 + 18.21 = 24.745
 			\end{align}
 			$$
-##### 3.2.2. Mô hình chiết khấu dòng tiền tự do (Free Cash Flow - FCF)
+---
+##### 3.2.2. Mô hình chiết khấu dòng tiền tự do (Discounted Cash Flow - DCF)
 - Mô hình chiết khấu dòng tiền tự do cho doanh nghiệp - FCFF
 - Mô hình chiết khấu dòng tiền tự do cho vốn chủ sở hữu - FCFE
+---
 
-##### 3.2.3. Định giá bằng phương pháp P/E (Price to Earning Ratio)
+##### 3.2.3. Định giá bằng phương pháp P/E
 - Chỉ số P/E thể hiện số tiền mà nhà đầu tư sẵn sàng chi trả cho một đồng lợi nhuận
 $$
 \begin{align}
-P/E &= \frac{Market\ Value}{EPS}\\\\
+P/E &= \frac{Market\ Price}{EPS}\\\\
 << EPS &= \frac{Net\ Income - Preferred\ Equity}{Shares\ outstanding} >> \\\\
 \end{align}
 $$
-- Ý nghĩa :
-	- **P/E thấp :**
+- **Ý nghĩa :**
+	- ***P/E thấp :***
 		- Có thể DN hoạt động hiệu quả hơn so với thời gian trước, khiến EPS tăng --> P/E thấp. Trong TH này có thể nói cổ phiếu đang bị định giá thấp và là cơ hội để chúng ta mua vào
-		- Tuy nhiên, P/E thấp có thể do DN thu được lợi nhuận bất thường (từ thanh lý tài sản, hay bán công ty con,…). Những khoản lợi nhuận này sẽ không bền vững do không đến từ hoạt động kinh doanh cốt lõi và sẽ không lặp lại trong tương lai
-		- Do các cổ đông hiện hữu không còn thấy khả năng phát triển của DN, nên quyết định bán chốt lời --> Market Value giảm --> P/E thấp
-	- **P/E cao :**
+		- Hoặc do các cổ đông hiện hữu không còn thấy khả năng phát triển của DN, nên quyết định bán chốt lời, khiến giá thị trường giảm --> P/E thấp
+	- ***P/E cao :***
 		- Thông thường, chỉ số P/E cao thể hiện sự kỳ vọng của nhà đầu tư về việc tăng trưởng thu nhập từ cổ phiếu đó sẽ cao hơn trong tương lai
-		- Tuy nhiên, chỉ số P/E cao đôi khi là biểu hiện việc doanh nghiệp kinh doanh kém hiệu quả, khiến EPS thấp (thậm chí = 0) --> P/E mới cao
+		- Tuy nhiên, chỉ số P/E cao đôi khi là biểu hiện việc doanh nghiệp kinh doanh kém hiệu quả, khiến EPS thấp --> P/E mới cao
 	---
-- Định giá 
+- **Định giá :** 
 	- Dựa theo P/E trung bình ngành : $$P = EPS_{\ kì\ vọng}\ \cdot\ P/E_{\ trung\ bình\ ngành}$$
-	- Dựa theo P/E kết hợp với mô hình Gordon tăng trưởng cố định với tỷ lệ g :
+	- Dựa theo P/E kết hợp với mô hình Gordon tăng trưởng cố định với tỷ lệ `g` :
 $$
 \begin{align}
 P = \frac{D_1}{k_e - g} &= \frac{Dividend\ Payout\ Ratio \cdot EPS_1}{k_e - g}\\\\
 =>\ P &= EPS_{\ kì\ vọng}\ \cdot\ \frac{Dividend\ Payout\ Ratio}{k_e - g}
 \end{align}
 $$
-
-# 4. Quyết định đầu tư
-### 4.1. Quyết định đầu tư Debt Securities
-1. Thời hạn của dự án đầu tư
-	- Tiền nhàn rỗi trong thời gian dài, nên đầu tư vào chứng khoán nợ dài hạn
-	- Tiền nhàn rỗi trong thời gian ngắn, nên đầu tư vào chứng khoán nợ ngắn hạn hoặc dài hạn nhưng thanh khoản cao
-1. Căn cứ vào kết quả định giá (giá lý thuyết)
-	- Giá lý thuyết > Giá thị trường, nên mua
-	- Giá lý thuyết < Giá thị trường, nên bán
-3. Mức độ chấp nhận rủi ro
-	- Rủi ro khi tái đầu tư
-	- Rủi ro lãi suất
-	- Rủi ro lạm phát
-	- Rủi ro tín dụng : người phát hành không đủ khả năng thanh toán nợ
-	- Rủi ro thanh khoản : khả năng chuyển đổi thành tiền trên thị trường
-	- Rủi ro xếp hạng : dựa vào uy tín của công ty
-4. Dòng tiền kỳ vọng trong tương lai
-### 4.1. Quyết định đầu tư Equity Securities

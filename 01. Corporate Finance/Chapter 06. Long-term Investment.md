@@ -150,7 +150,7 @@ $$NPV = \sum_{t=1}^n \frac{DTT_t}{(1+IRR)^t} + \frac{Thanh\ lý\ TSCĐ + Thu\ h�
 	`<< Chọn r(2) > r(1) tối đa 5%, khoảng cách r1 r2 càng nhỏ càng tốt >>`
 	+ Tìm IRR (nằm giữa r1 và r2) của dự án:
 	$$IRR = r_1 + \frac{|NPV_1|}{|NPV_1| + |NPV_2|} \cdot (r_2 - r_1)$$
-	![[irr-interpolation.png#center|480]]
+	![[IRR_interpolation.png#center|480]]
 - **Tiêu chí lựa chọn dự án:**
 	- IRR < r  ==> Loại bỏ dự án 
 	- IRR = r  ==> Tuỳ theo từng trường hợp để chấp nhận, hoặc loại bỏ
@@ -201,7 +201,7 @@ NPV_A &= NPV_B\\
 <=>\ r' &= 13.08%
 \end{align}
 $$
-![[irr-to-npv.png#center|560]]
+![[NPV_vs_IRR.png#center|560]]
 - Nếu 
 	- r < 13,08 % => chọn dự án A
 	- r > 13,08 % => chọn dự án B

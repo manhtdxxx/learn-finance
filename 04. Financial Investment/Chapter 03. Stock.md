@@ -24,7 +24,7 @@
 	- Để duy trì cán cân ngân sách, chính phủ vay mượn qua trái phiếu hoặc trực tiếp từ các tổ chức tài chính --> tổng cầu nền kinh tế tăng --> có thể gây sức ép tăng lãi suất ảnh hưởng tới vay mượn tư nhân và đầu tư `-- cầu vốn > cung vốn thì cung có nhiều lựa chọn, cung phải tăng lãi suất lên để chọn lọc cầu --`
 - **Sentiment** - tâm lý của người tiêu dùng hoặc nhà sản xuất
 ##### 1.1.3. Interest Rate
-![[loanable-funds-theory.jpg#center|360x]]
+![[loanable_funds_theory.jpg#center|360x]]
 -  Lí thuyết về cung cầu vốn vay *(Loanable Funds Theory)* là lí thuyết cho rằng lãi suất thị trường bị tác động bởi các yếu tố tác động tới cung và cầu của các món cho vay
 	- Lãi suất càng tăng thì nhu cầu vay vốn càng giảm --> đường cầu vốn dốc xuống
 	- Lãi suất càng tăng thì nhu cầu tiết kiệm và cho vay càng tăng --> đường cung vốn dốc lên
@@ -73,8 +73,8 @@
 	- Chính sách phát triển cơ sở hạ tầng
 	- ...
 ##### 1.1.6. Economic Cycle / Business Cycle
-![[business-cycle.webp#center|480x]]
-![[sector-rotation.png#center|480x]]
+![[business_cycle.webp#center|480x]]
+![[sector_rotation.png#center|480x]]
 - **Thị trường chứng khoán** thường đi trước **nền kinh tế** từ 6 đến 9 tháng.
 
 | Economic Cycle  | Stock Market Cycle | Sectors                            | Why                                                                                                       |
@@ -98,7 +98,7 @@
 		- Khi nền kinh tế phát triển, doanh nghiệp có thể tận dụng *vay vốn* để tăng trưởng nhanh, tăng lợi nhuận. Nhưng trong thời kỳ kinh tế suy thoái, chi phí lãi vay vẫn phải trả, làm cho lợi nhuận sụt giảm nhanh hơn.
 		- Vì vậy, doanh nghiệp dùng *nhiều nợ* (đòn bẩy tài chính cao) sẽ *chịu ảnh hưởng lớn hơn* từ các biến động kinh tế.
 ##### 1.2.2. Industry Life Cycle
-![[industry-life-cycle.png#center|360]]
+![[industry_life_cycle.png#center|360]]
 - Perter Lynch phân chia các công ty theo 6 nhóm:
 	1. **Slow Growers – Doanh nghiệp tăng trưởng chậm**
 		- Giai đoạn tương ứng: *Trưởng thành / Suy thoái*
@@ -296,7 +296,7 @@
 	- Áp dụng với công ty đang trong giai đoạn :
 		- Giai đoạn 1: tăng trưởng *cao* nhưng *ổn định* trong *`n` năm đầu*
 		- Giai đoạn 2: tăng trưởng *ổn định* với *tỉ lệ `g_2`*
-	![[ddm-two-stage.jpg#center|560]]
+	![[two_stage_DDM.jpg#center|560]]
 	$$
 	\begin{align}
 	P_0 &= \sum_{t=1}^n \frac{D_0 \cdot (1 +g_1)^t}{(1 + r_1)^{t}} + \frac{P_n}{(1 + r_1)^n}\\\\
@@ -309,7 +309,7 @@
 		- Giai đoạn 1: tăng trưởng *cao* nhưng *ổn định* trong *`n` năm đầu*
 		- Giai đoạn 2: tăng trưởng *giảm dần* trong *`m` năm tiếp theo*
 		- Giai đoạn 3: tăng trưởng *ổn định* với tỉ lệ `g`
-	![[ddm-three-stage.jpg#center|560]]
+	![[three_stage_DDM.jpg#center|560]]
 	$$
 	\begin{align}
 	P_0 &= \sum_{t=1}^n \frac{D_0 \cdot (1 +g_1)^t}{(1 + r_1)^{t}} + \frac{P_n}{(1 + r_1)^n}\\\\

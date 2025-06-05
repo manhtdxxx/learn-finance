@@ -141,7 +141,7 @@ $$
 	- *Khi nào* đặt hay bổ sung tồn kho dự trữ?
 	- Mỗi lần cần đặt hay bổ sung tồn kho mới là *bao nhiêu*?
 ##### 2.3.1. Mô hình EOQ - Economic Order Quantity
-![[eoq_1.png#center]]
+![[EOQ_1.png#center]]
 - Hàm tổng chi phí :
 	- `C(1) : chi phí lưu kho trong 1 năm`
 	- `c(1) : chi phí lưu kho đơn vị trong 1 năm`
@@ -151,7 +151,7 @@ $$
 	- `Q: Số lượng mỗi lần đặt hàng`
 	$$C = C_1 + C_2 = c_1 \cdot \frac{Q}{2} + c_2 \cdot \frac{D}{Q}$$
 - Tìm điểm tối thiểu hóa chi phí :
-	- ![[eoq_2.webp#center]]
+	- ![[EOQ_2.webp#center]]
 	- *Điểm đặt hàng tối ưu* :
 	$$
 	\begin{align}

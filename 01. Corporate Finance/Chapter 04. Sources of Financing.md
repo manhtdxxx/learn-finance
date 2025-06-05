@@ -37,7 +37,7 @@
 	\end{align}$$
 	- *Tính theo lãi kép :*
 	$$\begin{align}
-	Tỷ\ lệ\ chi\ phí /năm = (1\ +\ \frac{Discount\ Rate}{1 - Discount\ Rate})^\frac{360}{Payment\ Days - Discount\ Days}\ - 1
+	Tỷ\ lệ\ chi\ phí /năm = (1\ +\ \frac{Discount\ Rate}{1 - Discount\ Rate})^\dfrac{360}{Payment\ Days - Discount\ Days}\ - 1
 	\end{align}$$
 ##### 3.3 Tín dụng ngân hàng
 - *Vay không có đảm bảo:*
@@ -59,7 +59,7 @@
 		$$
 # 4. Nguồn tài trợ dài hạn
 ### 4.1. Phát hành chứng khoán
-[[Chapter 03-1. Financial Instruments]]
+[[Chapter 03-1. Financial Instrument]]
 ### 4.2. Vay dài hạn
 - DN đi vay các tổ chức tài chính dưới dạng 1 hợp đồng tín dụng
 - Lãi suất khoản vay dài hạn có thể theo 2 cách :
@@ -110,4 +110,4 @@
 		\frac{(EBIT_1 - I_1)\cdot(1-t)}{NS_1} &= \frac{(EBIT_2 - I_2)\cdot(1-t)}{NS_2}
 		\end{align}
 		$$
-		![[indifference-point.jpg#center|480]]
+		![[indifference_point.jpg#center|480]]

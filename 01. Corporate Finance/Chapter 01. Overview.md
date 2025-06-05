@@ -24,7 +24,7 @@
 			- Nhiều nợ sẽ mất khả năng thanh khoản
 			- Nhiều VCSH sẽ pha loãng thu nhập và cổ phần của các cổ đông
 2. **Investment Decision** `<< quan trọng nhất trong 3 >>`
-	[[Chapter 03-2. Financial Investment]]
+	[[Chapter 03-2. Valuation]]
 	[[Chapter 06. Long-term Investment]]
 	- Chủ yếu liên quan đến việc hình thành *TSCĐ* --> đưa ra quyết định có nên thực hiện một dự án đầu tư dài hạn hay không, đa dạng về quy mô và thời gian
 3. **Dividend Decision**

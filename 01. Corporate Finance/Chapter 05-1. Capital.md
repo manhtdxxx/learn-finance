@@ -4,7 +4,7 @@
 ---
 ### 1.1. Cost of Debt
 - Khi đi vay, phần lợi nhuận khi tính thuế TNDN sẽ không tính phần lãi vay
-- Chi phí sử dụng vốn vay là *tỷ lệ chiết khấu (i)* làm cân bằng *dòng tiền (CF) mà DN phải thanh toán cho chủ nợ* trong tương lai và *khoản nợ vay (P)* mà DN vay hiện tại
+- Chi phí sử dụng vốn vay là tỷ lệ chiết khấu `(i)` làm cân bằng dòng tiền `(CF)` mà DN phải thanh toán cho chủ nợ trong tương lai và khoản nợ vay `(P)` mà DN vay hiện tại
 ##### 1.1.1. Before Tax
 - Hàng năm, sẽ trả dần khoản vay gồm tiền gốc lẫn tiền lãi
 $$ P = \sum_{t=1}^n \frac{CF_t}{(1+i)^t}$$
@@ -67,7 +67,7 @@ $$i  = \frac{D_1}{P} + g$$
 ### 1.4. Marginal Cost of Capital (MCC)
 - Chi phí sử dụng vốn cận biên là *chi phí* cho *đồng vốn mới nhất tăng thêm* khi doanh nghiệp huy động đầu tư cho hoạt động kinh doanh `-- WACC đạo hàm theo t(i), T --`
 - DN sẽ huy động vốn có *chi phí thấp trước* (lợi nhuận giữ lại, nợ lãi suất thấp, ...). Tuy nhiên, khi DN *đạt đến giới hạn* của những nguồn giá rẻ này (hết lợi nhuận giữ lại, nợ thêm sẽ tăng lãi, ...) và *cần phát hành cổ phiếu mới*, *chi phí sẽ tăng vọt* vì vốn chủ sở hữu thường có chi phí cao hơn nợ --> Bước nhảy này sẽ phản ánh được mối quan hệ phi tuyến tính
-![[marginal-wacc.png#center|480]]
+![[marginal_WACC.png#center|480]]
 - **Điểm gãy** - **Break Point** là điểm mà số vốn mới có thể huy động được trước khi MCC nhảy vọt
 $$Break\ Point\ i = \frac{Tổng\ giá\ trị\ của\ nguồn\ vốn\ i}{Tỷ\ trọng\ của\  nguồn\ vốn\ i}$$
 **==>** DN có thể huy động vốn tới Break-Point (Tổng số vốn mới) mà không thay đổi WACC, sau đó nếu muốn tăng vốn, thì WACC sẽ nhảy vọt

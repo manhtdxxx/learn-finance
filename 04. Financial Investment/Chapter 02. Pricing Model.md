@@ -1,0 +1,137 @@
+# 1. Simple Index Model - SIM
+### 1.1. Assumption
+- Quan hệ tuyến tính giữa lợi suất của tài sản tài chính và lợi suất chung của thị trường
+- Rủi ro của chứng khoán bao gồm hai thành phần:
+	- Rủi ro hệ thống 
+	- Rủi ro phi hệ thống (là rủi ro không liên quan tới thị trường, hay nói cách khác là rủi ro đặc thù của công ty)
+- Hệ số beta không đổi theo thời gian => mối quan hệ giữa giá chứng khoán và chỉ số thị trường là ổn định
+- ...
+### 1.2. Regression Equation
+- **Lợi suất vượt trội (Excess Return):**
+$$
+\begin{flalign*}
+ r_M &: \text{lợi suất của thị trường} && \\
+ r_i &: \text{lợi suất của tài sản rủi ro thứ } i && \\
+r_f &: \text{lợi suất của tài sản phi rủi ro} && \\
+R_M &: \text{lợi suất vượt trội của thị trường} && \\
+R_i &: \text{lợi suất vượt trội tài sản rủi ro thứ i} &&
+\end{flalign*}
+$$
+$$
+\begin{align}
+R_M &= r_M - r_f\\
+R_i &= r_i - r_f\\\\
+\end{align}
+$$
+- **Phương trình hồi quy:** `<< khi có dữ liệu của lợi suất chứng khoán i, thị trường trong quá khứ thì ta thực hiện hồi quy để tìm alpha, beta, phương sai của rủi ro phi hệ thống >>`
+$$
+\begin{flalign*}
+\alpha_i &: \text{hệ số chặn của chứng khoán i} &&\\
+\beta_i &: \text{độ nhạy cảm của chứng khoán i so với thị trường} &&\\
+\epsilon_i(t) &: \text{rủi ro phi hệ thống của chứng khoán i tại thời điểm t } (E(\epsilon_i) = 0)
+\end{flalign*}
+$$
+$$
+\begin{align}
+R_i(t) &= \alpha_i + \beta_i \cdot R_m(t) + \epsilon_i(t)\\\\
+\end{align}
+$$
+- **Đại lượng thống kê:**
+$$
+\begin{align}
+E(R_i) &= \alpha_i + \beta_i \cdot E(R_m) \tag{1}\\\\
+\sigma^2_i &= \beta^2_i \cdot \sigma^2_M + \sigma^2(e_i) \tag{2}\\\\
+Cov(r_i, r_j) &= \beta_i \cdot \beta_j \cdot \sigma^2_M \tag{3}\\\\
+Corr(r_i, r_j) &= \frac{Cov(r_i, r_j)}{\sigma_i \cdot \sigma_j} = \frac{\beta_i \cdot \beta_j \cdot \sigma^2_M}{\sigma_i \cdot \sigma_j} \tag{4}\\
+&= \frac{\beta_i \cdot \sigma^2_M \cdot \beta_j \cdot \sigma^2_M}{\sigma_i \cdot \sigma_M \cdot \sigma_j \cdot \sigma_M} = Corr(r_i, r_M) \cdot Corr(r_j, r_M)\\\\
+\end{align}
+$$
+### 1.3. Portfolio Diversification
+- **Lợi suất vượt trội của danh mục đầu tư** với tỷ trọng tài sản bằng nhau (w = 1/n)
+	$$
+	\begin{align}
+	R_p = \sum_{i=1}^n wi \cdot R_i &= \frac{1}{n} \sum_{i=1}^n (\alpha_i + \beta_i \cdot R_m + \epsilon_i)\\\\
+	&= (\frac{1}{n} \sum_{i=1}^n \alpha_i) + (\frac{1}{n} \sum_{i=1}^n \beta_i) \cdot R_m + (\frac{1}{n} \sum_{i=1}^n \epsilon_i)\\\\
+	&= \alpha_p + \beta_p \cdot R_M + \epsilon_p\\\\
+	\end{align}
+	$$
+- **Phương sai của danh mục đầu tư:**
+	$$
+	\begin{align}
+	\sigma^2_p = \beta^2_p \cdot \sigma^2_M + \sigma^2(e_p)\\\\
+	\end{align}
+	$$
+	-  Khi n càng lớn:
+		- Rủi ro phi hệ thống ***(Unsystematic Risk)*** trở nên không đáng kể do là ngẫu nhiên từ phân phối có trung bình bằng 0, khi lấy trung bình thì chúng triệt tiêu
+		- Rủi ro hệ thống ***(Systematic Risk)*** tồn tại bất kể mức độ đa dạng hóa của danh mục. Beta là tham số cố định cho từng tài sản, không mất đi khi lấy trung bình
+		![[unsystematic_risk.png#center|560]]
+# 2. Capital Asset Pricing Model - CAPM
+### 2.1. Assumption
+- Thị trường hoàn hảo
+	- Không phí giao dịch, không thuế
+	- Không giới hạn trong việc bán khống
+	- Thông tin có sẵn và miễn phí ngay cho nhà đầu tư
+- Các nhà đầu tư 
+	- Có hành vi hợp lý: tối đa hóa lợi nhuận kỳ vọng dựa trên rủi ro
+	- Có kỳ vọng đồng nhất: mọi nhà đầu tư đều có cùng kỳ vọng về lợi nhuận, rủi ro và tương quan giữa các tài sản
+	- Có khoảng thời gian đầu tư giống nhau
+- Tồn tại tài sản phi rủi ro mà nhà đầu tư có thể vay và cho vay với lãi suất không đổi
+- ...
+### 2.2. Component Breakdown
+- **Danh mục thị trường:**
+	- Gồm ***toàn bộ các tài sản rủi ro*** hiện đang được giao dịch trên thị trường
+	- Tỷ trọng của một cổ phiếu trong danh mục được đo lường bằng giá trị thị trường của cổ phiếu đó trên tổng danh mục đầu tư
+- **Phần bù rủi ro:**
+	- Là ***phần lợi suất kỳ vọng vượt trên lãi suất phi rủi ro*** để bù đắp cho nhà đầu tư về việc chấp nhận rủi ro đầu tư vào danh mục thị trường
+	- Nếu phần bù rủi ro của danh mục thị trường > mức ngại rủi ro trung bình của các nhà đầu tư, nhà đầu tư sẽ tăng tỷ trọng đầu tư vào tài sản rủi ro --> cầu chứng khoán tăng, đẩy giá lên cao --> lợi suất của danh mục thị trường giảm --> phần bù rủi ro của danh mục thị trường giảm
+	- Như vậy, phần bù rủi ro phải vừa đủ để nhà đầu tư có thể an tâm nắm giữ danh mục thị trường
+		$$
+		\begin{align}
+		E(r_M) - r_f = \bar{A} \cdot \sigma^2_M\\\\
+		\end{align}
+		$$
+- **Lợi suất kỳ vọng của chứng khoán riêng lẻ**
+	- Nhà đầu tư muốn biết liệu đầu tư vào từng chứng khoán riêng lẻ có hấp dẫn hay không? 
+	- Nhưng rủi ro của chứng khoán riêng lẻ không phải là độ lệch chuẩn tổng thể của danh mục thị trường. Vậy phần rủi ro nào thực sự ảnh hưởng đến lợi suất kỳ vọng của chứng khoán riêng lẻ?
+	- Với ***danh mục thị trường đã đa dạng hóa***, rủi ro phi hệ thống có thể gần như bị triệt tiêu. Vì vậy, ta ***chỉ cần*** xác định định ***rủi ro hệ thống*** của chứng khoán riêng lẻ dựa trên công thức:
+		$$
+		\begin{align}
+		\beta_i &= \frac{Cov(r_i, r_M)}{Var(r_M)} = \frac{Cov(r_i, r_M)}{\sigma^2_M}\\
+		\end{align}
+		$$
+	- ***Lợi suất kỳ vọng của chứng khoán riêng lẻ*** được tính dựa trên rủi ro hệ thống (beta):
+		$$
+		\begin{align}
+		E(r_i) &= r_f + \beta_i \cdot [\ E(r_M) - r_f\ ]\\\\
+		\end{align}
+		$$
+### 2.3. Stock Market Line (SML)
+
+| **Tiêu chí**      | **SML (Security Market Line)**                                               | **CML (Capital Market Line)**                                                                                  | **CAL (Capital Allocation Line)**                                                                                                                            |
+| ----------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Áp dụng           | Cho từng ***tài sản riêng lẻ***                                              | Cho ***danh mục hiệu quả*** (danh mục thị trường + tài sản phi rủi ro)                                         | Cho ***bất kỳ danh mục*** rủi ro + tài sản phi rủi ro                                                                                                        |
+| Thước đo rủi ro   | ***Beta*** (rủi ro hệ thống của từng tài sản riêng lẻ)                       | ***Độ lệch chuẩn (σ)*** – rủi ro tổng thể của danh mục hiệu quả                                                | ***Độ lệch chuẩn (σ)*** – rủi ro tổng thể của danh mục bất kỳ                                                                                                |
+| Thành phần rủi ro | ***Chỉ xét rủi ro hệ thống*** (CAPM giả định đã loại bỏ rủi ro phi hệ thống) | Giả định ***đã đa dạng hóa hoàn toàn rủi ro phi hệ thống***                                                    | Có thể ***chưa đa dạng hóa hết rủi ro phi hệ thống***, tùy thuộc vào danh mục được chọn                                                                      |
+| Ý nghĩa đường     | Mối quan hệ giữa Beta và lợi suất kỳ vọng (theo CAPM)                        | Hiệu quả tối ưu giữa rủi ro và lợi suất khi dùng danh mục thị trường. Chỉ tồn tại ***một đường CML duy nhất*** | Biểu diễn mọi lựa chọn kết hợp giữa tài sản rủi ro và phi rủi ro. Có ***nhiều đường CAL***, mỗi đường tùy thuộc vào danh mục rủi ro được chọn bởi nhà đầu tư |
+| Độ dốc            | $$E(r_m) - r_f$$                                                             | $$\frac{E(r_m) - r_f}{\sigma_m}$$                                                                              | $$\frac{E(r_p) - r_f}{\sigma_p}$$                                                                                                                            |
+| Đối tượng sử dụng | Nhà phân tích chứng khoán, dùng để định giá tài sản phiếu                    | Nhà đầu tư theo danh mục thị trường và tài sản phi rủi ro (chiến lược tối ưu thị trường)                       | Nhà đầu tư cá nhân với khẩu vị rủi ro riêng, chọn danh mục rủi ro bất kỳ kết hợp tài sản phi rủi ro                                                          |
+- **Đường thị trường chứng khoán SML**
+	![[SML.png#center|480]]
+	- Nếu tài sản 
+		- nằm bên trái `beta = 1` --> tài sản có rủi ro thấp, và mức sinh lời cũng thấp hơn thị trường ***(defensive)***
+		- nằm bên phải `beta = 1` --> tài sản có rủi ro cao hơn thị trường, đòi hỏi mức sinh lời cao hơn ***(aggressive)***
+		- nằm trên SML --> tài sản được định giá giá thấp ***(undervalued)***, nên mua
+		- nằm dưới SML --> tài sản bị định giá cao ***(overvalued)***, nên bán
+	---
+	- Chênh lệch giữa tỷ lệ lợi tức kỳ vọng thực tế và tỷ lệ lợi tức đo lượng bởi CAPM trên một cổ phiếu gọi là ***α*** của cổ phiếu đó, hay là ***phần tỷ lệ lợi tức được định giá sai*** trên thị trường
+		$$
+		\begin{align}
+		E(r_i) &= \alpha_i + r_f + \beta_i \cdot [\ E(r_M) - r_f\ ]\\\\
+		\end{align}
+		$$
+# 3. Arbitrage Pricing Theory - APT
+### 3.1. Assumption
+- APT là một mô hình định giá tài sản thay thế cho mô hình CAPM. Nó cho rằng **lợi suất kỳ vọng của một tài sản** là hàm tuyến tính của **nhiều yếu tố rủi ro hệ thống**. VD: lãi suất, lạm phát, tăng trưởng kinh tế, ...
+- Các cơ hội kinh doanh chênh lệch giá không tồn tại lâu dài. Khi có tài sản bị định giá sai, nhiều người sẽ cùng tận dụng cơ hội kiếm lời, khiến giá nhanh chóng về mức hợp lý, nên cơ hội chênh lệch giá không tồn tại lâu
+- Danh mục có đủ chứng khoán để đa dạng hóa rủi ro đặc thù
+### 3.2. Arbitrage
