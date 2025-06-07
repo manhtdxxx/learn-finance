@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Financial Investment/Chapter 05-1. Asset Allocation.md",
-                "mode": "preview",
+                "file": "04. Financial Investment/Chapter 02. Pricing Model.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 05-1. Asset Allocation"
+              "title": "Chapter 02. Pricing Model"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Financial Investment/Chapter 05-1. Asset Allocation.md",
+                "file": "04. Financial Investment/Chapter 02. Pricing Model.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 05-1. Asset Allocation"
+              "title": "Outline of Chapter 02. Pricing Model"
             }
           },
           {
@@ -180,13 +180,15 @@
   },
   "active": "82c21eccbc5d0f2a",
   "lastOpenFiles": [
-    "04. Financial Investment/Chapter 05-2. Portfolio Theory.md",
+    "04. Financial Investment/Chapter 03. Stock.md",
     "04. Financial Investment/Chapter 04. Bond.md",
+    "04. Financial Investment/Chapter 05-1. Asset Allocation.md",
+    "04. Financial Investment/Chapter 07. Technical Analysis.md",
+    "04. Financial Investment/Chapter 06. Portfolio Strategy.md",
+    "04. Financial Investment/Chapter 05-2. Portfolio Theory.md",
     "03. Financial Statement Analysis/Chapter 04. AR & AP.md",
     "03. Financial Statement Analysis/Chapter 05. Liquidity & Solvency.md",
     "03. Financial Statement Analysis/Chapter 06. Efficiency & Profitability.md",
-    "04. Financial Investment/Chapter 05-1. Asset Allocation.md",
-    "04. Financial Investment/Chapter 07. Technical Analysis.md",
     "01. Corporate Finance/Chapter 02. Time Value of Money.md",
     "01. Corporate Finance/Chapter 06. Long-term Investment.md",
     "01. Corporate Finance/Chapter 07. Asset Management.md",
@@ -195,9 +197,7 @@
     "01. Corporate Finance/Chapter 10. Dividend Policy.md",
     "01. Corporate Finance/Chapter 04. Sources of Financing.md",
     "01. Corporate Finance/Chapter 03-2. Valuation.md",
-    "04. Financial Investment/Chapter 03. Stock.md",
     "04. Financial Investment/Chapter 02. Pricing Model.md",
-    "04. Financial Investment/Chapter 06. Portfolio Strategy.md",
     "Visuals/bond_price_to_interest_rate.png",
     "01. Corporate Finance/Chapter 03-1. Financial Instrument.md",
     "01. Corporate Finance/Chapter 05-1. Capital.md",

@@ -245,9 +245,9 @@ $$
 	- Thời hạn càng dài thì độ lồi càng cao
 	- Khi lợi suất tăng thì độ lồi giảm. Đường cong giá lồi hơn ở mức lợi suất thấp và ít lồi hơn ở mức lợi suất cao
 	- Khi lợi suất giảm, giá trái phiếu tăng lên nhiều hơn so với việc giá trái phiếu giảm khi lợi suất tăng cùng một lượng
-	- Giả sử trái phiếu A có đường cong giá lồi hơn trái phiếu B
-		- Khi lợi suất giảm, giá trái phiếu A tăng nhiều hơn B
-		- Khi lợi suất tăng, giá trái phiếu A giảm ít hơn B
+	- Giả sử 2 trái phiếu cùng Duration, trái phiếu A có đường cong giá lồi hơn trái phiếu B
+		- Khi lợi suất giảm, giá A tăng nhiều hơn B
+		- Khi lợi suất tăng, giá A giảm ít hơn B
 - ![[convexity.png#center|480x]]
 - **Công thức Convexity:**
 	$$
