@@ -22,6 +22,12 @@
 	    - Chỉ số *cao* → bị chiếm dụng vốn lâu
 ---
 - **Chỉ tiêu 2 :**
+	-  Tỷ lệ phải thu
+	$$
+	\begin{align}
+	...\ = \frac{\text{AR}}{\text{Assets}}
+	\end{align}
+	$$
 	-  Tỷ lệ phải thu quá hạn so với phải thu
 	$$
 	\begin{align}
@@ -60,6 +66,12 @@
 	    - Chỉ số *cao* → DN thanh toán chậm
 ---
 - **Chỉ tiêu 2 :**
+	-  Tỷ lệ phải trả
+	$$
+	\begin{align}
+	...\ = \frac{\text{AP}}{\text{Capital}}
+	\end{align}
+	$$
 	-  Tỷ lệ phải trả quá hạn so với phải trả
 	$$
 	\begin{align}

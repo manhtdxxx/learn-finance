@@ -38,13 +38,13 @@
 	- **Khả năng thanh toán tổng quát**
 	$$
 	\begin{align}
-	\text{...} &= \frac{\text{Total Assets}}{\text{Total Debt}}\\\\
+	\text{...} &= \frac{\text{Total Assets}}{\text{Total Liabilities}}\\\\
 	\end{align}
 	$$
 	- **Khả năng thanh toán dài hạn**
 	$$
 	\begin{align}
-	\text{...}\ &= \frac{\text{Non-current Assets}}{\text{Long-term Debt}}\\\\
+	\text{...}\ &= \frac{\text{Non-current Assets}}{\text{Long-term Liabilities}}\\\\
 	\end{align}
 	$$
 	- **Khả năng thanh toán lãi vay**

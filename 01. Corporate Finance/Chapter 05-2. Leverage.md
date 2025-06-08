@@ -71,7 +71,7 @@ $$
 	\end{align}
 	$$
 ---
-### 2.2. Mối quan hệ giữa OROA và ROE
+### 2.2. Mối quan hệ giữa DFL và ROE
 - **Return on Assets - ROA:** tỉ suất lợi nhuận ròng trên tổng tài sản (Equity + Debt)
 	`--> cứ 1 đồng tài sản (VCSH + NPT) sẽ có ROA đồng lợi nhuận ròng`
 - **Return on Equity - ROE:** tỉ suất lợi nhuận ròng trên vốn chủ sở hữu là chỉ số quan trọng nhất đối với các cổ đông 
@@ -104,7 +104,7 @@ $$
 		`<< OROA (đồng lợi nhuận trước lãi vay sinh ra từ 1 đồng tài sản) = i (đồng chi phí lãi vay sinh ra từ 1 đồng vay nợ) >>`
 		- Dù vay như thế nào thì lợi nhuận trước và sau lãi vay như nhau
 ---
-### 2.3. Mối quan hệ giữa EBIT và EPS
+### 2.3. Mối quan hệ giữa DFL và EBIT
 - **Câu hỏi đặt ra:** Ta thấy vay càng nhiều thì DFL càng lớn, vậy vay càng nhiều thì EPS sẽ càng cao?
 $$
 \begin{align}

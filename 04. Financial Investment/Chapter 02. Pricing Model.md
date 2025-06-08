@@ -132,6 +132,6 @@ $$
 # 3. Arbitrage Pricing Theory - APT
 ### 3.1. Assumption
 - APT là một mô hình định giá tài sản thay thế cho mô hình CAPM. Nó cho rằng **lợi suất kỳ vọng của một tài sản** là hàm tuyến tính của **nhiều yếu tố rủi ro hệ thống**. VD: lãi suất, lạm phát, tăng trưởng kinh tế, ...
-- Các cơ hội kinh doanh chênh lệch giá không tồn tại lâu dài. Khi có tài sản bị định giá sai, nhiều người sẽ cùng tận dụng cơ hội kiếm lời, khiến giá nhanh chóng về mức hợp lý, nên cơ hội chênh lệch giá không tồn tại lâu
+- **Các cơ hội kinh doanh chênh lệch giá không tồn tại lâu dài.** Khi có tài sản bị định giá sai, nhiều người sẽ cùng tận dụng cơ hội kiếm lời, khiến giá nhanh chóng về mức hợp lý, nên cơ hội chênh lệch giá không tồn tại lâu
 - Danh mục có đủ chứng khoán để đa dạng hóa rủi ro đặc thù
 ### 3.2. Arbitrage
