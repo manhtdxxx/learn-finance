@@ -3,8 +3,8 @@
 > $$
 > \begin{align}
 > \text{Total Revenue} &= \text{Doanh thu thuần + Doanh thu tài chính + Thu nhập khác}\\\\
-> \text{Operating Costs} &= \text{Giá vốn hàng bán + Chi phí bán hàng + Chi phí QLDN}\\
-> \text{Total Costs} &= \text{Operating Costs + Chi phí tài chính + Chi phí khác}\\\\
+> \text{Operating Expenses} &= \text{Giá vốn hàng bán + Chi phí bán hàng + Chi phí QLDN}\\
+> \text{Total Expenses} &= \text{Operating Expenses + Chi phí tài chính + Chi phí khác}\\\\
 > \text{Gross Profit} &= \text{Doanh thu thuần - Giá vốn hàng bán}\\
 > \text{Operating Profit} &= \text{Gross Profit - Chi phí bán hàng - Chi phí QLDN}\\
 > \text{EBT} &= \text{Operating Profit + Lợi nhuận tài chính + Lợi nhuận khác}\\\\
@@ -86,6 +86,6 @@ $$
 \text{Tỷ suất sinh lời từ COGS} &= \frac{\text{Gross Profit}}{\text{COGS}}\\\\
 \text{Tỷ suất sinh lời từ CPBH} &= \frac{\text{Operating Profit}}{\text{Selling Expenses}}\\\\
 \text{Tỷ suất sinh lời từ CPQLDN} &= \frac{\text{Operating Profit}}{\text{Administrative Expenses}}\\\\
-\text{Tỷ suất sinh lời từ tổng CP} &= \frac{\text{EBT}}{\text{Total Costs}}\\\\
+\text{Tỷ suất sinh lời từ tổng CP} &= \frac{\text{EBT}}{\text{Total Expenses}}\\\\
 \end{align}
 $$

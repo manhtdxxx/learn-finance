@@ -48,7 +48,7 @@ $$
 	$$
 	\begin{align}
 	\text{ROE} &= \frac{\text{Net Income}}{\text{Average Equity}}\\\\
-	&= \frac{\text{Net Income}}{\text{Total Revenue}} \cdot \frac{\text{Total Revenue}}{\text{Average Assets}} \cdot \frac{\text{Average Assets}}{\text{Average Equity}}\\\\
+	&= \frac{\text{Net Income}}{\text{Net Revenue}} \cdot \frac{\text{Net Revenue}}{\text{Average Assets}} \cdot \frac{\text{Average Assets}}{\text{Average Equity}}\\\\
 	&= \text{ROS} \cdot \text{Asset Turnover} \cdot \text{Financial Leverage}\\
 	\end{align}
 	$$
@@ -57,7 +57,7 @@ $$
 	$$
 	\begin{align}
 	\text{ROE} &= \frac{\text{Net Income}}{\text{Average Equity}}\\\\
-	&= \frac{\text{Net Income}}{\text{EBIT}} \cdot \frac{\text{EBIT}}{\text{EBITDA}} \cdot \frac{\text{EBITDA}}{\text{Total Revenue}} \cdot \frac{\text{Total Revenue}}{\text{Average Assets}} \cdot \frac{\text{Average Assets}}{\text{Average Equity}}\\
+	&= \frac{\text{Net Income}}{\text{EBIT}} \cdot \frac{\text{EBIT}}{\text{EBITDA}} \cdot \frac{\text{EBITDA}}{\text{Net Revenue}} \cdot \frac{\text{Net Revenue}}{\text{Average Assets}} \cdot \frac{\text{Average Assets}}{\text{Average Equity}}\\
 	\end{align}
 	$$
 # 4. Phương pháp đồ thị

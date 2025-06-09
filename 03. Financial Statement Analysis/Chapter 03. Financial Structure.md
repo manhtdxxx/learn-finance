@@ -1,8 +1,8 @@
 # 1. Capital Structure
-|            Chỉ tiêu            | Cao                                                                                                                              | Thấp                                                                                  |
-| :----------------------------: | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-|       **Debt / Capital**       | ❌ Rủi ro cao <br>❌ Chi phí lãi vay cao <br> ✅ Lợi về thuế TNDN                                                                   | ✅ Rủi ro thấp <br>✅ Chi phí lãi vay thấp <br> ❌ Không được lợi về thuế TNDN           |
-| **Accounts Payable / Capital** | ✅ Tăng cường vốn sử dụng cho hoạt động kinh doanh (Chiếm dụng vốn) <br> ❌ Không được hưởng các khoản chiết khấu<br> ❌ Mất uy tín | ❌ Hạn chế vốn sử dụng cho hoạt động kinh doanh <br> ✅ Được hưởng các khoản chiết khấu |
+|              Chỉ tiêu               | Cao                                                                                                                              | Thấp                                                                                  |
+| :---------------------------------: | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Interest-bearing Debt / Capital** | ❌ Rủi ro cao <br>❌ Chi phí lãi vay cao <br> ✅ Lợi về thuế TNDN                                                                   | ✅ Rủi ro thấp <br>✅ Chi phí lãi vay thấp <br> ❌ Không được lợi về thuế TNDN           |
+|   **Accounts Payable / Capital**    | ✅ Tăng cường vốn sử dụng cho hoạt động kinh doanh (Chiếm dụng vốn) <br> ❌ Không được hưởng các khoản chiết khấu<br> ❌ Mất uy tín | ❌ Hạn chế vốn sử dụng cho hoạt động kinh doanh <br> ✅ Được hưởng các khoản chiết khấu |
 
 
 # 2. Asset Structure
