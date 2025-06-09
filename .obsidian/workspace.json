@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Financial Statement Analysis/Chapter 07. Financial Crisis & Risk.md",
+                "file": "04. Financial Investment/Chapter 05-1. Asset Allocation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 07. Financial Crisis & Risk"
+              "title": "Chapter 05-1. Asset Allocation"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Financial Statement Analysis/Chapter 07. Financial Crisis & Risk.md",
+                "file": "04. Financial Investment/Chapter 05-1. Asset Allocation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 07. Financial Crisis & Risk"
+              "title": "Outline of Chapter 05-1. Asset Allocation"
             }
           },
           {
@@ -178,17 +178,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23d17c78d24123a9",
+  "active": "15f8c03635cdcca1",
   "lastOpenFiles": [
+    "04. Financial Investment/Chapter 05-2. Portfolio Theory.md",
+    "03. Financial Statement Analysis/Chapter 07. Financial Crisis & Risk.md",
     "03. Financial Statement Analysis/Chapter 06. Efficiency & Profitability.md",
     "03. Financial Statement Analysis/Chapter 05. Liquidity & Solvency.md",
     "03. Financial Statement Analysis/Chapter 04. AR & AP.md",
     "03. Financial Statement Analysis/Chapter 02. Analysis Methods.md",
     "03. Financial Statement Analysis/Chapter 03. Financial Structure.md",
-    "03. Financial Statement Analysis/Chapter 07. Financial Crisis & Risk.md",
     "04. Financial Investment/Chapter 07. Technical Analysis.md",
     "04. Financial Investment/Chapter 06. Portfolio Strategy.md",
-    "04. Financial Investment/Chapter 05-2. Portfolio Theory.md",
     "04. Financial Investment/Chapter 03. Stock.md",
     "04. Financial Investment/Chapter 01. Overview.md",
     "04. Financial Investment/Chapter 02. Pricing Model.md",
