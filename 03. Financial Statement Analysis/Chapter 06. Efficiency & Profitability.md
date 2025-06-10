@@ -3,12 +3,12 @@
 > $$
 > \begin{align}
 > \text{Net Revenue} &= \text{Operating Revenue - Sales Return}\\
-> \text{Total Revenue} &= \text{Net Revenue + Financing Revenue + Other Revenue}\\\\
+> \text{Total Revenue} &= \text{Net Revenue + Finance Income + Other Income}\\\\
 > \text{Operating Expenses} &= \text{COGS + Selling Expenses + Administrative Expenses}\\
-> \text{Total Expenses} &= \text{Operating Expenses + Financing Expeneses + Other Expenses}\\\\
+> \text{Total Expenses} &= \text{Operating Expenses + Finance Expeneses + Other Expenses}\\\\
 > \text{Gross Profit} &= \text{Net Revenue - COGS}\\
 > \text{Operating Profit} &= \text{Net Revenue - Operating Expenses}\\
-> \text{EBT} &= \text{Operating Profit + Financing Profit + Other Profit}\\\\
+> \text{EBT} &= \text{Operating Profit + Finance Profit + Other Profit}\\\\
 > \text{Interest-bearing Debt} &= \text{Vay và nợ thuê tài chính ngắn hạn + dài hạn}
 > \end{align}
 > $$
