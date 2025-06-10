@@ -115,14 +115,14 @@ $$Net\ Working\ Capital = Current\ Assets - Current\ Liabilities$$
 	- Giá trị VLĐ được dịch chuyển toàn bộ một lần vào quá trình sản xuất và hoàn lại toàn bộ sau mỗi chu kì kinh doanh
 	- VLĐ hoàn thành một vòng tuần hoàn sau mỗi chu kỳ kinh doanh
 ### 2.2 Chỉ tiêu đánh giá hiệu quả sử dụng TSLĐ
-- Tốc độ luân chuyển VLĐ : đo lường khả năng thu hồi VLĐ bao lần trong kỳ và mất bao lâu để thu hồi VLĐ 1 lần 
+- **Tốc độ luân chuyển VLĐ :** đo lường khả năng thu hồi VLĐ bao lần trong kỳ và mất bao lâu để thu hồi VLĐ 1 lần 
 $$
 \begin{align}
 Vòng\ quay\ VLĐ &= \frac{Doanh\ thu\ (hoặc\ doanh\ thu\ thuần)\ trong\ kỳ}{Số\ VLĐ\ bình\ quân\ trong\ kỳ} &(1)\\\\
 Kỳ\ luân\ chuyển\ VLĐ &= \frac{Số\ ngày\ trong\ kỳ\ (360\ nếu\ theo\ năm)}{Số\ lần\ luân\ chuyển\ VLĐ} &(2)
 \end{align}
 $$
-- **Mức tiết kiệm do tăng tốc độ luân chuyển** : do tăng tốc độ luân chuyển VLĐ của kỳ kế hoạch so với kỳ báo cáo, DN có thể tiết kiệm được VLĐ
+- **Mức tiết kiệm do tăng tốc độ luân chuyển :**  do tăng tốc độ luân chuyển VLĐ của kỳ kế hoạch so với kỳ báo cáo, DN có thể tiết kiệm được VLĐ
 	- `S(0), S(1) : doanh thu (hoặc doanh thu thuần) trong năm báo cáo, năm kế hoạch`
 	- `K(0), K(1) : kỳ luân chuyển VLĐ trong năm báo cáo, năm kế hoạch`
 	- `L(0), L(1) : số lần luân chuyển VLĐ trong năm báo cáo, năm kế hoạch`

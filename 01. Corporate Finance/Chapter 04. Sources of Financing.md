@@ -3,58 +3,58 @@
 
 |       Đặc điểm        | Nguồn ngắn hạn                          | Nguồn dài hạn                                           |
 | :-------------------: | --------------------------------------- | :------------------------------------------------------ |
-| **Thời hạn hoàn trả** | Trong vòng 1 năm                        | Dài hơn 1 năm                                           |
-|     **Lãi suất**      | Một số nguồn tài trợ không phải trả lãi | Phải trả lãi cho tất cả các loại tài trợ                |
-|     **Lãi suất**      | Thường thấp hơn nợ vay dài hạn          | Thường cao hơn lãi suất các nguồn tài trợ ngắn hạn      |
-|     **Hình thức**     | Chủ yếu dưới hình thức vay nợ           | Có thể nhận được dưới hình thức vốn cổ phần hoặc vay nợ |
+| ***Thời hạn hoàn trả*** | Trong vòng 1 năm                        | Dài hơn 1 năm                                           |
+|     ***Lãi suất***      | Một số nguồn tài trợ không phải trả lãi | Phải trả lãi cho tất cả các loại tài trợ                |
+|     ***Lãi suất***      | Thường thấp hơn nợ vay dài hạn          | Thường cao hơn lãi suất các nguồn tài trợ ngắn hạn      |
+|     ***Hình thức***     | Chủ yếu dưới hình thức vay nợ           | Có thể nhận được dưới hình thức vốn cổ phần hoặc vay nợ |
 ##### 1.2 Căn cứ vào quyền sở hữu đối với sử dụng vốn
 
-|     Nguồn vốn      | Ưu điểm                                                                                                             | Nhược điểm                                                                                   |
-| :----------------: | :------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------- |
-|     **Nợ vay**     | - Được khấu trừ thuế (giảm thuế TNDN)<br>-> Có thể tận dụng đòn bẩy tài chính để gia tăng lợi nhuận cho cổ đông.    | - Phải trả gốc và lãi.<br>-> Làm gia tăng rủi ro tài chính và làm tăng hệ số nợ của công ty. |
-| **Cổ phần ưu đãi** | - Không phải trả vốn gốc<br>- Có thể tùy chọn trả ngay hoặc trì hoãn trả cổ tức.<br>- Không chia sẻ quyền kiểm soát | - Không được khấu trừ thuế<br>- Khó huy động với khối lượng lớn                              |
-| **Cổ phần thường** | - Không phải trả vốn gốc<br>- Không bị áp lực trả cổ tức                                                            | - Không được khấu trừ thuế<br>- Bị phân chia phiếu bầu và tác động đến việc quản lý công ty. |
+|      Nguồn vốn       | Ưu điểm                                                                                                             | Nhược điểm                                                                                   |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------- |
+|     ***Nợ vay***     | - Được khấu trừ thuế (giảm thuế TNDN)<br>-> Có thể tận dụng đòn bẩy tài chính để gia tăng lợi nhuận cho cổ đông.    | - Phải trả gốc và lãi.<br>-> Làm gia tăng rủi ro tài chính và làm tăng hệ số nợ của công ty. |
+| ***Cổ phần ưu đãi*** | - Không phải trả vốn gốc<br>- Có thể tùy chọn trả ngay hoặc trì hoãn trả cổ tức.<br>- Không chia sẻ quyền kiểm soát | - Không được khấu trừ thuế<br>- Khó huy động với khối lượng lớn                              |
+| ***Cổ phần thường*** | - Không phải trả vốn gốc<br>- Không bị áp lực trả cổ tức                                                            | - Không được khấu trừ thuế<br>- Bị phân chia phiếu bầu và tác động đến việc quản lý công ty. |
 # 2. Chiến lược tài trợ
 
-|                       | Chiến lược tài trợ <br>thận trọng<br>(Conservative Financing) | Chiến lược tài trợ<br>phù hợp về kì hạn<br>(Maturity Matching) | Chiến lược tài trợ <br>mạo hiểm<br>(Aggressive Financing) |
-| :-------------------- | ------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------- |
-| **TSCĐ**              | - nguồn DÀI hạn                                               | - nguồn DÀI hạn                                                | - nguồn DÀI hạn                                           |
-| **TSLĐ thường xuyên** | - nguồn DÀI hạn                                               | - nguồn DÀI hạn                                                | - nguồn NGẮN hạn                                          |
-| **TSLĐ tạm thời**     | - nguồn DÀI hạn<br>- nguồn NGẮN hạn                           | - nguồn NGẮN hạn                                               | - nguồn NGẮN hạn                                          |
+|                         | Chiến lược tài trợ <br>thận trọng<br>(Conservative Financing) | Chiến lược tài trợ<br>phù hợp về kì hạn<br>(Maturity Matching) | Chiến lược tài trợ <br>mạo hiểm<br>(Aggressive Financing) |
+| :---------------------- | ------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------- |
+| ***TSCĐ***              | - nguồn DÀI hạn                                               | - nguồn DÀI hạn                                                | - nguồn DÀI hạn                                           |
+| ***TSLĐ thường xuyên*** | - nguồn DÀI hạn                                               | - nguồn DÀI hạn                                                | - nguồn NGẮN hạn                                          |
+| ***TSLĐ tạm thời***     | - nguồn DÀI hạn<br>- nguồn NGẮN hạn                           | - nguồn NGẮN hạn                                               | - nguồn NGẮN hạn                                          |
 # 3. Nguồn tài trợ ngắn hạn
 ##### 3.1 Nợ phải trả có tính chất chu kì (chiếm dụng):
-- Thuế phải nộp nhưng chưa nộp
-- Các khoản phải trả cho nhân viên nhưng chưa đến kì trả
 - Các khoản đặt cọc của KH
+- Các khoản phải trả cho nhân viên nhưng chưa đến kì trả
+- Thuế phải nộp nhưng chưa nộp
 - Các khoản phải trả cho đơn vị nội bộ
 ##### 3.2 Tín dụng thương mại (Trade Credit)
 - Mua hàng hóa nhưng chưa trả tiền, và phải hoàn cả vốn lẫn lãi khi đến thời hạn đã được thỏa thuận dưới hình thức tiền tệ
-- **Cost of giving up a discount**:
+- **Cost of giving up discount:**
 	 `<< 1/10 net 20 : trong vòng 20 ngày phải thanh toán, nếu thanh toán trong 10 ngày thì sẽ được hưởng chiết khấu 1% >>`
-	- *Tính theo lãi đơn :*
-	$$\begin{align}
-	Tỷ\ lệ\ chi\ phí /năm = \frac{Discount\ Rate}{1 - Discount\ Rate} \cdot \frac{360}{Payment\ Days  - Discount\ Days}\\\\
-	\end{align}$$
-	- *Tính theo lãi kép :*
-	$$\begin{align}
-	Tỷ\ lệ\ chi\ phí /năm = (1\ +\ \frac{Discount\ Rate}{1 - Discount\ Rate})^\dfrac{360}{Payment\ Days - Discount\ Days}\ - 1
-	\end{align}$$
+	$$
+	\begin{align}
+	Tỷ\ lệ\ chi\ phí &= \frac{Discount\ Rate}{1 - Discount\ Rate} \cdot \frac{360}{Payment\ Days  - Discount\ Days} &\text{(Cách 1)}
+	\\\\
+	Tỷ\ lệ\ chi\ phí &= \left[ (1\ +\ \frac{Discount\ Rate}{1 - Discount\ Rate})^\dfrac{360}{Payment\ Days - Discount\ Days}\right] - 1 &\text{(Cách 2)}
+	\\\\
+	\end{align}
+	$$
 ##### 3.3 Tín dụng ngân hàng
-- *Vay không có đảm bảo:*
+- ***Vay không có đảm bảo:***
 	- Hạn mức tín dụng (Line of Credit)
 	- Tín dụng tuần hoàn (Revolving Credit)
 	- Thư tín dụng (Letter of Credit)
-- *Vay có đảm bảo:*
+- ***Vay có đảm bảo:***
 	- Bán nợ (Factoring)
 	- Vay thế chấp bằng khoản phải thu
 	- Vay thế chấp bằng hàng hóa
-	- **Chiết khấu thương phiếu (Commercial Bill Discount)** :
+	- **Chiết khấu thương phiếu (Commercial Bill Discount):** 
 		-  Là việc bán thương phiếu cho ngân hàng để sớm thu tiền về với một giá thấp hơn mệnh giá thương phiếu.
 		$$
 		\begin{align}
-		&Giá\ bán = Mệnh\ giá\ - Discount\\\\
-		&Discount = Mệnh\ giá \cdot \ [\ \frac{Discount\ Rate \cdot Discount\ Days}{360}\ ] &(1)\\\\
-		OR:\qquad &Discount = Giá\ bán \cdot \ [\ \frac{Discount\ Rate \cdot Discount\ Days}{360}\ ] &(2)
+		&Price = Par\ Value - Discount\\\\
+		&Discount = Par\ Value \cdot \ [\ \frac{Discount\ Rate \cdot Discount\ Days}{360}\ ] &\text{(Cách 1)}\\\\
+		\text{hoặc :}\qquad &Discount = Price \cdot \ [\ \frac{Discount\ Rate \cdot Discount\ Days}{360}\ ] &\text{(Cách 2)}\\\\
 		\end{align}
 		$$
 # 4. Nguồn tài trợ dài hạn
@@ -74,12 +74,12 @@
 
 ### 4.3. Tín dụng thuê mua (Leasing)
 
-|      Tiêu chí      | Thuê hoạt động <br>< Operating Lease >                                | Thuê tài chính <br>< Net Lease >                                                                                                                 |
-| :----------------: | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  **Quyền sở hữu**  | - Bên thuê chỉ có quyền sử dụng.<br>- Không chuyển giao quyền sở hữu. | - Chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu trong thời hạn thuê. <br>- Quyền sở hữu có thể được chuyển giao khi kết thúc. |
-|    **Thời hạn**    | Thời gian thuê ngắn so với thời gian tồn tại hữu ích của TS           | Thời gian thuê dài ...                                                                                                                           |
-|    **Chi phí**     | Bên thuê chỉ thanh toán các khoản tiền thuê                           | Bên thuê chịu mọi chi phí (bảo hành, bảo trì, các loại thuế,...).                                                                                |
-| **Trích khấu hao** | Bên cho thuê phải trích khấu hao                                      | Bên thuê phải trích khấu hao                                                                                                                     |
+|       Tiêu chí       | **Thuê hoạt động <br>< Operating Lease >**                            | **Thuê tài chính <br>< Net Lease >**                                                                                                             |
+| :------------------: | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  ***Quyền sở hữu***  | - Bên thuê chỉ có quyền sử dụng.<br>- Không chuyển giao quyền sở hữu. | - Chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu trong thời hạn thuê. <br>- Quyền sở hữu có thể được chuyển giao khi kết thúc. |
+|    ***Thời hạn***    | Thời gian thuê ngắn so với thời gian tồn tại hữu ích của TS           | Thời gian thuê dài ...                                                                                                                           |
+|    ***Chi phí***     | Bên thuê chỉ thanh toán các khoản tiền thuê                           | Bên thuê chịu mọi chi phí (bảo hành, bảo trì, các loại thuế,...).                                                                                |
+| ***Trích khấu hao*** | Bên cho thuê phải trích khấu hao                                      | Bên thuê phải trích khấu hao                                                                                                                     |
 
 ### 4.4. Nguồn nội bộ
 - Doanh nghiệp chuyển một phần lợi nhuận ròng thành vốn đầu tư, nên cố gắng giữ mức trên dưới 30% so với tổng vốn đầu tư
@@ -97,7 +97,7 @@
 	- 
 # 5. Quyết định nguồn tài trợ dài hạn
 - Chọn phương án đem lại EPS (Earning per Share) tốt hơn
-- **Điểm cân bằng EBIT (điểm bàng quan) - Indifference Point**
+- **Điểm cân bằng EBIT (điểm bàng quan) - Indifference Point:**
 	- Điểm mà EBIT từ các phương án tài trợ nào cũng sẽ cho cùng EPS
 	- Công thức:
 		- `EBIT: lợi nhuận trước thuế và lãi vay`

@@ -104,13 +104,7 @@ Cash\ Flow\ to\ Debt\ Ratio = \frac{Cash\ Flow\ from\ Operating\ Activities}{Tot
 $$
 # 3. Lập kế hoạch dòng tiền
 - Lập kế hoạch dòng tiền là việc *dự kiến trước* dòng tiền vào và dòng tiền ra của DN phát sinh trong *một thời kỳ nhất định* trong tương lai
-- **Tầm quan trọng:**
-	- Quyết định sự sẵn sàng về tiền mặt của DN để phục vụ các HĐKD
-	- Quyết định đến việc thanh toán các khoản phải trả cho nhà cung cấp, các khoản lãi và nợ ngân hàng đến hạn, hay việc chi trả cổ tức cho các cổ đông.
-	- Giúp DN định liệu được những thời điểm khó khăn về dòng tiền để có các biện pháp chuẩn bị nguồn tiền bổ sung hoặc những phương án cắt giảm/trì hoãn các khoản chi phù hợp. 
-	- Giúp các nhà quản trị có phương án đầu tư trong những thời điểm DN có dư thừa tiền tạm thời để tối đa hóa lợi nhuận.
-	- Kế hoạch dòng tiền là cơ sở để đánh giá những điểm yếu trong quản trị dòng tiền, chẳng hạn quy trình thu hồi các khoản phải thu không hiệu quả, từ đó có các biện pháp khắc phục.
-- **Các bước lập kế hoạch dòng tiền:**
+- **Các bước:**
 	- Bước 1: Xác định cân đối tiền cân đối tiền đầu giai đoạn dự báo (chính là cân đối tiền cuối giai đoạn trước)
 	- Bước 2: Dự báo dòng tiền vào, cả chi tiết và tổng
 	- Bước 3: Dự báo dòng tiền ra, cả chi tiết và tổng
