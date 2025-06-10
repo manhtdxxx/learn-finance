@@ -2,12 +2,13 @@
 > [!NOTE]
 > $$
 > \begin{align}
-> \text{Total Revenue} &= \text{Doanh thu thuần + Doanh thu tài chính + Thu nhập khác}\\\\
-> \text{Operating Expenses} &= \text{Giá vốn hàng bán + Chi phí bán hàng + Chi phí QLDN}\\
-> \text{Total Expenses} &= \text{Operating Expenses + Chi phí tài chính + Chi phí khác}\\\\
-> \text{Gross Profit} &= \text{Doanh thu thuần - Giá vốn hàng bán}\\
-> \text{Operating Profit} &= \text{Gross Profit - Chi phí bán hàng - Chi phí QLDN}\\
-> \text{EBT} &= \text{Operating Profit + Lợi nhuận tài chính + Lợi nhuận khác}\\\\
+> \text{Net Revenue} &= \text{Operating Revenue - Sales Return}\\
+> \text{Total Revenue} &= \text{Net Revenue + Financing Revenue + Other Revenue}\\\\
+> \text{Operating Expenses} &= \text{COGS + Selling Expenses + Administrative Expenses}\\
+> \text{Total Expenses} &= \text{Operating Expenses + Financing Expeneses + Other Expenses}\\\\
+> \text{Gross Profit} &= \text{Net Revenue - COGS}\\
+> \text{Operating Profit} &= \text{Net Revenue - Operating Expenses}\\
+> \text{EBT} &= \text{Operating Profit + Financing Profit + Other Profit}\\\\
 > \text{Interest-bearing Debt} &= \text{Vay và nợ thuê tài chính ngắn hạn + dài hạn}
 > \end{align}
 > $$

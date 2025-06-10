@@ -236,12 +236,12 @@
 		- Differentiation Focus - Tập trung khác biệt hóa
 ##### 1.3.3. SWOT
 ##### 1.3.4. Financial Statement Analysis
-- **Key Financial Indicators :**
+- **Financial Indicators :**
 	- Liquidity Ratios - Các chỉ số thanh khoản
 	- Leverage Ratios - Các chỉ số đòn bẩy tài chính 
 	- Efficiency Ratios - Chỉ số hiệu quả hoạt động
 	- Profitability Ratios - Các chỉ số sinh lời
-	- Valuation Rations - Các chỉ số định giá
+	- Valuation Ratios - Các chỉ số định giá
 	---
 - **Dupont Analysis :**
 	$$
