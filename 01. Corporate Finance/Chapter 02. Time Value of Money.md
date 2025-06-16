@@ -1,14 +1,14 @@
-	# 1.  Giá trị thời gian của tiền
+# 1.  Giá trị thời gian của tiền
 - Giá trị của lượng *tiền hôm nay* có giá trị > giá trị của *lượng tiền tương tự* trong *tương lai* do khả năng sinh lời tiềm năng của nó
 - Nguyên nhân ... > ... :
-	- **Chi phí cơ hội của việc sử dụng tiền**: số tiền nhàn rỗi để trong két sắt sẽ khiến các nhà đầu tư mất đi một khoản sinh lời trong tương lai qua việc đầu tư
-	- **Lạm phát**: sức mua của tiền sẽ giảm trong tương lai nếu lạm phát tăng
-	- **Rủi ro**: các nhà đầu tư có thể thất bại và mất trắng khoản tiền
-### 1.1 Simple Interest & Compound Interest
-1. Lãi đơn (Simple Interest)
+	- ***Chi phí cơ hội của việc sử dụng tiền:*** số tiền nhàn rỗi để trong két sắt sẽ khiến các nhà đầu tư mất đi một khoản sinh lời trong tương lai qua việc đầu tư
+	- ***Lạm phát:*** sức mua của tiền sẽ giảm trong tương lai nếu lạm phát tăng
+	- ***Rủi ro:*** các nhà đầu tư có thể thất bại và mất trắng khoản tiền
+### 1.1 Types of Interest
+1. **Lãi đơn (Simple Interest)**
 	- Lãi chính là số tiền thu được (đối với người cho vay) hoặc chi ra (đối với người đi vay) do việc sử dụng vốn vay. Lãi đơn là số tiền lãi chỉ được tính trên số tiền gốc mà không tính trên số tiền lãi do số tiền gốc sinh ra
 	$$P_n = P_o + P_o\cdot (1+i\cdot n)$$
-2. Lãi kép (Compound Interest)
+2. **Lãi kép (Compound Interest)**
 	- Lãi kép là số tiền lãi không chỉ tính trên số tiền gốc mà còn tính trên số tiền lãi do số tiền gốc sinh ra. Nó chính là lãi tính trên lãi hay còn gọi là ghép lãi (compounding).
 	$$P_n = P_o\cdot (1 + i)^n$$
 ### 1.2 Future Value of Money (FV)
@@ -16,8 +16,8 @@
 - Trong n năm, gửi tiền chỉ 1 lần vào đầu/cuối năm thứ 1, và rút tiền đầu/cuối năm thứ n
 $$FV_n = PV\cdot (1 + i)^n = PV\cdot FVF(i,n)$$
 ##### 1.2.2 Giá trị tương lai của dòng tiền đều
-###### 1.2.2.1 Dòng tiền đều ở cuối kỳ (**ordinary annuity**)
-- Trong n năm, gửi tiền vào cuối mỗi năm với cùng 1 lượng tiền, và rút tiền cuối năm thứ n
+###### 1.2.2.1 Dòng tiền đều ở cuối kỳ **(ordinary annuity)**
+- Trong n năm, *gửi tiền vào cuối mỗi năm* với cùng 1 lượng tiền, và *rút tiền cuối năm thứ n*
 $$
 \begin{align}
 FVA_n &= CF + CF\cdot(1+i) + CF\cdot(1+i)^2 +\ ...\ + CF\cdot(1+i)^{n-1}\\
@@ -27,8 +27,8 @@ FVA_n &= CF\cdot \sum_{t=1}^n (1+i)^{n-t} \\\\
 FVA_n &= CF\cdot \frac{(1+i)^n - 1}{i} 
 \end{align}
 $$
-###### 1.2.2.2 Dòng tiền đều ở đầu kỳ (**annuity due**)
-- Trong n năm, gửi tiền vào đầu mỗi năm với cùng 1 lượng tiền, và rút tiền cuối năm thứ n
+###### 1.2.2.2 Dòng tiền đều ở đầu kỳ **(annuity due)**
+- Trong n năm, *gửi tiền vào đầu mỗi năm* với cùng 1 lượng tiền, và *rút tiền cuối năm thứ n*
 $$
 \begin{align}
 FVA_n &= CF\cdot(1+i) + CF\cdot(1+i)^2 + \ ... \ + CF\cdot(1+i)^n\\
@@ -73,14 +73,14 @@ PVA_n &= CF \cdot \frac{1-(\frac{1}{1+i})^n}{i} \cdot (1+i)
 \end{align}
 $$
 ###### 1.3.2.3 Dòng tiền đều vô hạn **(perpetuity)**
-- Khi n --> +∞   thì   (1/(1+i))^n --> 0
+- Khi `n --> +∞`   thì  `(1/(1+i))^n --> 0`
 $$
 \begin{align}
 Cuối \ kì: \ PVA_n &= CF \cdot \frac{1-(\frac{1}{1+i})^n}{i} = CF \cdot \frac{1}{i} \\\\
 Đầu \ kì: \ PVA_n &= CF \cdot \frac{1-(\frac{1}{1+i})^n}{i} \cdot (1+i) = CF \cdot \frac{1}{i} \cdot (1+i)
 \end{align}
 $$
-### 1.4 Lãi suất (i)
+### 1.4 Interest
 - Khi đi mua dưới hình thức trả góp theo kì ***(giá trị = FV)*** để mua hàng ***(giá trị = PV)*** và người bán không cho lãi suất thì cần tính để so sánh với lãi suất thị trường xem có nên vay hay không
 1. **Lãi suất theo năm**
 2. **Lãi suất < 1 năm**

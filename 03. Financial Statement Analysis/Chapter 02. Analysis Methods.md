@@ -4,6 +4,16 @@
 - **Hình thức so sánh:**
 	- ***So sánh theo chiều ngang:*** phân tích biến động về quy mô của từng khoản mục
 	- ***So sánh theo chiều dọc:*** phân tích biến động về cơ cấu hay quan hệ tỷ lệ giữa các chỉ tiêu
+
+| Chỉ tiêu             | Năm 2023 | **Tỷ trọng** | Năm 2024 | **Tỷ trọng** | **Chênh lệch tuyệt đối** | **Chênh lệch tương đối** |
+| -------------------- | -------- | ------------ | -------- | ------------ | ------------------------ | ------------------------ |
+| Tài sản ngắn hạn     | 800      | 40%          | 1.000    | 45.45%       | +200                     | +25%                     |
+| Tài sản dài hạn      | 1.200    | 60%          | 1.200    | 54.55%       | 0                        | 0%                       |
+| ***Tổng tài sản***   | *2.000*  | *100%*       | *2.200*  | *100%*       | ***+200***               | ***+10%***               |
+| Nợ phải trả ngắn hạn | 500      | 25%          | 700      | 31.82%       | +200                     | +40%                     |
+| Nợ phải trả dài hạn  | 300      | 15%          | 300      | 13.64%       | 0                        | 0%                       |
+| Vốn chủ sở hữu       | 1.200    | 60%          | 1.200    | 54.55%       | 0                        | 0%                       |
+| ***Tổng nguồn vốn*** | *2.000*  | *100%*       | *2.200*  | *100%*       | ***+200***               | ***+10%***               |
 # 2. Phương pháp loại trừ
 ### 2.1. Phương pháp thay thế liên hoàn
 - Trong thực tế, **các nhân tố tác động nối tiếp nhau** (ví dụ: doanh thu thay đổi trước, rồi biên lợi nhuận thay đổi trên doanh thu mới).
@@ -61,3 +71,4 @@ $$
 	\end{align}
 	$$
 # 4. Phương pháp đồ thị
+

@@ -90,7 +90,6 @@ $$
 	![[credit_rating_scale.png#center|720]]
 - **Tiêu chuẩn xếp hạng:**
 	![[credit_rating_criteria.png#center|560]]
-	- Các tổ chức tín nhiệm như S&P tính giá trị trung vị (median) của những tỷ số đã chọn
 	- Các tỷ số
 		- Phải được đánh giá trong phạm vi ngành
 		- Tỷ trọng khác nhau tùy nhà phân tích

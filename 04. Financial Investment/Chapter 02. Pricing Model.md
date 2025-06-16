@@ -118,10 +118,10 @@ $$
 - **Đường thị trường chứng khoán SML**
 	![[SML.png#center|480]]
 	- Nếu tài sản 
-		- nằm bên trái `beta = 1` --> tài sản có rủi ro thấp, và mức sinh lời cũng thấp hơn thị trường ***(defensive)***
-		- nằm bên phải `beta = 1` --> tài sản có rủi ro cao hơn thị trường, đòi hỏi mức sinh lời cao hơn ***(aggressive)***
-		- nằm trên SML --> tài sản được định giá giá thấp ***(undervalued)***, nên mua
-		- nằm dưới SML --> tài sản bị định giá cao ***(overvalued)***, nên bán
+		- Nằm bên trái `beta = 1` --> tài sản có rủi ro thấp, và mức sinh lời cũng thấp hơn thị trường ***(defensive)***
+		- Nằm bên phải `beta = 1` --> tài sản có rủi ro cao hơn thị trường, đòi hỏi mức sinh lời cao hơn ***(aggressive)***
+		- Nằm trên SML --> tài sản được định giá thấp theo CAPM ***(undervalued)***, giá trị thực cao hơn --> nên mua
+		- Nằm dưới SML --> tài sản bị định giá cao theo CAPM ***(overvalued)***, giá trị thực thấp hơn --> nên bán
 	---
 	- Chênh lệch giữa tỷ lệ lợi tức kỳ vọng thực tế và tỷ lệ lợi tức đo lượng bởi CAPM trên một cổ phiếu gọi là ***α*** của cổ phiếu đó, hay là ***phần tỷ lệ lợi tức được định giá sai*** trên thị trường
 		$$
@@ -132,6 +132,48 @@ $$
 # 3. Arbitrage Pricing Theory - APT
 ### 3.1. Assumption
 - APT là một mô hình định giá tài sản thay thế cho mô hình CAPM. Nó cho rằng **lợi suất kỳ vọng của một tài sản** là hàm tuyến tính của **nhiều yếu tố rủi ro hệ thống**. VD: lãi suất, lạm phát, tăng trưởng kinh tế, ...
-- **Các cơ hội kinh doanh chênh lệch giá không tồn tại lâu dài.** Khi có tài sản bị định giá sai, nhiều người sẽ cùng tận dụng cơ hội kiếm lời, khiến giá nhanh chóng về mức hợp lý, nên cơ hội chênh lệch giá không tồn tại lâu
 - Danh mục có đủ chứng khoán để đa dạng hóa rủi ro đặc thù
-### 3.2. Arbitrage
+- **Các cơ hội kinh doanh chênh lệch giá không tồn tại lâu dài.** Khi có tài sản bị định giá sai, nhiều người sẽ cùng tận dụng cơ hội kiếm lời, khiến giá nhanh chóng về mức hợp lý, nên cơ hội chênh lệch giá không tồn tại lâu
+### 3.2. Equation
+- **Với 1 tài sản rủi ro:**
+$$
+\begin{flalign*}
+ E(r_i) &: \text{lợi suất kỳ vọng của tài sản rủi ro i} && \\
+r_f &: \text{lợi suất của tài sản phi rủi ro} && \\
+b_{ij} &: \text{Độ nhạy của tài sản i với yếu tố j} && \\
+F_j &: \text{Phần bù rủi ro do yếu tố j} && \\
+m &= \text{Số lượng các yếu tố rủi ro hệ thống như (GDP, lạm phát, lãi suất, ...)}
+\end{flalign*}
+$$
+$$
+\begin{align}
+E(r_i) = r_f + \sum_{j=1}^m \ b_{ij} \cdot F_j
+\end{align}
+$$
+- **Với danh mục đầu tư:**
+$$
+\begin{flalign*}
+E(r_p) &: \text{lợi suất kỳ vọng của danh mục P} && \\
+r_{pf} &: \text{Lợi suất phi rủi ro của danh mục P} && \\
+b_{pj} &: \text{Độ nhạy của danh mục P yếu tố j} && \\
+F_j &: \text{Phần bù rủi ro do yếu tố j} &&
+\end{flalign*}
+$$
+$$
+\begin{align}
+E(r_p) = \sum_{i=1}^n wi \cdot E(r_i) &= \sum_{i=1}^n wi \cdot \left[ \sum_{j=1}^m \ b_{ij} \cdot F_j \right ]\\\\
+&= r_f \cdot \sum_{i=1}^n w_i + \sum_{j=1}^m \left[ F_j \cdot \sum_{i=1}^n \left [ w_i \cdot b_{ij} \right ] \right]\\\\
+&= r_{pf} + \sum_{j=1}^m\ b_{pj} \cdot F_j \\
+\end{align}
+$$
+### 3.3. How to arbitrage
+- **Arbitrage (Kinh doanh chênh lệch giá)** là chiến lược mua một tài sản ở thị trường này và đồng thời bán nó ở thị trường khác để kiếm lời từ chênh lệch giá
+- **Ví dụ:**
+	- Giá cổ phiếu ABC
+		- Sàn A: 100$
+		- Sàn B: 105$
+	- ***Cách làm:***
+		- Bước 1: Vay cổ phiếu ABC (vay và thực hiện bán khống ***(short-selling)*** ở sàn B. ``<< bạn bán tài sản mà bạn chưa sở hữu >>`
+		- Bước 2: Số tiền bán được thực hiện mua cổ phiếu ở sàn A, lãi 5$.
+		- Bước 3: Trả lãi số cổ phiếu ở đã vay ở bước 1 `<< nhận lãi mà k phải bỏ vốn đầu tư >>`
+		- Theo lý thuyết, trong TH không bán được giá rẻ ở sàn A thì nhà đầu tư vẫn có thể bán lại với giá cũ để hòa vốn

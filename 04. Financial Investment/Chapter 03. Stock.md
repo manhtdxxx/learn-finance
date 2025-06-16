@@ -2,8 +2,8 @@
 ### 1.1. Macro Analysis
 ##### 1.1.1. The Global Economy
 - Yếu tố phân tích:
-	- Tăng trưởng kinh tế toàn cầu (IMF, WB, ...)
-	- Chính sách tiền tệ (FED, ECB, ...)
+	- Tăng trưởng kinh tế toàn cầu (theo IMF, WB, ...)
+	- Chính sách tiền tệ (theo FED, ECB, ...)
 	- Tình hình thương mại quốc tế
 	- Rủi ro chính trị
 - Ảnh hưởng tới:
@@ -16,12 +16,12 @@
 - **Unemployment Rate** - đo lường mức độ hoạt động hết công suất của nền kinh tế
 - **Inflation Rate** - nền kinh tế "quá nóng" có cầu hàng hóa và dịch vụ vượt xa công suất sản xuất *(cầu > cung)*, dẫn tới áp lực tăng giá
 	- Chính phủ hy vọng cầu nền kinh tế *đủ* để duy trì trạng thái *gần* như toàn dụng lao động nhưng không quá nhiều dẫn tới áp lực lạm phát `-- hy sinh lạm phát (cầu > cung một xíu) để giảm tỷ lệ thất nghiệp (xảy ra khi cầu < cung) --`
-- **Interest Rate** - lãi suất cho vay của ngân hàng hay lãi suất yêu cầu của nhà đầu tư (từ góc độ DN, là chi phí vay vốn)
-	- *Từ góc độ DN*, lãi suất cao --> chi phí vay nợ tăng --> DN thu hẹp sản xuất, rủi ro vỡ nợ
-	- *Từ góc độ đầu tư*, lãi suất cao --> giá trị hiện tại của dòng tiền tương lai giảm --> giá cổ phiếu / trái phiếu giảm --> giảm sức hút đầu tư
+- **Interest Rate** - lãi suất cho vay của ngân hàng hay lãi suất yêu cầu của nhà đầu tư (từ góc độ DN, gọi là chi phí vay vốn)
+	- Lãi suất cao --> chi phí vay vốn tăng --> DN thu hẹp sản xuất hoặc chịu rủi ro vỡ nợ  --> GDP giảm
+	- Lãi suất thấp --> khuyến khích sản xuất và tiêu dùng --> lạm phát tăng
 - **Budget Deficit**
 	- Thâm hụt do chi tiêu của chính phủ --> kích thích tăng trưởng kinh tế *(GDP = C + I + G + NX)*
-	- Để duy trì cán cân ngân sách, chính phủ vay mượn qua trái phiếu hoặc trực tiếp từ các tổ chức tài chính --> tổng cầu nền kinh tế tăng --> có thể gây sức ép tăng lãi suất ảnh hưởng tới vay mượn tư nhân và đầu tư `-- cầu vốn > cung vốn thì cung có nhiều lựa chọn, cung phải tăng lãi suất lên để chọn lọc cầu --`
+	- Để duy trì cán cân ngân sách, chính phủ vay mượn qua trái phiếu hoặc trực tiếp từ các tổ chức tài chính --> chính phủ giành vốn của tư nhân --> có thể gây sức ép tăng lãi suất ảnh hưởng tới vay mượn tư nhân và đầu tư `-- cầu vốn > cung vốn thì cung có nhiều lựa chọn, cung phải tăng lãi suất lên để chọn lọc cầu --`
 - **Sentiment** - tâm lý của người tiêu dùng hoặc nhà sản xuất
 ##### 1.1.3. Interest Rate
 ![[loanable_funds_theory.jpg#center|360x]]
@@ -45,25 +45,29 @@
 - **Fiscal Policy**
 	- Tác động trực tiếp, tức thời nhất tới nền kinh tế nhưng thời gian hoạch định và thực hiện chính sách cồng kềnh
 	- Phương thức:
-		- *Chi tiêu chính phủ*
+		- ***Chi tiêu chính phủ***
 			- Tăng chi tiêu --> kích cầu nền kinh tế
-		- *Thuế*
-			- Giảm thuế --> người tiêu dùng tăng thu nhập --> kích cầu nền kinh tế
+		- ***Thuế***
+			- Giảm thuế --> thu nhập ròng tăng --> kích cầu nền kinh tế
 - **Monetary Policy**
 	- Tác động kém tức thời hơn
-	- NHTW thực hiện điều chỉnh *cung tiền*, từ đó tác động tới *lãi suất*
+	- NHTW thực hiện điều chỉnh cung tiền, từ đó tác động tới lãi suất
 		- Tăng cung tiền (mà cầu tiền không đổi) --> lãi suất giảm trong ngắn hạn --> kích cầu nền kinh tế
 		- Tuy nhiên, trong dài hạn sẽ dẫn tới lạm phát
 	- Công cụ điều chỉnh:
-		- Nghiệp vụ thị trường mở *(Open Market Operations - OMOs)* - NHTW mua bán trái phiếu kho bạc
+		- ***Nghiệp vụ thị trường mở (Open Market Operations - OMOs)***
+			- NHTW mua bán trái phiếu kho bạc
 			- NHTW mua chứng khoán --> bơm tiền ra
 			- Hoạt động thị trường mở diễn ra hàng ngày
-		- Lãi suất tái chiết khấu *(Rediscount Rate)* - lãi suất mà NHTM vay ngắn hạn từ NHTW
-			- Lãi suất này giảm --> NHTM dễ vay hơn --> NHTM có nhiều tiền cho vay hơn     --> tăng cung tiền
+		- ***Lãi suất tái chiết khấu (Rediscount Rate)***
+			- Lãi suất mà NHTM vay ngắn hạn từ NHTW
+			- Lãi suất này giảm --> NHTM dễ vay hơn --> NHTM có nhiều tiền cho vay hơn --> tăng cung tiền
 			- Không thường xuyên thay đổi được
-		- Tỷ lệ dự trữ bắt buộc *(Required Reserve Ratio)* - tỷ lệ tiền gửi mà NHTM phải giữ không cho vay hoặc gửi tại NHTW
-			- Tỷ lệ này giảm --> NHTM có nhiều tiền cho vay hơn --> tăng cung tiền
-		- Lãi suất quỹ liên bang / Lãi suất liên ngân hàng *(Federal Funds Rate - FFR / Interbank Rate)* là lãi suất cho vay ngắn hạn giữa các ngân hàng, chủ yếu cho vay qua đêm để đáp ứng dự trữ bắt buộc
+		- ***Tỷ lệ dự trữ bắt buộc (Required Reserve Ratio)*** 
+			- Tỷ lệ tiền gửi mà NHTM phải giữ không cho vay hoặc gửi tại NHTW
+			- Tỷ lệ này giảm --> NHTM không phải giữ tiền nhiều --> NHTM có nhiều tiền cho vay hơn --> tăng cung tiền
+		- ***Lãi suất quỹ liên bang / Lãi suất liên ngân hàng (Federal Funds Rate - FFR / Interbank Rate)*** 
+			- Lãi suất cho vay ngắn hạn giữa các ngân hàng, chủ yếu cho vay qua đêm để đáp ứng dự trữ bắt buộc
 ###### 1.1.5.2. Supply-side Policies
 - Chính sác tác động về phía cung giải quyết các vấn đề nhằm nâng cao năng lực sản xuất , tăng sản lượng của nền kinh tế
 - VD:
@@ -74,16 +78,15 @@
 	- ...
 ##### 1.1.6. Economic Cycle / Business Cycle
 ![[business_cycle.webp#center|480x]]
-![[sector_rotation.png#center|480x]]
 - **Thị trường chứng khoán** thường đi trước **nền kinh tế** từ 6 đến 9 tháng.
+![[sector_rotation.png#center|480x]]
 
-| Economic Cycle  | Stock Market Cycle | Sectors                            | Why                                                                                                       |
-| :-------------- | :----------------- | :--------------------------------- | :-------------------------------------------------------------------------------------------------------- |
-| Full Recession  | Market Bottom      | Finance, Technology, Cyclicals     | These sectors are sensitive to economic changes and often rebound quickly when conditions start improving |
-| Early Recovery  | Bull Market        | Technology, Industrials, Materials | As confidence returns, businesses invest more and demand for industrial goods rises.                      |
-| Full Recovery   | Market Top         | Energy, Materials, Staples         | Late-stage expansion means rising costs and inflation protection becomes important                        |
-| Early Recession | Bear Market        | Healthcare, Staples, Energy        | These are defensive sectors — people still need these regardless of economic conditions.                  |
-| Recession       | Late Bear Market   | Healthcare, Utilities, Finance     | These sectors are traditionally more stable and offer consistent returns even during downturns            |
+| Giai đoạn     | Đặc điểm                               | Ngành ưu tiên đầu tư                                        |
+| ------------- | -------------------------------------- | ----------------------------------------------------------- |
+| **Phục hồi**  | Tăng trưởng nhẹ, lãi suất vẫn còn thấp | Công nghiệp, bất động sản, ngân hàng, tiêu dùng thiết yếu   |
+| **Mở rộng**   | Tăng trưởng mạnh                       | Công nghệ, tiêu dùng không thiết yếu, tài chính, năng lượng |
+| **Đỉnh cao**  | Lạm phát cao, lãi suất cao             | Ngành phòng thủ, cổ phiếu trả cổ tức, vàng                  |
+| **Suy thoái** | Giảm tăng trưởng, thất nghiệp cao      | Ngành phòng thủ, tài sản an toàn, công nghệ bền vững        |
 
 ### 1.2. Sector Analysis
 ##### 1.2.1. Sensitivity to Economic Cycle
