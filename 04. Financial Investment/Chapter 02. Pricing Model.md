@@ -58,7 +58,7 @@ $$
 - **Phương sai của danh mục đầu tư:**
 	$$
 	\begin{align}
-	\sigma^2_p = \beta^2_p \cdot \sigma^2_M + \sigma^2(e_p)\\\\
+	\sigma^2_p = \beta^2_p \cdot \sigma^2_M + \sigma^2(\epsilon_p)\\\\
 	\end{align}
 	$$
 	-  Khi n càng lớn:

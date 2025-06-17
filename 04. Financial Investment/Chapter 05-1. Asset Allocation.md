@@ -142,7 +142,7 @@ $$
 		- Các danh mục nằm trên đường này không thể đa dạng hóa
 	- Đường cong màu đen `nếu -1 < p < 1`
 		- Phần cong hướng lên là ***đường biên hiệu quả (Efficient Frontier)*** – tập hợp các danh mục mang lại lợi suất cao nhất với một mức rủi ro cho trước
-		- Phần cong hướng xuống là ***các danh mục không hiệu quả (Inefficient Portfolios)*** – có thể bị thay thế bởi danh mục khác có cùng rủi ro nhưng lợi suất cao hơn
+		- Phần cong hướng xuống là các danh mục không hiệu quả (Inefficient Portfolios) – có thể bị thay thế bởi danh mục khác có cùng rủi ro nhưng lợi suất cao hơn
 		- Điểm G là ***danh mục phương sai tối thiếu (Global Minimum Variance Portfolio)*** - danh mục có rủi ro thấp nhất
 	- Đường thẳng gãy khúc `nếu p = -1`
 		- Danh mục có khả năng giảm rủi ro về 0

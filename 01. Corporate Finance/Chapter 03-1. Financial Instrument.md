@@ -1,6 +1,6 @@
 # 1. In Money Market
 ### 1.1. Tín phiếu kho bạc (Treasury Bill)
-- Công cụ vay **nợ** ngắn hạn do **nhà nước** phát hành
+- Công cụ **nợ** ngắn hạn do **nhà nước** phát hành
 - Được giá chiết khấu và mua lại với giá mệnh giá khi đáo hạn
 - Mức lãi suất chiết khấu thường thấp hơn other Financial Instruments of Money Markets 
 - Độ rủi ro thấp nhất trên Money Market
@@ -13,8 +13,8 @@
 - Giấy nhận **nợ** do các **công ty uy tín** phát hành
 - Được bán với giá chiết khấu và mua lại với giá mệnh giá
 - Thương phiếu ban đầu xuất phát từ hoạt động mua bán, gồm 2 hình thức:
-	- Hối phiếu (Bill of Exchange/Draft) là chứng chỉ có giá do người kí phát (drawer) lập, yêu cầu người bị kí phát (drawee) thanh toán không điều kiện một số tiền xác định khi có yêu cầu hoặc vào một thời gian nhất định trong tương lai cho người thụ hưởng (payee)
-	- Lệnh phiếu/Kì phiếu (Promissory Note) là chứng chỉ có giá do người phát hành (drawer) lập, cam kết thanh toán không điều kiện một số tiền xác định khi có yêu cầu hoặc vào một thời gian nhất định trong tương lai cho người thụ hưởng (payee)
+	- ***Hối phiếu (Bill of Exchange/Draft)*** là chứng chỉ có giá do người kí phát (drawer) lập, yêu cầu người bị kí phát (drawee) thanh toán không điều kiện một số tiền xác định khi có yêu cầu hoặc vào một thời gian nhất định trong tương lai cho người thụ hưởng (payee)
+	- ***Lệnh phiếu/Kì phiếu (Promissory Note)*** là chứng chỉ có giá do người phát hành (drawer) lập, cam kết thanh toán không điều kiện một số tiền xác định khi có yêu cầu hoặc vào một thời gian nhất định trong tương lai cho người thụ hưởng (payee)
 ### 1.4. Chấp phiếu ngân hàng (Banker's Acceptance)
 - Là **hối phiếu** do công ty ký phát và **được ngân hàng bên bị kí phát đảm bảo thanh toán** bằng cách đóng dấu 'đã chấp nhận' lên hối phiếu
 	- Người bán cần đảm bảo thanh toán từ người mua, người bán sẽ lập hối phiếu
@@ -22,7 +22,7 @@
 	- Người trả tiền hối phiếu sẽ là ngân hàng
 - Người sở hữu chấp phiếu có thể đem bán lại trên Money Market với giá chiết khấu ngay khi cần vốn gấp
 ### 1.5. Hợp đồng mua lại (Repurchase Agreement - Repo)
-- Công cụ vay **nợ** ngắn hạn của **ngân hàng**
+- Công cụ **nợ** ngắn hạn của **ngân hàng**
 - Hợp đồng mà ngân hàng sẽ bán một lượng tín phiếu kho bạc mà nó đang nắm giữ, kèm theo điều khoản sẽ mua lại số đó sau một vài ngày/tuần với giá cao hơn
 - Khi ngân hàng không thể mua lại, thì người cho vay có thể bán lượng tín phiếu trên Money Market đó để thu hồi vốn về
 # 2. In Capital Market

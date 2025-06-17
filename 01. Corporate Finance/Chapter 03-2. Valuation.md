@@ -44,7 +44,7 @@ $$P = \frac{F}{(1 + k_d)^n}$$
 - Trục
 	- X: số kỳ còn lại tới ngày đáo hạn
 	- Y: giá thị trường của trái phiếu
-- ***Lãi suất thị trường = 8%***
+- ***Lãi suất thị trường = 8%*** `<< cũng có thể hiểu là YTM yêu cầu của nhà đầu tư lúc đó >>`
 - Đường
 	- ***Coupon Rate = 8%***
 		- Giá trái phiếu bằng mệnh giá dù bất cứ kỳ hạn nào
