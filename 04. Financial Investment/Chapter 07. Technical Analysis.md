@@ -7,7 +7,7 @@
 ### 3.1. Trend
 ### 3.2. Support & Resistance
 ##### Fibonacci
-# 4. Patterns
+# 4. Chart Patterns
 ### 4.1. Reversal Patterns
 
 ##### Head and Shoulders
@@ -33,5 +33,5 @@
 ##### Bollinger Bands
 ##### Average True Range (ATR)
 ### 5.4. Volume Indicators
-##### On-Balance Volume
+##### On-Balance Volume (OBV)
 ##### Money Flow Index (MFI)

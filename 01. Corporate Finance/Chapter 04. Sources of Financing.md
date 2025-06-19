@@ -1,17 +1,17 @@
 # 1. Các nguồn tài trợ
-##### 1.1 Căn cứ vào thời gian sử dụng
+##### Căn cứ vào thời gian sử dụng
 
-|       Đặc điểm        | Nguồn ngắn hạn                          | Nguồn dài hạn                                           |
-| :-------------------: | --------------------------------------- | :------------------------------------------------------ |
+|        Đặc điểm         | Nguồn ngắn hạn                          | Nguồn dài hạn                                           |
+| :---------------------: | --------------------------------------- | :------------------------------------------------------ |
 | ***Thời hạn hoàn trả*** | Trong vòng 1 năm                        | Dài hơn 1 năm                                           |
 |     ***Lãi suất***      | Một số nguồn tài trợ không phải trả lãi | Phải trả lãi cho tất cả các loại tài trợ                |
 |     ***Lãi suất***      | Thường thấp hơn nợ vay dài hạn          | Thường cao hơn lãi suất các nguồn tài trợ ngắn hạn      |
 |     ***Hình thức***     | Chủ yếu dưới hình thức vay nợ           | Có thể nhận được dưới hình thức vốn cổ phần hoặc vay nợ |
-##### 1.2 Căn cứ vào quyền sở hữu đối với sử dụng vốn
+##### Căn cứ vào quyền sở hữu đối với sử dụng vốn
 
 |      Nguồn vốn       | Ưu điểm                                                                                                             | Nhược điểm                                                                                   |
 | :------------------: | :------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------- |
-|     ***Nợ vay***     | - Được khấu trừ thuế (giảm thuế TNDN)<br>-> Có thể tận dụng đòn bẩy tài chính để gia tăng lợi nhuận cho cổ đông.    | - Phải trả gốc và lãi.<br>-> Làm gia tăng rủi ro tài chính và làm tăng hệ số nợ của công ty. |
+|     ***Nợ vay***     | - Được khấu trừ thuế (giảm thuế TNDN)<br>-> Có thể tận dụng đòn bẩy tài chính để gia tăng lợi nhuận cho cổ đông     | - Phải trả gốc và lãi.<br>-> Làm gia tăng rủi ro tài chính và làm tăng hệ số nợ của công ty  |
 | ***Cổ phần ưu đãi*** | - Không phải trả vốn gốc<br>- Có thể tùy chọn trả ngay hoặc trì hoãn trả cổ tức.<br>- Không chia sẻ quyền kiểm soát | - Không được khấu trừ thuế<br>- Khó huy động với khối lượng lớn                              |
 | ***Cổ phần thường*** | - Không phải trả vốn gốc<br>- Không bị áp lực trả cổ tức                                                            | - Không được khấu trừ thuế<br>- Bị phân chia phiếu bầu và tác động đến việc quản lý công ty. |
 # 2. Chiến lược tài trợ
@@ -22,12 +22,12 @@
 | ***TSLĐ thường xuyên*** | - nguồn DÀI hạn                                               | - nguồn DÀI hạn                                                | - nguồn NGẮN hạn                                          |
 | ***TSLĐ tạm thời***     | - nguồn DÀI hạn<br>- nguồn NGẮN hạn                           | - nguồn NGẮN hạn                                               | - nguồn NGẮN hạn                                          |
 # 3. Nguồn tài trợ ngắn hạn
-##### 3.1 Nợ phải trả có tính chất chu kì (chiếm dụng):
+##### 3.1. Các khoản chiếm dụng
 - Các khoản đặt cọc của KH
 - Các khoản phải trả cho nhân viên nhưng chưa đến kì trả
 - Thuế phải nộp nhưng chưa nộp
 - Các khoản phải trả cho đơn vị nội bộ
-##### 3.2 Tín dụng thương mại (Trade Credit)
+##### 3.2. Tín dụng thương mại (Trade Credit)
 - Mua hàng hóa nhưng chưa trả tiền, và phải hoàn cả vốn lẫn lãi khi đến thời hạn đã được thỏa thuận dưới hình thức tiền tệ
 - **Cost of giving up discount:**
 	 `<< 1/10 net 20 : trong vòng 20 ngày phải thanh toán, nếu thanh toán trong 10 ngày thì sẽ được hưởng chiết khấu 1% >>`
@@ -39,7 +39,7 @@
 	\\\\
 	\end{align}
 	$$
-##### 3.3 Tín dụng ngân hàng
+##### 3.3. Tín dụng ngân hàng
 - ***Vay không có đảm bảo:***
 	- Hạn mức tín dụng (Line of Credit)
 	- Tín dụng tuần hoàn (Revolving Credit)

@@ -1,16 +1,16 @@
 # 1. Phân phối lợi nhuận
-- Lợi nhuận của DN gồm:
-	- Lợi nhuận từ hoạt động *sản xuất kinh doanh* (TK 511 - TK 521 - TK 632 - TK 641 - TK 642)
-	- Lợi nhuận từ hoạt động *tài chính* (TK 515 - TK 635)
-	- Lợi nhuận từ hoạt động *khác* (TK 711 - TK 811)
+- **Lợi nhuận của DN gồm:**
+	- Lợi nhuận từ hoạt động ***sản xuất kinh doanh*** (TK 511 - TK 521 - TK 632 - TK 641 - TK 642)
+	- Lợi nhuận từ hoạt động ***tài chính*** (TK 515 - TK 635)
+	- Lợi nhuận từ hoạt động ***khác*** (TK 711 - TK 811)
 ---
-- Nguyên tắc phân phối lợi nhuận:
+- **Nguyên tắc phân phối lợi nhuận:**
 	- *Nguyên tắc lợi nhuận thực hiện*: khi phân phối lợi nhuận phải dựa vào lợi nhuận đã làm ra chứ không dựa vào lợi nhuận kế hoạch hay lợi nhuận dự tính trong tương lai
 	- *Nguyên tắc lợi nhuận ròng*: DN chỉ được phân chia lợi nhuận cho chủ sở hữu sau khi đã thực hiện đầy đủ nghĩa vụ về thuế, phí và lệ phí liên quan đối với nhà nước
 	- *Nguyên tắc đảm bảo khả năng thanh toán*: DN chỉ được phân chia lợi nhuận trong điều kiện đảm bảo khả năng thanh toán các khoản nợ đến hạn, cũng như đảm bảo khả năng thanh toán cho chủ sở hữu và cổ đông
 	- *Nguyên tắc hài hòa lợi ích các bên*: Ban điều hành DN cần làm rõ các bên có lợi ích và cách thức đảm bảo lợi ích cho các bên đó
 ---
-- Các quỹ được trích từ lợi nhuận của DN:
+- **Các quỹ được trích từ lợi nhuận của DN:**
 	- *Quỹ phát triển khoa học và công nghệ:* Chỉ được sử dụng cho đầu tư nghiên cứu khoa học và phát triển công nghệ của doanh nghiệp tại Việt Nam.
 	- *Quỹ đầu tư phát triển:* Phát triển kinh doanh, bổ sung vốn điều lệ, tham gia liên doanh, góp vốn, ...
 	- *Quỹ dự phòng tài chính:* Bù đắp tổn thất do thiên tai, dịch họa, rủi ro kinh doanh.
@@ -22,7 +22,7 @@
 	- Cổ tức (Dividend)
 	- Lợi nhuận giữ lại (Retained Earnings)
 ### 2.1. Hình thức trả cổ tức
-##### 2.1.1. Trả cổ tức bằng tiền - Cash Dividend
+##### Trả cổ tức bằng tiền - Cash Dividend
 - Nhà đầu tư thấy công ty có dòng tiền vững mạnh, là lựa chọn an toàn khi đầu tư. Tuy nhiên, công ty sẽ bị hạn chế cơ hội đầu tư khi mất đi một lượng tiền
 - **Tác động** sau khi trả cổ tức :
 	- *Assets* : giảm `mất tiền`
@@ -32,7 +32,7 @@
 	- *EPS* : giữ nguyên `Net Income (o đổi) / Shares outstanding`
 	- *ROA / ROE* : tăng `Net Income (o đổi) / Assets hoặc Equity`
 	- *Market Value of Share* : không rõ
-##### 2.1.2. Trả cổ tức bằng cổ phiếu - Stock Dividend
+##### Trả cổ tức bằng cổ phiếu - Stock Dividend
 - Công ty đang có nhu cầu cao giữ lại lợi nhuận để đầu tư phát triển tiếp. Còn nhà đầu tư có thể tránh tránh việc bị đánh thuế cho phần cổ tức nhận được ở thời điểm hiện tại
 - **Tác động** sau khi trả cổ tức :
 	- *Assets* : giữ nguyên 
@@ -42,7 +42,7 @@
 	- *EPS* : giảm `Net Income (o đổi) / Shares outstanding`
 	- *ROA / ROE* : giữ nguyên `Net Income (o đổi) / Assets hoặc Equity`
 	- *Market Value of Share* : giảm `Market Cap (o đổi) / Share outstanding`
-##### 2.1.3. Trả cổ tức bằng tài sản khác - Property Dividend
+##### Trả cổ tức bằng tài sản khác - Property Dividend
 - Ít phổ biến
 - Cổ đông nhận các sản phẩm của công ty, hoặc các chứng khoán của một công ty khác mà công ty sở hữu, ...
 ---
@@ -68,19 +68,19 @@
 ---
 ### 2.3. Chính sách cổ tức
 ##### 2.3.1. Chỉ tiêu phản ánh
-- *Tỷ lệ lợi nhuận trả cổ tức*
+- ***Tỷ lệ lợi nhuận trả cổ tức***
 	$$
 	\begin{align}
 	Dividend\ Payout\ Ratio &= \frac{Dividend\ per\ Share\ (DPS)}{EPS}\\\\
 	\end{align}
 	$$
-- *Tỷ suất cổ tức*
+- ***Tỷ suất cổ tức***
 $$
 \begin{align}
 Dividend\ Yield &= \frac{Dividend\ per\ Share}{Market\ Price}\\\\
 \end{align}
 $$
-- *Tỷ lệ bảo chứng cổ tức*
+- ***Tỷ lệ bảo chứng cổ tức***
 	- Nếu thấp (< 1.5) thì công ty khả năng sẽ cắt giảm cổ tức; 
 	- Nếu cao (>5) thì khả năng ban quản trị đang nắm giữ thu nhập thặng dư và không trả đủ tiền mặt cho cổ đông; 
 	- Tỷ lệ an toàn (2 - 3)
@@ -123,9 +123,9 @@ $$
 		- Linh hoạt khi công ty có nhiều biến động
 		- Nhà đầu tư ổn định được mức cổ tức tối thiểu được nhận
 		- Nếu chia thêm thì đó là dấu hiếu tốt của công ty --> Giá thị trường của cổ phiếu có thể tăng
-##### 2.3.3. Mua lại cổ phần
+### 2.4. Mua lại cổ phần
 - Mua lại cổ phiếu / cổ phần là việc một công ty mua lại cổ phần của mình từ thị trường; đồng nghĩa với việc nhà đầu tư rút vốn kinh doanh khỏi công ty
-- **Tác động** sau khi mua lại cổ phần :
+- **Tác động sau khi mua lại cổ phần :**
 	- *Assets* : giảm `mất tiền`
 	- *Equity* : giảm `cổ phiếu quỹ - TK 419 (mang dấu âm) tăng`
 	- *Shares outstanding* : giảm
@@ -135,7 +135,7 @@ $$
 	- *EPS* : tăng `Net Income (o đổi) / Shares outstanding`
 	- *ROA / ROE* : tăng `Net Income (o đổi) / Assets hoặc Equity`
 	- *Market Value of Share* : tăng `Market Cap (o đổi) / Shares outstanding`
-- Phương thức: 
+- **Phương thức:** 
 	- Chào mua công khai
 	- Mua trên thị trường mở
 	- Phân phối quyền bán có thể chuyển nhượng

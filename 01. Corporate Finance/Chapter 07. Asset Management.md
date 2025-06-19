@@ -27,7 +27,7 @@
 		- TSCĐ chưa cần dùng
 		- TSCĐ không cần dùng 
 		- TSCĐ đang chờ thanh lý
-### 1.2. Khấu hao TSCĐ (Depreciation and Amortization)
+### 1.2. Khấu hao TSCĐ
 ##### 1.2.1 Hao mòn TSCĐ
 1. **Hao mòn hữu hình** :
 	- Là sự hao mòn về :
@@ -42,7 +42,7 @@
 - Khấu hao TSCĐ là phương pháp chuyển dịch phần giá trị hao mòn của TSCĐ vào giá trị sản phẩm theo các phương pháp thích hợp
 - Số tiền khấu hao tuy là chi phí nhưng thực chất không được chi bằng tiền, số tiền đó sẽ được tích lũy lại hình thành quỹ khấu hao TSCĐ của DN nhằm tái sản xuất giản đơn hoặc tái sản xuất mở rộng TSCĐ
 - Về nguyên tắc, việc tính khấu hao phải đảm bảo thu hồi đầy đủ giá trị vốn đầu tư ban đầu
-###### 1.2.2.1. Khấu hao bình quân/theo đường thẳng
+###### Khấu hao bình quân/theo đường thẳng
 $$
 \begin{align}
 Giá\ trị\ phải\ trích\ KH &= Nguyên\ giá - Giá\ trị\ không\ trích\ KH\\\\
@@ -50,7 +50,7 @@ Mức\ KH\ hàng\ năm &= \frac{Giá\ trị\ phải\ trích\ KH}{Năm\ sử\ d�
 Tỷ\ lệ\ KH\ hàng\ năm &= \frac{Mức\ KH\ hàng\ năm}{Giá\ trị\ phải\ trích\ KH} = \frac{1}{Năm\ sử\ dụng}
 \end{align}
 $$
-###### 1.2.2.2. Khấu hao nhanh
+###### Khấu hao nhanh
 - Khấu hao nhanh trong những năm đầu và giảm dần theo thời gian sử dụng
 - Những năm cuối, khi mức khấu hao tính nhanh ≤ mức khấu hao tính bình quân giữa giá trị còn lại và số năm sử dụng còn lại của TSCĐ, thì kể từ năm đó mức khấu hao được tính bằng giá trị còn lại của TSCĐ chia cho số năm sử dụng còn lại của TSCĐ
 - **Công thức** :
@@ -64,7 +64,7 @@ $$
 	- `t ≤ 4 năm  --> hệ số điều chỉnh là 1.5` 
 	- `4 năm < t ≤ 6 năm  --> hệ số điều chỉnh là 2`
 	- `t > 6 năm  --> hệ số điều chỉnh là 2.5` 
-###### 1.2.2.3. Khấu hao theo khối lượng, số lượng sản phẩm
+###### Khấu hao theo khối lượng, số lượng sản phẩm
 - TSCĐ áp dụng được phương pháp này phải thỏa các ĐK sau:
 	- Liên quan trực tiếp đến hoạt động sản xuất sản phẩm.
 	- Phải xác định được tổng số lượng, khối lượng sản phẩm được tạo ra bởi TSCĐ đó.
@@ -140,43 +140,15 @@ $$
 - Câu hỏi đặt ra khi quản trị hàng tồn kho :
 	- *Khi nào* đặt hay bổ sung tồn kho dự trữ?
 	- Mỗi lần cần đặt hay bổ sung tồn kho mới là *bao nhiêu*?
-##### 2.3.1. Mô hình EOQ - Economic Order Quantity
-![[EOQ_1.png#center]]
-- Hàm tổng chi phí :
-	- `C(1) : chi phí lưu kho trong 1 năm`
-	- `c(1) : chi phí lưu kho đơn vị trong 1 năm`
-	- `C(2) : chi phí đặt hàng trong 1 năm`
-	- `c(2) : chi phí mỗi lần đặt hàng`
-	- `D: tổng nhu cầu đặt hàng trong năm`
-	- `Q: Số lượng mỗi lần đặt hàng`
-	$$C = C_1 + C_2 = c_1 \cdot \frac{Q}{2} + c_2 \cdot \frac{D}{Q}$$
-- Tìm điểm tối thiểu hóa chi phí :
-	- ![[EOQ_2.webp#center]]
-	- *Điểm đặt hàng tối ưu* :
-	$$
-	\begin{align}
-	C'_{Q} &= \frac{c_1}{2} - c_2 \cdot \frac{D}{Q^2}\\\\
-	C'_{Q} &= 0\\ 
-	<=> \frac{c_1}{2} &= c_2 \cdot \frac{D}{Q^2}\\
-	=> EOQ = Q^* &= \sqrt{\frac{2 \cdot D \cdot c_2}{c_1}}
-	\end{align}
-	$$
-	- *Số lần đặt hàng trong năm* :
-	$$L = \frac{D}{Q^*}$$
-	- *Số ngày cách nhau mỗi lần cung cấp* :
-	$$N = \frac{360}{L}$$
-##### 2.3.2 Mô hình quản trị tồn kho khác
-- Mô hình POQ  - Periodic Order Quantity
-- Mô hình QDM - Quantitative Decision-Making
-- Mô hình ABC Analysis
-- ...
+##### Mô hình EOQ - Economic Order Quantity
+##### Mô hình POQ  - Periodic Order Quantity
 ---
 ### 2.4. Cash Management
 - Câu hỏi đặt ra khi quản trị tiền :
 	- *Khi nào* cần bổ sung tiền hay lấy tiền nhàn rỗi đi đầu tư?
 	- Cần giữ một lượng tiền *bao nhiêu* là đủ?
-##### 2.4.1 Mô hình Baumol
-##### 2.4.2 Mô hình Miller-Orr
+##### Mô hình Baumol
+##### Mô hình Miller-Orr
 ---
 ### 2.5. Accounts Receivable Management
 - Phải thu khách hàng phát sinh khi DN cho phép KH trả chậm theo thỏa thuận

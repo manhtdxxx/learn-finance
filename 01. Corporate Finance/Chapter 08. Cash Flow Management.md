@@ -102,19 +102,8 @@ $$
 Cash\ Flow\ to\ Debt\ Ratio = \frac{Cash\ Flow\ from\ Operating\ Activities}{Total\ Debt}\\\\
 \end{align}
 $$
-# 3. Lập kế hoạch dòng tiền
-- Lập kế hoạch dòng tiền là việc *dự kiến trước* dòng tiền vào và dòng tiền ra của DN phát sinh trong *một thời kỳ nhất định* trong tương lai
-- **Các bước:**
-	- Bước 1: Xác định cân đối tiền cân đối tiền đầu giai đoạn dự báo (chính là cân đối tiền cuối giai đoạn trước)
-	- Bước 2: Dự báo dòng tiền vào, cả chi tiết và tổng
-	- Bước 3: Dự báo dòng tiền ra, cả chi tiết và tổng
-	- Bước 4: Tính dòng tiền thuần của doanh nghiệp. Dòng tiền thuần bằng chênh lệch giữa dòng tiền vào và dòng tiền ra
-	- Bước 5: Xác định số dư tiền cuối kỳ và số tiền dư thừa hoặc thiếu hụt
-		- Số dư tiền cuối kỳ = Số dư tiền đầu kỳ + Dòng tiền thuần
-		- Số tiền dư thừa (thiếu hụt) = Số dư tiền cuối kỳ - Số tiền mặt cần thiết
-	- Bước 6: Đưa ra các giải pháp thích hợp để xử lý số tiền dư thừa hoặc thiếu hụt
-# 4. #Principles of Cash Flow Management
-### 4.1. Đầu tư tiền dư thừa
+# 3. #Principles of Cash Flow Management
+### 3.1. Đầu tư tiền dư thừa
 - Tiền dùng cho mục đích: Chi tiêu, Dự phòng, Đầu cơ
 - Khi có tiền nhàn rỗi, DN nên tìm kiếm các cơ hội đầu tư. Trước khi đầu tư, DN sẽ cân nhắc 4 yếu tố *Rủi ro, Thanh khoản, Kỳ hạn đầu tư, Mức sinh lời* sao cho tối đa hóa lợi nhuận trong thời gian nhàn rỗi của tiền
 - **Đầu tư ngắn hạn** :
@@ -122,11 +111,11 @@ $$
 	- Tỷ suất sinh lời chỉ cần cao hơn so với tiền lãi gửi không kỳ hạn tại ngân hàng
 	- Tránh rủi ro giảm vốn hay mất vốn
 	- Đảm bảo thanh khoản tốt
-- **Nhóm tài sản** mà DN có thể đầu tư ngắn hạn :
+- **Nhóm tài sản mà DN có thể đầu tư ngắn hạn :**
 	- Tiền gửi có kỳ hạn
 	- Chứng khoán ngắn hạn
 - Nếu DN vẫn muốn đầu tư vào cổ phiếu trong ngắn hạn thì nên xây dựng một danh mục đầu tư phù hợp
-### 4.2. Xử lý tiền thiếu hụt
+### 3.2. Xử lý tiền thiếu hụt
 - **Đẩy nhanh các khoản phải thu**
 	- Lựa chọn và đàm phán về phương thức thanh toán
 	- Đề xuất chiết khấu thanh toán

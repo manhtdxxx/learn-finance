@@ -94,13 +94,13 @@
 	- Công ty quản lý gồm những nhà đầu tư chuyên nghiệp sẽ là người thực hiện đầu tư
 	- Đa dạng hóa danh mục đầu tư
 -  **Phân loại :**
-	- Quỹ mở (Open-end Fund)
+	- ***Quỹ mở (Open-end Fund)***
 		- Loại hình quỹ thành lập với thời gian hoạt động và quy mô vốn không giới hạn, phụ thuộc vào tình hình hoạt động và khả năng huy động của quỹ
 		- Công ty quản lý sẵn sàng mua lại khi nhà đầu tư có nhu cầu bán
 		- Không giao dịch trên thị trường
 		- Định giá:
 		$$NetAssetValue/share = \frac{Fund\ Assets - Fund\ Liabilities}{Outstanding\ Shares}$$
-	- Quỹ đóng (Close-end Fund)
+	- ***Quỹ đóng (Close-end Fund)***
 		- Loại hình quỹ chỉ phát hành với số lượng cố định trên thị trường sơ cấp. Thời gian hoạt động quỹ đóng cũng có giới hạn và được thống nhất khi thành lập quỹ
 		- Công ty quản lý không có nghĩa vụ mua lại chứng chỉ quỹ do quỹ chào bán ra công chúng theo yêu cầu của nhà đầu tư
 		- Nhà đầu tư muốn mua bán chứng chỉ quỹ sẽ giao dịch trên thị trường thứ cấp
