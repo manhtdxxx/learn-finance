@@ -103,7 +103,7 @@ $$
 Cash\ Flow\ to\ Debt\ Ratio = \frac{Cash\ Flow\ from\ Operating\ Activities}{Total\ Debt}\\\\
 \end{align}
 $$
-# 3. #Principles of Cash Flow Management
+# 3. Quản trị tiền
 ### 3.1. Đầu tư tiền dư thừa
 - Tiền dùng cho mục đích: 
 	- Chi tiêu

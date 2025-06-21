@@ -32,7 +32,7 @@
 	- Các dự án đầu tư phụ thuộc
 	- Các dự án đầu tư xung khắc
 # 2. Dòng tiền của dự án đầu tư
-### 2.1. #Principles  of Cash Flow Estimation
+### 2.1. Nguyên tắc xác định dòng tiền
 - Trong phân tích tài chính dự án, chúng ta sử dụng dòng tiền chứ không sử dụng lợi nhuận như là cơ sở để đánh giá dự án
 	+ Dòng tiền ra - Cash Inflows: là những khoản tiền chi ra để thực hiện dự án
 	+ Dòng tiền vào - Cash Outflows: là những khoản tiền thu nhập do dự án mang lại

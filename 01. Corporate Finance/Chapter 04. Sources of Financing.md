@@ -84,17 +84,9 @@
 ### 4.4. Nguồn nội bộ
 - Doanh nghiệp chuyển một phần lợi nhuận ròng thành vốn đầu tư, nên cố gắng giữ mức trên dưới 30% so với tổng vốn đầu tư
 - Chi phí của nguồn vốn nội bộ đo lường bằng chi phí cơ hội `-- nếu lợi nhuận không giữ lại mà chia cho các cổ đông thì họ có thể dùng cổ tức để đầu tư tại nơi khác --`
-- **Ưu điểm:** 
-	- Chi phí huy động vốn thấp
-- **Nhược điểm:** 
-	- 
 ### 4.5. Nguồn từ ngân sách nhà nước
 - Do ngân sách cấp; bao gồm giá trị tất cả TS mà nhà nước giao cho DN khi thành lập DN cùng với nguồn vốn mà DN tự tích lũy bổ sung khi sử dụng nguồn đó kinh doanh
 - Nguồn này hiện nay không nhiều do chủ chương cổ phần hóa các công ty nhà nước
-- **Ưu điểm:** 
-	- Lượng vốn lớn
-- **Nhược điểm:** 
-	- 
 # 5. Quyết định nguồn tài trợ dài hạn
 - Chọn phương án đem lại EPS (Earning per Share) tốt hơn
 - **Điểm cân bằng EBIT (điểm bàng quan) - Indifference Point:**
