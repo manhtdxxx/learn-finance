@@ -5,6 +5,7 @@
 > \sigma_P^2 &= \sum_{i=1}^n \sum_{j=1}^n w_i w_j \, \text{Cov}(r_i, r_j) \\
 > \end{aligned}
 > $$
+
 ---
 # 1. Between Risky Assets and Risk-Free Assets
 
@@ -43,7 +44,6 @@ $$
 	- ***Điểm P***, danh mục chỉ bao gồm tài sản rủi ro (y=1)
 	- ***Đoạn từ R(f) tới P***, tập hợp tất cả tài sản trong danh mục đầu tư, bao gồm rủi ro và phi rủi ro (0 < y < 1)
 	- ***Đoạn từ P trở lên***, tài sản rủi ro vượt quá vốn đầu tư của danh mục (y > 1), lúc này nhà đầu tư đi vay thêm với lãi suất phi rủi ro để đầu tư vào tài sản rủi ro
----
 - **Độ dốc của đường CAL** còn gọi là *tỷ lệ phần bù rủi ro*, hoặc *hệ số Sharpe*
 $$
 \begin{align}
@@ -122,7 +122,7 @@ $$
 $$
 \begin{align}
 \sigma^2_P &= w^2_d \cdot \sigma^2_D + (1-w_D)^2 \cdot \sigma^2_E + 2 w_D (1-w_D) \cdot \sigma_D \cdot \sigma_E \cdot \rho_{DE} \\\\
-\Rightarrow \frac{d}{dw_D} \sigma^2_P &= 2w_D \cdot \sigma_D^2 - 2(1 - w_D) \cdot \sigma_E^2 + 2(1 - 2w_D) \cdot \sigma_D \cdot \sigma_E \cdot \rho_{DE} = 0 \\
+\Rightarrow \frac{d}{dw_D} \sigma^2_P &= 2w_D \cdot \sigma_D^2 - 2(1 - w_D) \cdot \sigma_E^2 + 2(1 - 2w_D) \cdot \sigma_D \cdot \sigma_E \cdot \rho_{DE} = 0 \\\\
 \Leftrightarrow w^*_D &= \frac{\sigma_E^2 - \sigma_D \cdot \sigma_E \cdot \rho_{DE}}{\sigma_D^2 + \sigma_E^2 - 2 \cdot \sigma_D \cdot \sigma_E \cdot \rho_{DE}} 
 = \frac{\sigma_E^2 - Cov(r_D, r_E)}{\sigma_D^2 + \sigma_E^2 - 2 \cdot Cov(r_D, r_E)} \tag{4.1}\\\\
 w^*_E &= 1 - w^*_D \tag{4.2}\\
@@ -157,9 +157,9 @@ $$
 \begin{align}
 \text{Sharpe Ratio} &= \frac{E(r_P) - r_f}{\sigma_P}
 \\
-&\Rightarrow \frac{d}{dw_D} S =  \frac{(\frac{d}{dw_D}E(r_P)) \cdot \sigma_P - (E(r_P) - r_f) \cdot (\frac{d}{dw_D} \sigma_P)}{\sigma^2_P} = 0
+&\Rightarrow \frac{d}{dw_D} S =  \frac{\left [ \frac{d}{dw_D}E(r_P) \right ] \cdot \sigma_P - (E(r_P) - r_f) \cdot \left [ \frac{d}{dw_D} \sigma_P \right ]}{\sigma^2_P} = 0
 \\
-&\Leftrightarrow \frac{d}{dw_D}E(r_P) \cdot \sigma_P = (E(r_P) - r_f) \cdot \frac{d}{dw_D} \sigma_P
+&\Rightarrow \frac{d}{dw_D}E(r_P) \cdot \sigma_P = (E(r_P) - r_f) \cdot \frac{d}{dw_D} \sigma_P
 \\\\\\
 \text{Trong đó: }\quad 
 &E(r_P) = w_D \cdot E(r_D) + (1 - w_D) \cdot E(r_E)
@@ -173,11 +173,8 @@ $$
 \\\\\\
 \text{Thay: }\quad 
 &\Rightarrow [\ E(r_D) - E(r_E)\ ] \cdot \sigma^2_P = [\ E(r_P) - r_f\ ] [\ w_D \sigma_D^2 - (1 - w_D) \sigma_E^2 + (1 - 2w_D) \sigma_D \sigma_E \rho_{DE} \ ]
-\\
-&\Leftrightarrow [\ E(r_D) - E(r_E)\ ] \cdot \sigma^2_P = [\ E(r_P) - r_f\ ] [\ w_D (\sigma_D^2 + \sigma_E^2 - 2 \sigma_D \sigma_E \rho_{DE}) - \sigma_E^2 + \sigma_D \sigma_E \rho_{DE}\ ]
 \\\\
-&\Leftrightarrow w^*_D = \left[ \frac{[\ E(r_D) - E(r_E)\ ] \cdot \sigma^2_P}{[\ E(r_P) - r_f\ ]} + (\sigma^2_E - \sigma_D \sigma_E \rho_{DE})\ \right] \cdot \frac{1}{\sigma_D^2 + \sigma_E^2 - 2 \sigma_D \sigma_E \rho_{DE}} 
-\\\\
+&\Rightarrow w_D^* = \frac{(E(r_D) - r_f) \cdot \sigma_E^2 - (E(r_E) - r_f) \cdot \sigma_D \sigma_E \rho_{DE} }{ (E(r_D) - r_f) \cdot \sigma_E^2 + (E(r_E) - r_f) \cdot \sigma_D^2 - (E(r_D) + E(r_E) - 2r_f) \cdot \sigma_D \sigma_E \rho_{DE} }
 \end{align}
 $$
 # 3. Utility & Indifference Curve
@@ -220,7 +217,8 @@ $$
 	\\\\
 	\Leftrightarrow w^*_D &= \frac{E(r_D) - E(r_E) + A \cdot (\sigma_E^2 - \sigma_D \sigma_E \rho_{DE})}{ A \cdot (\sigma_D^2 + \sigma_E^2 - 2 \sigma_D \sigma_E \rho_{DE})} \tag{4.3}
 	\\\\
-	w^*_E &= 1 - w^*_D \tag{4.4}\\
+	w^*_E &= 1 - w^*_D \tag{4.4}
+	\\
 	\end{align}
 	$$
 ### 3.2. Mean-Variance Optimal Portfolio on CAL

@@ -61,9 +61,9 @@ Mức\ KH\ hàng\ năm &= Giá\ trị\ TSCĐ\ còn\ lại\ \cdot\ Tỷ\ lệ\ KH
 \end{align}
 $$
 - Hệ số điều chỉnh theo thời gian sử dụng TSCĐ (t) :
-	- `t ≤ 4 năm  --> hệ số điều chỉnh là 1.5` 
-	- `4 năm < t ≤ 6 năm  --> hệ số điều chỉnh là 2`
-	- `t > 6 năm  --> hệ số điều chỉnh là 2.5` 
+	- t ≤ 4 năm  --> hệ số điều chỉnh là 1.5 
+	- 4 năm < t ≤ 6 năm  --> hệ số điều chỉnh là 2
+	- t > 6 năm  --> hệ số điều chỉnh là 2.5 
 ###### Khấu hao theo khối lượng, số lượng sản phẩm
 - TSCĐ áp dụng được phương pháp này phải thỏa các ĐK sau:
 	- Liên quan trực tiếp đến hoạt động sản xuất sản phẩm.
@@ -119,7 +119,7 @@ $$Net\ Working\ Capital = Current\ Assets - Current\ Liabilities$$
 $$
 \begin{align}
 Vòng\ quay\ VLĐ &= \frac{Doanh\ thu\ (hoặc\ doanh\ thu\ thuần)\ trong\ kỳ}{Số\ VLĐ\ bình\ quân\ trong\ kỳ} &(1)\\\\
-Kỳ\ luân\ chuyển\ VLĐ &= \frac{Số\ ngày\ trong\ kỳ\ (360\ nếu\ theo\ năm)}{Số\ lần\ luân\ chuyển\ VLĐ} &(2)
+Kỳ\ luân\ chuyển\ VLĐ &= \frac{Số\ ngày\ trong\ kỳ\ (360\ nếu\ theo\ năm)}{Số\ lần\ luân\ chuyển\ VLĐ} &(2)\\\\
 \end{align}
 $$
 - **Mức tiết kiệm do tăng tốc độ luân chuyển :**  do tăng tốc độ luân chuyển VLĐ của kỳ kế hoạch so với kỳ báo cáo, DN có thể tiết kiệm được VLĐ
@@ -131,8 +131,8 @@ $$
 	VLĐ\ tiết\ kiệm &= VLĐ\ bình\ quân\ kỳ\ kế\ hoạch - VLĐ\ bình\ quân\ kỳ\ báo\ cáo\\
 	& = \frac{S_1}{L_1} - \frac{S_0}{L_0}\\
 	&= S_1 \cdot \frac{K_1}{360} - S_0 \cdot \frac{K_0}{360}\\\\
-	Mức\ tiết\ kiệm\ &tương\ đối = \frac{S_1}{360} \cdot (K_1 - K_0)\\
-	Mức\ tiết\ kiệm\ &tuyệt\ đối = \frac{S_0}{360} \cdot (K_1 - K_0)
+	Mức\ tiết\ kiệm\ &tương\ đối = \frac{S_1}{360} \cdot (K_1 - K_0) \tag{*}\\\\
+	Mức\ tiết\ kiệm\ &tuyệt\ đối = \frac{S_0}{360} \cdot (K_1 - K_0) \tag{*}
 	\end{align}
 	$$
 ---
@@ -140,19 +140,42 @@ $$
 - Câu hỏi đặt ra khi quản trị hàng tồn kho :
 	- *Khi nào* đặt hay bổ sung tồn kho dự trữ?
 	- Mỗi lần cần đặt hay bổ sung tồn kho mới là *bao nhiêu*?
-##### Mô hình EOQ - Economic Order Quantity
-##### Mô hình POQ  - Periodic Order Quantity
+##### Các mô hình quản trị hàng tồn kho
+- Mô hình EOQ - Economic Order Quantity
+- Mô hình POQ  - Periodic Order Quantity
+- Mô hình JIT - Just In Time
 ---
 ### 2.4. Cash Management
 - Câu hỏi đặt ra khi quản trị tiền :
 	- *Khi nào* cần bổ sung tiền hay lấy tiền nhàn rỗi đi đầu tư?
 	- Cần giữ một lượng tiền *bao nhiêu* là đủ?
-##### Mô hình Baumol
-##### Mô hình Miller-Orr
+##### Các mô hình quản trị tiền
+- Mô hình Baumol
+- Mô hình Miller-Orr
 ---
 ### 2.5. Accounts Receivable Management
-- Phải thu khách hàng phát sinh khi DN cho phép KH trả chậm theo thỏa thuận
-- Quyết định cung cấp tín dụng thương mại sẽ phát sinh thêm các khoản chi phí :
-	- Chi phí cơ hội do khoản tiền bị đọng trong các khoản phải thu
-	- Chi phí phát sinh để điều tra tình trạng tín dụng của khách hàng; chi phí cho việc theo dõi, quản lý các khoản nợ phải thu từ khi phát sinh cho đến khi thu hồi tiền; chi phí phát sinh trong quá trình thu hồi nợ; ...
-- ...
+- DN thường cung cấp các khoản tín dụng thương mại cho KH nhằm kích thích tăng trưởng doanh thu
+- **Chính sách tín dụng thương mại:**
+	- Hạn mức tín dụng
+	- Thời hạn tín dụng
+	- Chiết khấu thanh toán
+		- Khuyến khích KH trả tiền sớm
+	- Tiền phạt
+		- Khuyến khích KH trả tiền đúng hạn
+- **Nhân tố ảnh hưởng tới quy mô khoản phải thu:**
+	- ***Ngành nghề kinh doanh:***
+		- Doanh nghiệp bản lẻ thường thu tiền ngay
+		- Doanh nghiệp bán sản phẩm lớn có khoản phải thu lớn
+	- ***Theo thời vụ:***
+		- Trong thời kỳ sản phẩm có nhu cầu tiêu thụ lớn, cần khuyến khích tiêu thụ để thu hồi vốn
+	- ***Tình hình cạnh tranh:***
+		- Trong ĐK cạnh tranh cao, DN cần nới lỏng chính sách tín dụng thương mại để thu hút KH
+	- ***Tiềm lực tài chính mỗi DN:***
+		- DN có tiềm lực tài chính mạnh có thể áp dụng chính sách tín dụng nới lỏng
+- **Chỉ tiêu đánh giá:**
+	$$
+	\begin{align}
+	Vòng\ quay\ KPT &= \frac{Doanh\ thu\ (hoặc\ doanh\ thu\ thuần)\ trong\ kỳ}{Phải\ thu\ KH\ bình\ quân\ trong\ kỳ} &(1)\\\\
+	Kỳ\ thu\ tiền &= \frac{Số\ ngày\ trong\ kỳ\ (360\ nếu\ theo\ năm)}{Vòng\ quay\ KPT} &(2)\\\\
+	\end{align}
+	$$

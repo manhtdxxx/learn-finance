@@ -41,7 +41,7 @@
 	- Ví dụ: sự thay đổi giá dầu nhập khẩu, thiên tai...
 	- Đặc điểm thông thường là sự dịch chuyển của GDP *ngược chiều* với lạm phát, lãi suất. Khi cung giảm --> giá tăng --> lạm phát tăng --> lãi suất tăng, GDP giảm
 ##### 1.1.5. Macroeconomic Policies
-###### 1.1.5.1. Demand-side Policies
+###### Demand-side Policies
 - **Fiscal Policy**
 	- Tác động trực tiếp, tức thời nhất tới nền kinh tế nhưng thời gian hoạch định và thực hiện chính sách cồng kềnh
 	- Phương thức:
@@ -68,7 +68,7 @@
 			- Tỷ lệ này giảm --> NHTM không phải giữ tiền nhiều --> NHTM có nhiều tiền cho vay hơn --> tăng cung tiền
 		- ***Lãi suất quỹ liên bang / Lãi suất liên ngân hàng (Federal Funds Rate - FFR / Interbank Rate)*** 
 			- Lãi suất cho vay ngắn hạn giữa các ngân hàng, chủ yếu cho vay qua đêm để đáp ứng dự trữ bắt buộc
-###### 1.1.5.2. Supply-side Policies
+###### Supply-side Policies
 - Chính sác tác động về phía cung giải quyết các vấn đề nhằm nâng cao năng lực sản xuất , tăng sản lượng của nền kinh tế
 - VD:
 	- Chính sách đối với nghiên cứu ứng dụng, đổi mới công nghệ
@@ -76,7 +76,7 @@
 	- Chính sách thuế: áp dụng các biểu thuế khác nhau để khuyến khích đầu tư, khuyến khích người lao động
 	- Chính sách phát triển cơ sở hạ tầng
 	- ...
-##### 1.1.6. Economic Cycle / Business Cycle
+##### 1.1.6. Economic/Business Cycle
 ![[business_cycle.webp#center|480x]]
 - **Thị trường chứng khoán** thường đi trước **nền kinh tế** từ 6 đến 9 tháng.
 ![[sector_rotation.png#center|480x]]
@@ -256,9 +256,9 @@
 	$$
 	- ✅ Ưu điểm :
 		- Cho phép bóc tách ROE thành 3 phần để xác định công ty đang có vấn đề ở đâu?
-			- Net Profit Margin – *khả năng sinh lời từ doanh thu*
-			- Asset Turnover – *mức độ hiệu quả trong việc dùng tài sản* để tạo doanh thu
-			- Equity Multiplier – *mức độ sử dụng nợ* để khuếch đại lợi nhuận
+			- *Net Profit Margin* – khả năng sinh lời từ doanh thu
+			- *Asset Turnover* – mức độ hiệu quả trong việc dùng tài sản để tạo doanh thu
+			- *Equity Multiplier* – mức độ sử dụng nợ để khuếch đại lợi nhuận
 		- Dễ dàng so sánh hiệu suất hoạt động giữa các công ty hoặc giữa các năm
 	- ❌ Nhược điểm :
 		- Thiếu độ tin cậy và linh hoạt khi phụ thuộc vào dữ liệu kế toán
@@ -282,13 +282,13 @@
 	\end{align}
 	$$
 	- Trong đó 
-		- `r_e` được xác định bằng mô hình CAPM:
+		- Chi phí VCSH được xác định bằng mô hình CAPM:
 		$$
 		\begin{align}
 		r_e = r_f + \beta \cdot(r_m - r_f)
 		\end{align}
 		$$
-		- `g` được xác định : 
+		- Tốc độ tăng trưởng được xác định: 
 		$$
 		\begin{align}
 		g = Retention\ Ratio\ \cdot\ ROE
@@ -354,6 +354,7 @@
 		P_0 &= \sum_{t=1}^n \frac{FCFE_t}{(1 + r_e)^{t}}
 		\end{align}
 		$$
+---
 ##### 💡 Pros & Cons
 - **Dividend Discount Model (DDM)**
 	- ✅ Ưu điểm :
@@ -390,6 +391,7 @@ $$
 	- Dễ bị chi phối bởi các khoản thu nhập bất thường hoặc chính sách kế toán (vd: thu nhập bất thường không phải từ HĐKD)
 	- Không phản ánh dòng tiền thực
 	- Không phù hợp với công ty *lỗ hoặc lợi nhuận biến động mạnh* (startup công nghệ, chu kỳ khoáng sản, năng lượng, nông sản...)
+---
 ##### 2.2.2. P/B - Price to Book Value
 $$
 \begin{align}
@@ -404,6 +406,7 @@ $$
 - ❌ Nhược điểm :
 	- Giá trị sổ sách có thể lỗi thời
 	- Không phù hợp với công ty dựa vào *tài sản vô hình* (công nghệ, dịch vụ...)
+---
 ##### 2.2.3. P/S - Price to Sales
 $$
 \begin{align}
@@ -418,6 +421,7 @@ $$
 - ❌ Nhược điểm :
 	- Bỏ qua chi phí và khả năng sinh lời thực sự `<< công ty có doanh thu cao nhưng lỗ vẫn có P/S cao >>`
 	- Không phù hợp với doanh nghiệp *tỷ suất lợi nhuận thấp* (bán lẻ giá rẻ, logistic...)
+---
 ##### 2.2.4. P/FCF - Price to Free Cash Flow
 $$
 \begin{align}
@@ -432,6 +436,7 @@ $$
 	- Giải quyết khác biệt về chất lượng EPS giữa các công ty, nhất là doanh nghiệp có nhiều khoản khấu hao, chi phí phi tiền mặt `<< những khoản đó sẽ được cộng lại vào dòng tiền >>`
 - ❌ Nhược điểm :
 	- FCF có thể bị ảnh hưởng lớn bởi chi tiêu vốn đột biến (CapEx)
+---
 ##### 2.2.5 EV/EBITDA - Enterprise Value to EBITDA
 $$
 \begin{align}
@@ -440,11 +445,12 @@ EV = Market\ Cap\ +\ Total\ Debt\ &-\ Cash\ and\ Cash\ Equivalents
 \end{align}
 $$
 - 🔍 Ý nghĩa :
-	- Đo lường tổng giá trị doanh nghiệp so với khả năng sinh lợi thuần từ hoạt động kinh doanh `<< nếu dùng Adjusted EBITDA thì chỉ tính thu nhập và chi phí đến từ HĐKD >>`
+	- Đo lường tổng giá trị doanh nghiệp so với khả năng sinh lợi thuần từ hoạt động kinh doanh 
+	`<< nếu dùng Adjusted EBITDA thì chỉ tính thu nhập và chi phí đến từ HĐKD >>`
+	- Phổ biến trong M&A 
 - ✅ Ưu điểm :
 	- Không gồm lãi vay và thuế → phù hợp để so sánh các công ty có mức nợ khác nhau hoặc ở các quốc gia có thuế suất khác nhau
 	- Loại bỏ khấu hao (phi tiền mặt) → phản ánh rõ hơn khả năng tạo lợi nhuận từ hoạt động kinh doanh chính
-	- Phổ biến trong M&A → giúp định giá doanh nghiệp độc lập với cách thức tài trợ (vay nợ hay dùng vốn chủ), thuận tiện để đàm phán thương vụ
 - ❌ Nhược điểm :
 	- Không phản ánh dòng tiền thực sự `<< cộng lại khấu hao nhưng lại bỏ qua lãi vay, thuế, CAPEX và sự biến động vốn lưu động >>`
 

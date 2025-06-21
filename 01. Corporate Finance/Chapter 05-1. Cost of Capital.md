@@ -100,17 +100,17 @@ $$Break\ Point\ i = \frac{Tổng\ giá\ trị\ của\ nguồn\ vốn\ i}{Tỷ\ t
 	3. **Trade-off Theory**
 	4. **Pecking Order Theory**
 ### 2.3. #Principles of Capital Structure Management
-- *Nguyên tắc đảm bảo tính tương thích - Timing Principle* : 
+- ***Nguyên tắc đảm bảo tính tương thích - Timing Principle*** 
 	- Thời gian của tài sản được đầu tư < thời gian đáo hạn của nguồn vốn huy động
 	`VD: Nguồn vốn ngắn hạn nên được đầu tư vào tài sản ngắn hạn`
 	- Để đảm bảo, thì Net Working Capital > 0
-- *Nguyên tắc cân bằng giữa lợi nhuận và rủi ro - Risk Principle* :
+- ***Nguyên tắc cân bằng giữa lợi nhuận và rủi ro - Risk Principle***
 	- Khi đầu tư nhiều vào TSCĐ, thì nên đảm bảo sản lượng dự kiến > sản lượng hòa vốn
 	- Khi huy động vốn bằng vay nợ, thì nên đảm bảo OROA > i
-- *Nguyên tắc đảm bảo quyền kiểm soát doanh nghiệp - Control Principle*
+- ***Nguyên tắc đảm bảo quyền kiểm soát doanh nghiệp - Control Principle***
 	- Khi huy động vốn bằng cổ phiếu, cần đảm bảo quyền kiểm soát DN cho những cổ đông quan trọng để quyền điều hành DN không bị xáo trộn
-- *Nguyên tắc tài trợ linh hoạt - Flexibility Principle*
+- ***Nguyên tắc tài trợ linh hoạt - Flexibility Principle***
 	- Điều chỉnh nhu cầu vốn tăng giảm, hay thay đổi cơ cấu vốn một cách linh hoạt trong từng thời kỳ cụ thể
-- *Nguyên tắc tối thiểu hoá chi phí sử dụng vốn - Cost Principle*
+- ***Nguyên tắc tối thiểu hoá chi phí sử dụng vốn - Cost Principle***
 	- Lựa chọn nguồn vốn có chi phí thấp
 	- Đánh giá xu hướng biến động chi phí của từng nguồn để xác định vốn huy động và thời gian huy động thích hợp

@@ -47,7 +47,7 @@ $$
 ---
 # 2. Financial Leverage
 - FL thể hiện ở việc doanh nghiệp sử dụng vốn vay (Debt) nhằm gia tăng tỉ suất lợi nhuận trên vốn chủ sở hữu (ROE) hay thu nhập trên mỗi cổ phiếu (EPS) của DN
-### 2.1. Degree of Financial Leverage (DFL):
+### 2.1. Degree of Financial Leverage (DFL)
 - **Công thức 1:**
 	$$
 	\begin{align}
@@ -113,7 +113,7 @@ Indifference\ Point:\quad EPS_1 &= EPS_2\\\\
 \end{align}
 $$
 ![[indifference_point.jpg#center|480]]
-- Nếu ***EBIT < EBIT'*** thì nên phát hành **cổ phiếu** `<< nếu vay càng nhiều mà EBIT không đủ lớn để bù đắp chi phí lãi vay, thì EPS phải càng giảm để bù đắp >>`
+- Nếu ***EBIT < EBIT'*** thì nên phát hành **cổ phiếu** 
 - Nếu ***EBIT > EBIT'*** thì nên phát hành **trái phiếu**
 ---
 # 3. Total Leverage

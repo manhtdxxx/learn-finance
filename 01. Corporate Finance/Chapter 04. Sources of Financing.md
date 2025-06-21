@@ -74,26 +74,26 @@
 
 ### 4.3. Tín dụng thuê mua (Leasing)
 
-|       Tiêu chí       | **Thuê hoạt động <br>< Operating Lease >**                            | **Thuê tài chính <br>< Net Lease >**                                                                                                             |
-| :------------------: | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  ***Quyền sở hữu***  | - Bên thuê chỉ có quyền sử dụng.<br>- Không chuyển giao quyền sở hữu. | - Chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu trong thời hạn thuê. <br>- Quyền sở hữu có thể được chuyển giao khi kết thúc. |
-|    ***Thời hạn***    | Thời gian thuê ngắn so với thời gian tồn tại hữu ích của TS           | Thời gian thuê dài ...                                                                                                                           |
-|    ***Chi phí***     | Bên thuê chỉ thanh toán các khoản tiền thuê                           | Bên thuê chịu mọi chi phí (bảo hành, bảo trì, các loại thuế,...).                                                                                |
-| ***Trích khấu hao*** | Bên cho thuê phải trích khấu hao                                      | Bên thuê phải trích khấu hao                                                                                                                     |
+|  **Tiêu chí**  | **Thuê hoạt động <br>< Operating Lease >**                            | **Thuê tài chính <br>< Net Lease >**                                                                                                             |
+| :------------: | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  Quyền sở hữu  | - Bên thuê chỉ có quyền sử dụng.<br>- Không chuyển giao quyền sở hữu. | - Chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu trong thời hạn thuê. <br>- Quyền sở hữu có thể được chuyển giao khi kết thúc. |
+|    Thời hạn    | Thời gian thuê ngắn so với thời gian tồn tại hữu ích của TS           | Thời gian thuê dài ...                                                                                                                           |
+|    Chi phí     | Bên thuê chỉ thanh toán các khoản tiền thuê                           | Bên thuê chịu mọi chi phí (bảo hành, bảo trì, các loại thuế,...).                                                                                |
+| Trích khấu hao | Bên cho thuê phải trích khấu hao                                      | Bên thuê phải trích khấu hao                                                                                                                     |
 
 ### 4.4. Nguồn nội bộ
 - Doanh nghiệp chuyển một phần lợi nhuận ròng thành vốn đầu tư, nên cố gắng giữ mức trên dưới 30% so với tổng vốn đầu tư
 - Chi phí của nguồn vốn nội bộ đo lường bằng chi phí cơ hội `-- nếu lợi nhuận không giữ lại mà chia cho các cổ đông thì họ có thể dùng cổ tức để đầu tư tại nơi khác --`
-- **Ưu điểm** :
+- **Ưu điểm:** 
 	- Chi phí huy động vốn thấp
-- **Nhược điểm** :
+- **Nhược điểm:** 
 	- 
 ### 4.5. Nguồn từ ngân sách nhà nước
 - Do ngân sách cấp; bao gồm giá trị tất cả TS mà nhà nước giao cho DN khi thành lập DN cùng với nguồn vốn mà DN tự tích lũy bổ sung khi sử dụng nguồn đó kinh doanh
 - Nguồn này hiện nay không nhiều do chủ chương cổ phần hóa các công ty nhà nước
-- **Ưu điểm** :
+- **Ưu điểm:** 
 	- Lượng vốn lớn
-- **Nhược điểm** :
+- **Nhược điểm:** 
 	- 
 # 5. Quyết định nguồn tài trợ dài hạn
 - Chọn phương án đem lại EPS (Earning per Share) tốt hơn

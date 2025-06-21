@@ -1,6 +1,26 @@
 # 1. Overview
+
+| ***Tiêu chí***   | ***Phân tích Cơ bản <br>(Fundamental Analysis)***                  | ***Phân tích Kỹ thuật <br>(Technical Analysis)***                  |
+| ---------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| Mục tiêu         | Xác định giá trị nội tại của cổ phiếu (overvalued hay undervalued) | Dự báo biến động giá để xác định điểm mua/bán cổ phiếu             |
+| Dữ liệu sử dụng  | Báo cáo tài chính, Thống kê ngành, Bối cảnh kinh tế                | Giá, Khối lượng giao dịch                                          |
+| Phương pháp      | Phân tích vĩ mô<br>Phân tích ngành<br>Phân tích doanh nghiệp       | Xác định mức hỗ trợ – kháng cự<br>Chỉ báo kỹ thuật<br>Mẫu hình giá |
+| Thời gian đầu tư | Trung và dài hạn                                                   | Ngắn hạn                                                           |
+| Đặc trưng tâm lý | 80% logic<br>20% tâm lý                                            | 20% logic<br>80% tâm lý                                            |
+
+- **3 Main Assumptions in Technical Analysis:**
+	- ***Giá phản ánh tất cả thông tin***  
+	    - Mọi yếu tố ảnh hưởng đến giá (tin tức, tâm lý thị trường, các yếu tố kinh tế…) đều đã được phản ánh trong giá và khối lượng giao dịch hiện tại.
+	- ***Giá di chuyển theo xu hướng***  
+	    - Giá thường di chuyển theo xu hướng (tăng, giảm hoặc đi ngang) và xu hướng này có thể tiếp diễn trong một khoảng thời gian nhất định.
+	- ***Lịch sử có xu hướng lặp lại***  
+	    - Các mẫu hình giá và hành vi thị trường trong quá khứ có khả năng lặp lại.
+---
 # 2. Theories
 ### 1.1. Dow Theory
+- Là nền tảng cho sự phát triển của phân tích kĩ thuật
+- Khi thị trường chứng khoán
+- 
 ### 1.2. Elliot Wave Theory
 
 # 3. Core Concepts

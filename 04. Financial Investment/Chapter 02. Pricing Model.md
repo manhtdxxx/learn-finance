@@ -23,7 +23,8 @@ R_M &= r_M - r_f\\
 R_i &= r_i - r_f\\\\
 \end{align}
 $$
-- **Phương trình hồi quy:** `<< khi có dữ liệu của lợi suất chứng khoán i, thị trường trong quá khứ thì ta thực hiện hồi quy để tìm alpha, beta, phương sai của rủi ro phi hệ thống >>`
+- **Phương trình hồi quy:** 
+`<< khi có dữ liệu của lợi suất chứng khoán i và lợi suất thị trường trong quá khứ thì ta thực hiện hồi quy để tìm alpha, beta, phương sai của rủi ro phi hệ thống >>`
 $$
 \begin{flalign*}
 \alpha_i &: \text{hệ số chặn của chứng khoán i} &&\\
@@ -47,7 +48,7 @@ Corr(r_i, r_j) &= \frac{Cov(r_i, r_j)}{\sigma_i \cdot \sigma_j} = \frac{\beta_i 
 \end{align}
 $$
 ### 1.3. Portfolio Diversification
-- **Lợi suất vượt trội của danh mục đầu tư** với tỷ trọng tài sản bằng nhau (w = 1/n)
+- **Lợi suất vượt trội của danh mục đầu tư** của các tài sản có tỷ trọng bằng nhau (w = 1/n)
 	$$
 	\begin{align}
 	R_p = \sum_{i=1}^n wi \cdot R_i &= \frac{1}{n} \sum_{i=1}^n (\alpha_i + \beta_i \cdot R_m + \epsilon_i)\\\\
@@ -107,7 +108,7 @@ $$
 		$$
 ### 2.3. Stock Market Line (SML)
 
-| **Tiêu chí**      | **SML (Security Market Line)**                                               | **CML (Capital Market Line)**                                                                                  | **CAL (Capital Allocation Line)**                                                                                                                            |
+| **Tiêu chí**      | **SML <br>(Security Market Line)**                                           | **CML <br>(Capital Market Line)**                                                                              | **CAL <br>(Capital Allocation Line)**                                                                                                                        |
 | ----------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Áp dụng           | Cho từng ***tài sản riêng lẻ***                                              | Cho ***danh mục hiệu quả*** (danh mục thị trường + tài sản phi rủi ro)                                         | Cho ***bất kỳ danh mục*** rủi ro + tài sản phi rủi ro                                                                                                        |
 | Thước đo rủi ro   | ***Beta*** (rủi ro hệ thống của từng tài sản riêng lẻ)                       | ***Độ lệch chuẩn (σ)*** – rủi ro tổng thể của danh mục hiệu quả                                                | ***Độ lệch chuẩn (σ)*** – rủi ro tổng thể của danh mục bất kỳ                                                                                                |
@@ -120,8 +121,8 @@ $$
 	- Nếu tài sản 
 		- Nằm bên trái `beta = 1` --> tài sản có rủi ro thấp, và mức sinh lời cũng thấp hơn thị trường ***(defensive)***
 		- Nằm bên phải `beta = 1` --> tài sản có rủi ro cao hơn thị trường, đòi hỏi mức sinh lời cao hơn ***(aggressive)***
-		- Nằm trên SML --> tài sản được định giá thấp theo CAPM ***(undervalued)***, giá trị thực cao hơn --> nên mua
-		- Nằm dưới SML --> tài sản bị định giá cao theo CAPM ***(overvalued)***, giá trị thực thấp hơn --> nên bán
+		- Nằm trên SML --> tài sản được định giá thấp theo CAPM ***(undervalued)***, giá trị thực cao hơn giá lý thuyết --> nên mua
+		- Nằm dưới SML --> tài sản được định giá cao theo CAPM ***(overvalued)***, giá trị thực thấp hơn giá lý thuyết --> nên bán
 	---
 	- Chênh lệch giữa tỷ lệ lợi tức kỳ vọng thực tế và tỷ lệ lợi tức đo lượng bởi CAPM trên một cổ phiếu gọi là ***α*** của cổ phiếu đó, hay là ***phần tỷ lệ lợi tức được định giá sai*** trên thị trường
 		$$
@@ -131,8 +132,8 @@ $$
 		$$
 # 3. Arbitrage Pricing Theory - APT
 ### 3.1. Assumption
-- APT là một mô hình định giá tài sản thay thế cho mô hình CAPM. Nó cho rằng **lợi suất kỳ vọng của một tài sản** là hàm tuyến tính của **nhiều yếu tố rủi ro hệ thống**. VD: lãi suất, lạm phát, tăng trưởng kinh tế, ...
-- Danh mục có đủ chứng khoán để đa dạng hóa rủi ro đặc thù
+- APT là một mô hình định giá tài sản thay thế cho mô hình CAPM. Nó cho rằng **lợi suất kỳ vọng của một tài sản là hàm tuyến tính của nhiều yếu tố rủi ro hệ thống**. VD: lãi suất, lạm phát, tăng trưởng kinh tế, ...
+- Danh mục có **đủ chứng khoán để đa dạng hóa rủi ro đặc thù**
 - **Các cơ hội kinh doanh chênh lệch giá không tồn tại lâu dài.** Khi có tài sản bị định giá sai, nhiều người sẽ cùng tận dụng cơ hội kiếm lời, khiến giá nhanh chóng về mức hợp lý, nên cơ hội chênh lệch giá không tồn tại lâu
 ### 3.2. Equation
 - **Với 1 tài sản rủi ro:**
@@ -168,12 +169,16 @@ E(r_p) = \sum_{i=1}^n wi \cdot E(r_i) &= \sum_{i=1}^n wi \cdot \left[ \sum_{j=1}
 $$
 ### 3.3. How to arbitrage
 - **Arbitrage (Kinh doanh chênh lệch giá)** là chiến lược mua một tài sản ở thị trường này và đồng thời bán nó ở thị trường khác để kiếm lời từ chênh lệch giá
-- **Ví dụ:**
+- ***Ví dụ:***
 	- Giá cổ phiếu ABC
 		- Sàn A: 100$
 		- Sàn B: 105$
-	- ***Cách làm:***
-		- Bước 1: Vay cổ phiếu ABC (vay và thực hiện bán khống ***(short-selling)*** ở sàn B. ``<< bạn bán tài sản mà bạn chưa sở hữu >>`
+	- ***Cách thực hiện arbitrage:***
+		- Bước 1: Vay cổ phiếu ABC và thực hiện bán khống ***(short-selling)*** ở sàn B. ``<< bán tài sản mà bạn chưa sở hữu >>`
 		- Bước 2: Số tiền bán được thực hiện mua cổ phiếu ở sàn A, lãi 5$.
-		- Bước 3: Trả lãi số cổ phiếu ở đã vay ở bước 1 `<< nhận lãi mà k phải bỏ vốn đầu tư >>`
-		- Theo lý thuyết, trong TH không bán được giá rẻ ở sàn A thì nhà đầu tư vẫn có thể bán lại với giá cũ để hòa vốn
+		- Bước 3: Trả lãi số cổ phiếu ở đã vay ở bước 1. `<< nhận lãi mà k phải bỏ vốn đầu tư >>`
+- ***Thực tế rất khó thực hiện:***
+	- Tồn tại phí giao dịch trên sàn
+	- Cơ hội tồn tại rất ngắn
+	- Tính thanh khoản
+	- Giới hạn short-selling

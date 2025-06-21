@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "92c32d874e441a4f",
+        "id": "f635e7454a8bbb67",
         "type": "tabs",
         "children": [
           {
-            "id": "0a68d46e6a7d6f4d",
+            "id": "cd41548acaf53948",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Visuals/CAL_with_leveraging.png"
+                "file": "04. Financial Investment/Chapter 07. Technical Analysis.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "CAL_with_leveraging"
+              "icon": "lucide-file",
+              "title": "Chapter 07. Technical Analysis"
             }
           }
         ]
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Visuals/CAL_with_leveraging.png",
+                "file": "04. Financial Investment/Chapter 07. Technical Analysis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CAL_with_leveraging"
+              "title": "Outline of Chapter 07. Technical Analysis"
             }
           },
           {
@@ -173,13 +175,43 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a68d46e6a7d6f4d",
+  "active": "cd41548acaf53948",
   "lastOpenFiles": [
-    "Visuals/CAL.png",
+    "04. Financial Investment/Chapter 06. Portfolio Strategy.md",
+    "04. Financial Investment/Chapter 05-2. Portfolio Theory.md",
+    "04. Financial Investment/Chapter 05-1. Asset Allocation.md",
+    "04. Financial Investment/Chapter 04. Bond.md",
+    "04. Financial Investment/Chapter 02. Pricing Model.md",
+    "04. Financial Investment/Chapter 01. Overview.md",
+    "02. Commercial Bank/Chapter 09. Nghiệp vụ ngân hàng quốc tế.md",
+    "01. Corporate Finance/Chapter 11. M&A.md",
+    "01. Corporate Finance/Chapter 10. Dividend Policy.md",
+    "01. Corporate Finance/Chapter 09. Financial Planning.md",
+    "01. Corporate Finance/Chapter 08. Cash Flow Management.md",
+    "01. Corporate Finance/Chapter 07. Asset Management.md",
+    "01. Corporate Finance/Chapter 06. Long-term Investment.md",
+    "01. Corporate Finance/Chapter 05-1. Cost of Capital.md",
+    "01. Corporate Finance/Chapter 04. Sources of Financing.md",
+    "04. Financial Investment/Chapter 03. Stock.md",
+    "03. Financial Statement Analysis/Chapter 01. Overview.md",
+    "03. Financial Statement Analysis/Chapter 02. Analysis Methods.md",
+    "03. Financial Statement Analysis/Chapter 05. Liquidity & Solvency.md",
+    "03. Financial Statement Analysis/Chapter 07. Financial Crisis & Risk.md",
+    "03. Financial Statement Analysis/Chapter 08. Forecasting.md",
+    "01. Corporate Finance/Chapter 03-2. Valuation.md",
+    "01. Corporate Finance/Chapter 05-2. Leverage.md",
+    "01. Corporate Finance/Chapter 03-1. Financial Instrument.md",
+    "01. Corporate Finance/Chapter 02. Time Value of Money.md",
+    "04. Financial Investment/Chapter 07. Technical Analysis.md",
+    "Visuals/technical_analysis",
+    "Visuals/New folder",
     "Visuals/CAL_with_leveraging.png",
+    "Visuals/CAL.png",
     "Visuals/EOQ_2.webp",
     "Visuals/EOQ_1.png",
     "Visuals/convexity.png",
@@ -187,33 +219,7 @@
     "Visuals/SML.png",
     "Visuals/two_stage_DDM.jpg",
     "Visuals/unsystematic_risk.png",
-    "Visuals/time_value_of_money.md",
     "Visuals/three_stage_DDM.jpg",
-    "Visuals/NPV_vs_IRR.png",
-    "04. Financial Investment/Chapter 07. Technical Analysis.md",
-    "04. Financial Investment/Chapter 05-1. Asset Allocation.md",
-    "04. Financial Investment/Chapter 05-2. Portfolio Theory.md",
-    "04. Financial Investment/Chapter 06. Portfolio Strategy.md",
-    "03. Financial Statement Analysis/Chapter 08. Forecasting.md",
-    "03. Financial Statement Analysis/Chapter 07. Financial Crisis & Risk.md",
-    "03. Financial Statement Analysis/Chapter 06. Efficiency & Profitability.md",
-    "03. Financial Statement Analysis/Chapter 05. Liquidity & Solvency.md",
-    "03. Financial Statement Analysis/Chapter 04. AR & AP.md",
-    "03. Financial Statement Analysis/Chapter 03. Financial Structure.md",
-    "03. Financial Statement Analysis/Chapter 02. Analysis Methods.md",
-    "03. Financial Statement Analysis/Chapter 01. Overview.md",
-    "01. Corporate Finance/Chapter 10. Dividend Policy.md",
-    "01. Corporate Finance/Chapter 09. Financial Planning.md",
-    "01. Corporate Finance/Chapter 08. Cash Flow Management.md",
-    "01. Corporate Finance/Chapter 07. Asset Management.md",
-    "01. Corporate Finance/Chapter 06. Long-term Investment.md",
-    "01. Corporate Finance/Chapter 05-2. Leverage.md",
-    "01. Corporate Finance/Chapter 05-1. Cost of Capital.md",
-    "01. Corporate Finance/Chapter 04. Sources of Financing.md",
-    "01. Corporate Finance/Chapter 03-2. Valuation.md",
-    "01. Corporate Finance/Chapter 03-1. Financial Instrument.md",
-    "01. Corporate Finance/Chapter 02. Time Value of Money.md",
-    "01. Corporate Finance/Chapter 11. M&A.md",
     "Visuals/CML.png.crdownload",
     "Visuals/MPT_6.png.crdownload",
     "Visuals/MPT_5.png.crdownload",
@@ -222,8 +228,6 @@
     "Visuals/portfolio_std_vs_return_at_various_corr.png.crdownload",
     "Visuals/portfolio_std_vs_weight_at_various_corr.png.crdownload",
     "Untitled.canvas",
-    "Visuals/CAL-with-borrowing.png.crdownload",
-    "Visuals/Không được xác nhận 769492.crdownload",
-    "Visuals/capital-allocation-line"
+    "Visuals/CAL-with-borrowing.png.crdownload"
   ]
 }

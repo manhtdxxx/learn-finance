@@ -1,5 +1,6 @@
 [
   "table-editor-obsidian",
   "obsidian-mind-map",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-plugin-prettier"
 ]

@@ -1,25 +1,25 @@
 # 1. Overview
 ### 1.1. Phân loại theo hoạt động của DN
 - **Dòng tiền từ hoạt động kinh doanh (Operating Cash Flow - OCF)**
-	- Cash Inflows: các khoản thu từ việc cung cấp sản phẩm hay dịch vụ cho khách hàng
-	- Cash Outflows: 
+	- ***Cash Inflows:*** các khoản thu từ việc cung cấp sản phẩm hay dịch vụ cho khách hàng
+	- ***Cash Outflows:*** 
 		- Các khoản chi trả cho nhà cung cấp
 		- Khoản lương cho nhân viên
 		- Trả *lãi* vay, thuế ...
 - **Dòng tiền từ hoạt động đầu tư (Investing Cash Flow - ICF)**
-	- Cash Inflows: 
+	- ***Cash Inflows:*** 
 		- Thanh lý TSCĐ
 		- Thu hồi các khoản đầu tư góp vốn
 		- Thu hồi các khoản cho vay
-	- Cash Outflows: 
+	- ***Cash Outflows:*** 
 		- Đầu tư TSCĐ
 		- Đầu tư góp vốn
 		- Cho vay
 - **Dòng tiền từ hoạt động tài chính (Financing Cash Flow - FCF)**
-	- Cash Inflows:
+	- ***Cash Inflows:***
 		- Vay vốn NH, hay qua trái phiếu
 		- Huy động VCSH
-	- Cash Outflows:
+	- ***Cash Outflows:***
 		- Trả *nợ* gốc vay NH, trái phiếu
 		- Trả cổ tức
 ### 1.2. Phân loại theo tính chất sở hữu
@@ -32,8 +32,8 @@
 	- CAPEX - Capital Expenditure gồm:
 		- Mua sắm TSCĐ mới
 		- Sửa chữa, nâng cấp TSCĐ hiện có
-- **Formula :**
-	- From *Net Income*
+- **Formula:**
+	- *From **Net Income***
 	$$
 	\begin{align}
 	FCFF &= NI + I \cdot (1 - t) + D\&A - CAPEX - \Delta WC
@@ -41,20 +41,20 @@
 	$$
 	`<< D&A - CAPEX có thể hiểu là sự thay đổi về VCĐ bởi lẽ D&A là khoản thu hồi VCĐ để tái đầu tư vào TSCĐ >>`
 	
-	- From *EBIT*
+	- *From **EBIT***
 	$$
 	\begin{align}
 	FCFF &= EBIT \cdot (1 - t) + D\&A - CAPEX - \Delta WC\\
 	&= NOPAT + D\&A - CAPEX - \Delta WC
 	\end{align}
 	$$
-	- From *EBITDA*
+	- *From **EBITDA***
 	$$
 	\begin{align}
 	FCFF = EBITDA \cdot (1 - t) + D\&A \cdot t- CAPEX - \Delta WC
 	\end{align}
 	$$
-	- From *Operating Cash Flow*
+	- *From **Operating Cash Flow***
 	$$
 	\begin{align}
 	FCFF &= OCF + I \cdot (1 - t) - CAPEX
@@ -62,7 +62,7 @@
 	$$
 ##### 1.2.2. Dòng tiền tự do của chủ sở hữu (Free Cash Flow to Equity – FCFE)
 - Là dòng tiền còn lại của *chủ sở hữu* sau khi công ty đã *thanh toán lãi vay* và *nợ gốc* cho chủ nợ, và công ty tiếp tục *phát hành nợ vay mới*, số tiền vay mới đó có thể dùng để chi trả cổ tức cho các cổ đông
-- **Formula :**
+- **Formula:**
 $$
 \begin{align}
 FCFE &= FCFF- I \cdot (1 - t) + Net\ Borrowings \\
@@ -73,7 +73,7 @@ $$
 # 2. Các chỉ tiêu đánh giá tình hình dòng tiền
 ### 2.1. Chỉ tiêu kỳ luân chuyển tiền
 ![[cash_conversion_cycle.png#center|640]]
-- **Formula**
+- **Formula:**
 $$
 \begin{align}
 Cash\ Conversion\ Cycle &= DIO + DSO - DPO\\\\\\
@@ -82,8 +82,9 @@ Days\ Sales\ Outstanding\ (DSO) &= \frac{Average\ Accounts\ Receivable}{Sales\ /
 Days\ Payable\ Outstanding\ (DPO) &= \frac{Average\ Accounts\ Payable}{Supplier\ Purchases\ /\ 365}\\\\
 \end{align}
 $$
-- CCC có xu hướng *giảm* hoặc ổn định qua nhiều thời kì thì đó là một dấu hiệu tốt, khi đó DN có thể tiết kiệm được tiền và tập trung vào các hoạt động sinh lời khác
-- Ngược lại, khi CCC có xu hướng *tăng*, ta phải kiểm tra và phân tích các yếu tố khác để xem xét kỹ hơn vấn đề quản trị tiền của DN
+- **Nhận xét:**
+	- CCC có xu hướng *giảm* hoặc ổn định qua nhiều thời kì thì đó là một dấu hiệu tốt, khi đó DN có thể tiết kiệm được tiền và tập trung vào các hoạt động sinh lời khác
+	- Ngược lại, khi CCC có xu hướng *tăng*, ta phải kiểm tra và phân tích các yếu tố khác để xem xét kỹ hơn vấn đề quản trị tiền của DN
 ### 2.2. Chỉ tiêu đánh giá tình hình dòng tiền của DN 
 - 
 $$\begin{align} 
@@ -104,16 +105,15 @@ Cash\ Flow\ to\ Debt\ Ratio = \frac{Cash\ Flow\ from\ Operating\ Activities}{Tot
 $$
 # 3. #Principles of Cash Flow Management
 ### 3.1. Đầu tư tiền dư thừa
-- Tiền dùng cho mục đích: Chi tiêu, Dự phòng, Đầu cơ
-- Khi có tiền nhàn rỗi, DN nên tìm kiếm các cơ hội đầu tư. Trước khi đầu tư, DN sẽ cân nhắc 4 yếu tố *Rủi ro, Thanh khoản, Kỳ hạn đầu tư, Mức sinh lời* sao cho tối đa hóa lợi nhuận trong thời gian nhàn rỗi của tiền
-- **Đầu tư ngắn hạn** :
+- Tiền dùng cho mục đích: 
+	- Chi tiêu
+	- Dự phòng
+	- Đầu cơ
+- Khi có tiền nhàn rỗi, DN nên **đầu tư ngắn hạn** với sự cân nhắc của 4 yếu tố: 
 	- Thời gian ngắn hơn
 	- Tỷ suất sinh lời chỉ cần cao hơn so với tiền lãi gửi không kỳ hạn tại ngân hàng
 	- Tránh rủi ro giảm vốn hay mất vốn
 	- Đảm bảo thanh khoản tốt
-- **Nhóm tài sản mà DN có thể đầu tư ngắn hạn :**
-	- Tiền gửi có kỳ hạn
-	- Chứng khoán ngắn hạn
 - Nếu DN vẫn muốn đầu tư vào cổ phiếu trong ngắn hạn thì nên xây dựng một danh mục đầu tư phù hợp
 ### 3.2. Xử lý tiền thiếu hụt
 - **Đẩy nhanh các khoản phải thu**
