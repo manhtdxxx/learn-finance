@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f635e7454a8bbb67",
+        "id": "9b87f37333720fcd",
         "type": "tabs",
         "children": [
           {
-            "id": "cd41548acaf53948",
+            "id": "a6281d74776b28ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,16 +180,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd41548acaf53948",
+  "active": "a6281d74776b28ea",
   "lastOpenFiles": [
-    "03. Financial Statement Analysis/Chapter 04. AR & AP.md",
+    "02. Commercial Bank/Chapter 02. Nghiệp vụ huy động vốn.md",
     "01. Corporate Finance/Chapter 11. Corporate Restructuring.md",
+    "01. Corporate Finance/Chapter 10. Dividend Policy.md",
+    "03. Financial Statement Analysis/Chapter 04. AR & AP.md",
     "03. Financial Statement Analysis/Chapter 07. Financial Crisis & Risk.md",
     "04. Financial Investment/Chapter 06. Portfolio Strategy.md",
     "01. Corporate Finance/Chapter 09. Financial Planning.md",
     "01. Corporate Finance/Chapter 08. Cash Flow Management.md",
     "02. Commercial Bank/Chapter 05. Nghiệp vụ tín dụng trung và dài hạn.md",
-    "01. Corporate Finance/Chapter 10. Dividend Policy.md",
     "01. Corporate Finance/Chapter 07. Asset Management.md",
     "01. Corporate Finance/Chapter 05-2. Leverage.md",
     "01. Corporate Finance/Chapter 03-2. Valuation.md",
@@ -207,7 +208,6 @@
     "04. Financial Investment/Chapter 04. Bond.md",
     "04. Financial Investment/Chapter 02. Pricing Model.md",
     "04. Financial Investment/Chapter 01. Overview.md",
-    "04. Financial Investment/Chapter 03. Stock.md",
     "Visuals/technical_analysis",
     "Visuals/New folder",
     "Visuals/CAL_with_leveraging.png",

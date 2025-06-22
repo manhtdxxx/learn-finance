@@ -41,7 +41,7 @@
 	\text{Số cổ phần B có} &= 2.400 \cdot \frac{0,25}{1 - 0,25} = 800 \text{ cổ phần}\\\\
 	\text{Số cổ phần DN mới} &= 2.400 + 800 = 3.200 \text{ cổ phần}\\\\
 	\text{Tổng LNST của DN mới} &= 120.000.000 + 50.000.000 = 170.000.000\\\\
-	\text{EPS của DN mới} &= \frac{170.000.000}{3.200} = 53,125
+	\text{EPS của DN mới} &= \frac{170.000.000}{3.200} = 53.125
 	\end{align}
 	$$
 	- EPS sau sát nhập > EPS của cả A hay B 
@@ -54,7 +54,7 @@
 	\text{Số cổ phần C có} &= 2.400 \cdot \frac{5/17}{1 - 5/17} = 1.000 \text{ cổ phần}\\\\
 	\text{Số cổ phần DN mới} &= 2.400 + 1.000 = 3.400 \text{ cổ phần}\\\\
 	\text{Tổng LNST của DN mới} &= 120.000.000 + 50.000.000 = 170.000.000\\\\
-	\text{EPS của DN mới} &= \frac{170.000.000}{3.400} = 50
+	\text{EPS của DN mới} &= \frac{170.000.000}{3.400} = 50.000
 	\end{align}
 	$$
 	- Khi P/E của DN A và B bằng nhau, EPS sau sáp nhập = EPS của A
@@ -62,22 +62,19 @@
 - **Kế toán các giao dịch M&A:**
 	- ***Phương pháp mua lại:*** 
 		- Ghi nhận giá mua như một khoản đầu tư
-		- **Nếu giá mua > giá trị sổ sách của tài sản**
-			- Ví dụ: A trả 15 tỷ để mua B. Giá trị sổ sách của B: tài sản 20 tỷ, nợ 7 tỷ 
-				- ***Khi mua thành công***
-					- Nợ TK 221 – Đầu tư vào công ty con: 15 tỷ
-					- Có TK 112 – Tiền gửi ngân hàng: 15 tỷ
-				- ***Ghi nhận tài sản và nợ của bên bị mua***
-					- Nợ TK 111, 112, 131, 156, 211 ... : 20 tỷ
-					- Có TK 331, 333, 334, 341 ... : 7 tỷ
-					- Có TK 221 – Đầu tư vào công ty con: 13 tỷ
-				- ***Ghi nhận lợi thế thương mại (Goodwill)***
-					- Nợ TK 213 – Lợi thế thương mại: 2 tỷ
-					- Có TK 221 – Đầu tư vào công ty con: 2 tỷ
-		---
+		- Nếu giá mua > giá trị tài sản ròng (Tài sản - Nợ) --> Ghi nhận lợi thế thương mại (goodwill)
 	- ***Phương pháp hợp nhất đơn giản:*** 
 		- Gộp toàn bộ tài sản và nợ của 2 DN `<< giống như cộng 2 BCĐKT với nhau >>`
 		- Không ghi nhận tài sản vô hình (goodwill)
+
+| Chỉ tiêu            | Doanh nghiệp A | Doanh nghiệp B | **PP hợp nhất** | **PP mua lại <br>(Giá 11.000)**            | **PP mua lại <br>(Giá 15.000)**            |
+| ------------------- | -------------- | -------------- | --------------- | ------------------------------------------ | ------------------------------------------ |
+| ***I. Tài sản***    | *100.000*      | *20.000*       | *120.000*       | *118.000*<br>`<< TS A + Giá mua + Nợ B >>` | *122.000*<br>`<< TS A + Giá mua + Nợ B >>` |
+| 1. Tài sản hữu hình | 100.000        | 20.000         | 120.000         | 118.000                                    | 120.000                                    |
+| 2. Tài sản vô hình  | 0              | 0              | 0               | 0                                          | 2.000<br>`<< lợi thế thương mại >>`        |
+| ***II. Nguồn vốn*** | *100.000*      | *20.000*       | *120.000*       | *118.000*                                  | *122.000*                                  |
+| 1. Nợ phải trả      | 25.000         | 7.000          | 32.000          | 32.000                                     | 32.000                                     |
+| 2. Vốn chủ sở hữu   | 75.000         | 13.000         | 88.000          | 86.000                                     | 90.000                                     |
 # 2. Phá sản & Thanh lý
 ### 2.1. Phá sản - Bankruptcy
 - Là tình trạng mất khả năng thanh toán nợ đến hạn, dù đã áp dụng các biện pháp tài chính cần thiết
