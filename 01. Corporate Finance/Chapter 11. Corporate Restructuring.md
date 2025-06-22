@@ -62,19 +62,19 @@
 - **Kế toán các giao dịch M&A:**
 	- ***Phương pháp mua lại:*** 
 		- Ghi nhận giá mua như một khoản đầu tư
-		- Nếu giá mua > giá trị tài sản ròng (Tài sản - Nợ) --> Ghi nhận lợi thế thương mại (goodwill)
+		- Nếu giá mua > giá trị tài sản ròng (Tài sản - Nợ) --> Ghi nhận lợi thế thương mại (Goodwill)
 	- ***Phương pháp hợp nhất đơn giản:*** 
 		- Gộp toàn bộ tài sản và nợ của 2 DN `<< giống như cộng 2 BCĐKT với nhau >>`
-		- Không ghi nhận tài sản vô hình (goodwill)
+		- Không ghi nhận tài sản vô hình (Goodwill)
 
-| Chỉ tiêu            | Doanh nghiệp A | Doanh nghiệp B | **PP hợp nhất** | **PP mua lại <br>(Giá 11.000)**            | **PP mua lại <br>(Giá 15.000)**            |
-| ------------------- | -------------- | -------------- | --------------- | ------------------------------------------ | ------------------------------------------ |
-| ***I. Tài sản***    | *100.000*      | *20.000*       | *120.000*       | *118.000*<br>`<< TS A + Giá mua + Nợ B >>` | *122.000*<br>`<< TS A + Giá mua + Nợ B >>` |
-| 1. Tài sản hữu hình | 100.000        | 20.000         | 120.000         | 118.000                                    | 120.000                                    |
-| 2. Tài sản vô hình  | 0              | 0              | 0               | 0                                          | 2.000<br>`<< lợi thế thương mại >>`        |
-| ***II. Nguồn vốn*** | *100.000*      | *20.000*       | *120.000*       | *118.000*                                  | *122.000*                                  |
-| 1. Nợ phải trả      | 25.000         | 7.000          | 32.000          | 32.000                                     | 32.000                                     |
-| 2. Vốn chủ sở hữu   | 75.000         | 13.000         | 88.000          | 86.000                                     | 90.000                                     |
+| Chỉ tiêu            | Doanh nghiệp A | Doanh nghiệp B | **PP hợp nhất** | **PP mua lại <br>(Giá 11.000)**<br>`- Giá < VCSH B -` | **PP mua lại <br>(Giá 15.000)**<br>`- Giá > VCSH B -` |
+| ------------------- | -------------- | -------------- | --------------- | ----------------------------------------------------- | ----------------------------------------------------- |
+| ***I. Tài sản***    | *100.000*      | *20.000*       | *120.000*       | *118.000*<br>`<< TS A + Giá mua + Nợ B >>`            | *122.000*<br>`<< TS A + Giá mua + Nợ B >>`            |
+| 1. Tài sản hữu hình | 100.000        | 20.000         | 120.000         | 118.000                                               | 120.000                                               |
+| 2. Tài sản vô hình  | 0              | 0              | 0               | 0                                                     | 2.000<br>`<< Goodwill >>`                             |
+| ***II. Nguồn vốn*** | *100.000*      | *20.000*       | *120.000*       | *118.000*                                             | *122.000*                                             |
+| 1. Nợ phải trả      | 25.000         | 7.000          | 32.000          | 32.000                                                | 32.000                                                |
+| 2. Vốn chủ sở hữu   | 75.000         | 13.000         | 88.000          | 86.000                                                | 90.000                                                |
 # 2. Phá sản & Thanh lý
 ### 2.1. Phá sản - Bankruptcy
 - Là tình trạng mất khả năng thanh toán nợ đến hạn, dù đã áp dụng các biện pháp tài chính cần thiết
