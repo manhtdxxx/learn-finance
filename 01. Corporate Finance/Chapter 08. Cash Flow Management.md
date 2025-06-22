@@ -33,7 +33,7 @@
 		- Mua sắm TSCĐ mới
 		- Sửa chữa, nâng cấp TSCĐ hiện có
 - **Formula:**
-	- *From **Net Income***
+	- ***From Net Income***
 	$$
 	\begin{align}
 	FCFF &= NI + I \cdot (1 - t) + D\&A - CAPEX - \Delta WC
@@ -41,20 +41,20 @@
 	$$
 	`<< D&A - CAPEX có thể hiểu là sự thay đổi về VCĐ bởi lẽ D&A là khoản thu hồi VCĐ để tái đầu tư vào TSCĐ >>`
 	
-	- *From **EBIT***
+	- ***From EBIT***
 	$$
 	\begin{align}
 	FCFF &= EBIT \cdot (1 - t) + D\&A - CAPEX - \Delta WC\\
 	&= NOPAT + D\&A - CAPEX - \Delta WC
 	\end{align}
 	$$
-	- *From **EBITDA***
+	- ***From EBITDA***
 	$$
 	\begin{align}
 	FCFF = EBITDA \cdot (1 - t) + D\&A \cdot t- CAPEX - \Delta WC
 	\end{align}
 	$$
-	- *From **Operating Cash Flow***
+	- ***From Operating Cash Flow***
 	$$
 	\begin{align}
 	FCFF &= OCF + I \cdot (1 - t) - CAPEX
