@@ -1,10 +1,12 @@
 # 1. Simple Index Model - SIM
 ### 1.1. Assumption
-- Quan hệ tuyến tính giữa lợi suất của tài sản tài chính và lợi suất chung của thị trường
+- Quan hệ tuyến tính giữa lợi suất của tài sản tài chính và lợi suất toàn thị trường
 - Rủi ro của chứng khoán bao gồm hai thành phần:
-	- Rủi ro hệ thống 
-	- Rủi ro phi hệ thống (là rủi ro không liên quan tới thị trường, hay nói cách khác là rủi ro đặc thù của công ty)
-- Hệ số beta không đổi theo thời gian => mối quan hệ giữa giá chứng khoán và chỉ số thị trường là ổn định
+	- Rủi ro hệ thống (rủi ro thị trường)
+	- Rủi ro phi hệ thống (rủi ro đặc thù của công ty, không liên quan tới thị trường)
+- Rủi ro phi hệ thống có kỳ vọng = 0
+- Rủi ro phi hệ thống của các tài sản không có sự tương quan với nhau
+- Beta là hằng số -> mối quan hệ giữa giá chứng khoán và chỉ số thị trường ổn định theo thời gian
 - ...
 ### 1.2. Regression Equation
 - **Lợi suất vượt trội (Excess Return):**
@@ -68,15 +70,17 @@ $$
 		![[unsystematic_risk.png#center|560]]
 # 2. Capital Asset Pricing Model - CAPM
 ### 2.1. Assumption
-- Thị trường hoàn hảo
+- Thị trường hoàn hảo `Perfect Capital Market`
 	- Không phí giao dịch, không thuế
+	- Thông tin hoàn hảo và có sẵn cho tất cả nhà đầu tư
 	- Không giới hạn trong việc bán khống
-	- Thông tin có sẵn và miễn phí ngay cho nhà đầu tư
+	- Tồn tại cùng một lãi suất phi rủi ro mà nhà đầu tư có thể vay và cho vay không giới hạn
+	- Không có sự thao túng thị trường
+	- Tài sản có thể chia nhỏ vô hạn `Infinite Divisible Asset`
 - Các nhà đầu tư 
-	- Có hành vi hợp lý: tối đa hóa lợi nhuận kỳ vọng dựa trên rủi ro
-	- Có kỳ vọng đồng nhất: mọi nhà đầu tư đều có cùng kỳ vọng về lợi nhuận, rủi ro và tương quan giữa các tài sản
-	- Có khoảng thời gian đầu tư giống nhau
-- Tồn tại tài sản phi rủi ro mà nhà đầu tư có thể vay và cho vay với lãi suất không đổi
+	- Có hành vi hợp lý `Mean-Variance Optimal`: tối đa hóa lợi nhuận kỳ vọng dựa trên rủi ro
+	- Có kỳ vọng đồng nhất `Homogenous Expectations`: mọi nhà đầu tư đều có cùng kỳ vọng về lợi nhuận, rủi ro và tương quan giữa các tài sản
+	- Có cùng một khoảng thời gian đầu tư
 - ...
 ### 2.2. Component Breakdown
 - **Danh mục thị trường:**

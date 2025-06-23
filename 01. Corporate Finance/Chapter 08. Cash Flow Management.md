@@ -1,5 +1,5 @@
-# 1. Overview
-### 1.1. Phân loại theo hoạt động của DN
+# 1. Phân loại dòng tiền
+### 1.1. Theo hoạt động của DN
 - **Dòng tiền từ hoạt động kinh doanh (Operating Cash Flow - OCF)**
 	- ***Cash Inflows:*** các khoản thu từ việc cung cấp sản phẩm hay dịch vụ cho khách hàng
 	- ***Cash Outflows:*** 
@@ -22,8 +22,8 @@
 	- ***Cash Outflows:***
 		- Trả *nợ* gốc vay NH, trái phiếu
 		- Trả cổ tức
-### 1.2. Phân loại theo tính chất sở hữu
-##### 1.2.1. Dòng tiền tự do của doanh nghiệp (Free Cash Flow to Firm – FCFF)
+### 1.2. Theo tính chất sở hữu
+##### Dòng tiền tự do của doanh nghiệp (Free Cash Flow to Firm – FCFF)
 - Là dòng tiền được tạo ra từ *hoạt động kinh doanh* thuộc về các nhà đầu tư, bao gồm cả *chủ sở hữu* và *chủ nợ*, sau khi *trừ đi* những *khoản đầu tư* cần thiết
 	- OCF gồm: 
 		- Lợi nhuận sau thuế
@@ -60,7 +60,7 @@
 	FCFF &= OCF + I \cdot (1 - t) - CAPEX
 	\end{align}
 	$$
-##### 1.2.2. Dòng tiền tự do của chủ sở hữu (Free Cash Flow to Equity – FCFE)
+##### Dòng tiền tự do của chủ sở hữu (Free Cash Flow to Equity – FCFE)
 - Là dòng tiền còn lại của *chủ sở hữu* sau khi công ty đã *thanh toán lãi vay* và *nợ gốc* cho chủ nợ, và công ty tiếp tục *phát hành nợ vay mới*, số tiền vay mới đó có thể dùng để chi trả cổ tức cho các cổ đông
 - **Formula:**
 $$

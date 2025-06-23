@@ -1,6 +1,6 @@
 # 1. Overview
 
-| ***Tiêu chí***   | ***Phân tích Cơ bản <br>(Fundamental Analysis)***                  | ***Phân tích Kỹ thuật <br>(Technical Analysis)***                  |
+| Tiêu chí         | ***Phân tích Cơ bản <br>(Fundamental Analysis)***                  | ***Phân tích Kỹ thuật <br>(Technical Analysis)***                  |
 | ---------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
 | Mục tiêu         | Xác định giá trị nội tại của cổ phiếu (overvalued hay undervalued) | Dự báo biến động giá để xác định điểm mua/bán cổ phiếu             |
 | Dữ liệu sử dụng  | Báo cáo tài chính, Thống kê ngành, Bối cảnh kinh tế                | Giá, Khối lượng giao dịch                                          |

@@ -1,8 +1,42 @@
 # 1. Phân phối lợi nhuận
-- **Lợi nhuận của DN gồm:**
-	- Lợi nhuận từ hoạt động ***sản xuất kinh doanh*** (TK 511 - TK 521 - TK 632 - TK 641 - TK 642)
-	- Lợi nhuận từ hoạt động ***tài chính*** (TK 515 - TK 635)
-	- Lợi nhuận từ hoạt động ***khác*** (TK 711 - TK 811)
+- **Lợi nhuận của DN từ 3 hoạt động:**
+	- ***Lợi nhuận từ hoạt động sản xuất kinh doanh*** (TK 511 - TK 521 - TK 632 - TK 641 - TK 642)
+		- Doanh thu từ hoạt động bán hàng và cung cấp dịch vụ
+		- Chi phí từ hoạt động kinh doanh
+			- Giá vốn hàng bán
+				- Giá thành sản xuất
+					- Chi phí vật tư trực tiếp
+					- Chi phí nhân công trực tiếp
+					- Chi phí sản xuất chung
+					- Chênh lệch sản phẩm dở dang đầu kỳ và cuối kỳ
+				- Chênh lệch thành phẩm tồn kho đầu kỳ và cuối kỳ
+			- Chi phí bán hàng
+				- Tiền lương, phụ cấp cho nhân viên bán hàng, tiếp thị
+				- Chi phí quảng cáo, khuyến mãi, hội chợ, trưng bày sản phẩm
+				- Chi phí vận chuyển, đóng gói, bảo quản hàng hóa
+				- Chi phí vật liệu, bao bì, dụng cụ, đồ dùng phục vụ bán hàng
+				- Khấu hao TSCĐ
+				- Chi phí dịch vụ mua ngoài như logistics, thuê kho, bảo hành, lắp đặt ...
+			- Chi phí quản lý doanh nghiệp
+				- Tiền lương, phụ cấp cho ban giám đốc, ban quản lý
+				- Chi phí vật liệu dùng cho văn phòng
+				- Khấu hao TSCĐ
+				- Chi phí thuế, lệ phí, bảo hiểm bắt buộc như: thuế môn bài, bảo hiểm cháy nổ ...
+				- Chi phí dịch vụ mua ngoài như tư vấn pháp lý, vệ sinh, bảo vệ ...
+				- Chi phí khác như tiếp tân, hội họp, công tác, đào tạo nội bộ ...
+	- ***Lợi nhuận từ hoạt động tài chính*** (TK 515 - TK 635)
+		- Doanh thu từ hoạt động tài chính
+		- Chi phí từ hoạt động tài chính
+			- Chi phí lãi vay, thuê tài chính
+			- Lỗ khi đầu tư vào công ty con, liên doanh, liên kết
+			- Lỗ khi mua-bán chứng khoán
+			- Lỗ do chênh lệch tỷ giá hối đoái
+	- ***Lợi nhuận từ hoạt động khác*** (TK 711 - TK 811)
+		- Thu nhập khác
+		- Chi phí khác
+			- Chi phí nhượng bán, thanh lý TSCĐ
+			- Giá trị tổn thất tài sản thêm dù đã trích lập dữ phòng
+			- Chi phí khác như vi phạm hợp đồng, nộp phạt ...
 ---
 - **Nguyên tắc phân phối lợi nhuận:**
 	- ***Nguyên tắc lợi nhuận thực hiện***
@@ -15,17 +49,17 @@
 		- Ban điều hành DN cần làm rõ các bên có lợi ích và cách thức đảm bảo lợi ích cho các bên đó
 ---
 - **Các quỹ được trích từ lợi nhuận của DN:**
-	- ***Quỹ phát triển khoa học và công nghệ***
-		- Chỉ được sử dụng cho đầu tư nghiên cứu khoa học và phát triển công nghệ của doanh nghiệp tại Việt Nam.
 	- ***Quỹ đầu tư phát triển*** 
-		- Phát triển kinh doanh, bổ sung vốn điều lệ, tham gia liên doanh, góp vốn, ...
+		- Đầu tư mở rộng kinh doanh; đổi mới máy móc, trang thiết bị; nghiên cứu áp dụng các tiến bộ KH-KT ...
 	- ***Quỹ dự phòng tài chính*** 
-		- Bù đắp tổn thất do thiên tai, dịch họa, rủi ro kinh doanh.
+		- Bù đắp tổn thất do thiên tai, dịch họa, rủi ro kinh doanh không được tính trong giá thành ...
+	- ***Quỹ dự phòng về trợ cấp mất việc làm***
+		- Trợ cấp cho người lao động làm việc > 1 năm bị mất việc làm; chi cho việc đào tạo lại chuyên môn, kỹ thuật do thay đổi công nghệ hoặc chuyển sang việc làm mới; đặc biệt là lao động nữ
 	- ***Quỹ phúc lợi*** 
-		- Xây dựng công trình phúc lợi, chi cho hoạt động phúc lợi, thể thao, văn hóa, đóng góp quỹ phúc lợi xã hội, hỗ trợ cán bộ công nhân viên, ...
+		- Xây dựng công trình phúc lợi; chi cho hoạt động phúc lợi, thể thao, văn hóa; đóng góp quỹ phúc lợi xã hội, hỗ trợ cán bộ công nhân viên, ...
 	- ***Quỹ khen thưởng***
 		- Khen thưởng cuối năm, đột xuất cho cá nhân, tập thể có thành tích, hoàn thành tốt hợp đồng
-	- ***Các quỹ khác*** (nếu có) như quỹ dự trữ quốc gia; quỹ hỗ trợ những người hy sinh, chết, mất khả năng lao động, quỹ thưởng Ban điều hành công ty, …
+	- ***Các quỹ khác*** (nếu có) như quỹ dự trữ quốc gia; quỹ hỗ trợ những người hy sinh, chết, mất khả năng lao động, …
 # 2. Chính sách cổ tức tại công ty cổ phần
 - Lợi nhuận sau thuế (Net Income) gồm:
 	- Cổ tức (Dividend)

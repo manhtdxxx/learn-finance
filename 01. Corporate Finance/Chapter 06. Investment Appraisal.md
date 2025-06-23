@@ -32,7 +32,7 @@
 	- Các dự án đầu tư phụ thuộc
 	- Các dự án đầu tư xung khắc
 # 2. Dòng tiền của dự án đầu tư
-### 2.1. Nguyên tắc xác định dòng tiền
+### 2.1. Nguyên tắc xác định dòng tiền (Cash Flow Estimation)
 - Trong phân tích tài chính dự án, chúng ta sử dụng dòng tiền chứ không sử dụng lợi nhuận như là cơ sở để đánh giá dự án
 	+ Dòng tiền ra - Cash Inflows: là những khoản tiền chi ra để thực hiện dự án
 	+ Dòng tiền vào - Cash Outflows: là những khoản tiền thu nhập do dự án mang lại
@@ -88,7 +88,7 @@
 - **Tiêu chí lựa chọn dự án:**
 	- Với các dự án độc lập, chọn các dự án có PBP < or = PBP max theo yêu cầu
 	- Với các dự án xung khắc, chọn dự án có PBP ngắn nhất
-##### 3.2.1 Simple PP
+##### Simple PP
 - ***BT:*** Một DN đang xem xét đầu tư vào một trong 2 dự án A và B. Số vốn đầu tư vào mỗi dự án đều là 180 triệu và bỏ ngay 1 lần. Thu nhập thuần mỗi năm (lợi nhuận sau thuế + khấu hao) dự tính như sau:
 
 | Năm | Dòng tiền thuần (A) | VTĐ còn phải thu hồi cuối năm (A) | Dòng tiền thuần (B) | VTĐ còn phải thu hồi cuối năm (B) |
@@ -102,7 +102,7 @@
 - Thời gian hoàn vốn đầu tư của dự án A là: 4 năm. 
 - Thời gian hoàn vốn đầu tư của dự án B là: 3 + (10/70 × 12) ≈ 3 năm 1,7 tháng 
 - A, B xung khắc ==> Chọn dự án B
-##### 3.2.2 Discounted PP
+##### Discounted PP
 - Để khắc phục nhược điểm không tính đến giá trị thời gian của tiền của Simple PP
 - Dòng tiền thuần ở những năm sản xuất được chiết khấu về thời điểm rót vốn ban đầu với một tỷ suất chiết khấu
 - *Với BT ở 3.2.1, xét thời gian hoàn vốn có tỷ suất chiết khấu = 10%*
@@ -141,7 +141,7 @@ $$
 		- Với các dự án là xung khắc và thời gian như nhau, chọn dự án có NPV lớn hơn
 ---
 ### 3.4. Tỷ suất doanh lợi nội bộ (Internal Rate of Return - IRR)
-##### 3.4.1. IRR
+##### IRR
 - Tỷ suất doanh lợi nội bộ (Lãi suất hoàn vốn nội bộ) là mức lãi suất chiết khấu làm *giá trị hiện tại của vốn đầu tư* bằng *giá trị hiện tại* của các *khoản thu trong tương lai*
 $$NPV = \sum_{t=1}^n \frac{DTT_t}{(1+IRR)^t} + \frac{Thanh\ lý\ TSCĐ + Thu\ hồi\ VLĐ}{(1+IRR)^n} - VĐT_0 = 0$$
 - **Các bước tính IRR:**
@@ -157,7 +157,7 @@ $$NPV = \sum_{t=1}^n \frac{DTT_t}{(1+IRR)^t} + \frac{Thanh\ lý\ TSCĐ + Thu\ h�
 	- IRR > r  ==>
 		- Với các dự án độc lập, chọn tất cả (nếu đủ vốn)
 		- Với các dự án xung khắc và thời gian như nhau, chọn dự án có IRR lớn hơn
-##### 3.4.2. Modified IRR - MIRR
+##### Modified IRR - MIRR
 - Tỷ suất doanh lợi nội bộ hiệu chỉnh là mức lãi suất chiết khấu làm cho *giá trị hiện tại của vốn đầu tư* bằng *giá trị hiện tại* của *giá trị tương lai* (thời điểm kết thúc dự án) của *dòng tiền thu về* từ dự án `<< tính giá trị tương lai của các khoản thu về cùng thời điểm kết thúc dự án, sau đó sẽ chiết khấu cái giá trị tính đc đó về hiện tại >>`
 - **Công thức:**
 	- `DTV(FV) : dòng tiền vào chiết khấu tại thời điểm kết thúc dự án`
@@ -206,7 +206,7 @@ $$
 	- r < 13,08 % => chọn dự án A
 	- r > 13,08 % => chọn dự án B
 ### 4.2. Tính NPV cho các dự án có tuổi thọ không bằng nhau
-##### 4.2.1 Phương pháp thay thế
+##### Phương pháp thay thế
 - Qui các dự án về cùng một một độ dài thời gian hoạt động bằng bội số chung nhỏ nhất của tuổi thọ các dự án
 - ***BT:*** Dự án A có thời hạn 2 năm, dự án B có thời hạn 4 năm ==> Tái đầu tư để quy các dự án về tuổi thọ bằng nhau ( BSCNN = 4)
 
@@ -226,7 +226,7 @@ NPV_B &= \frac{50}{(1+0.1)} + \frac{50}{(1+0.1)^2} + \frac{50}{(1+0.1)^3} + \fra
 $$
 - So sánh `NPV(a+a')` và `NPV(b)` ==> Chọn A
 
-##### 4.2.2 Phương pháp chuỗi tiền tệ đều thay thế hằng năm
+##### Phương pháp chuỗi tiền tệ đều thay thế hằng năm
 - Phương pháp này dàn đều giá trị NPV thành thu nhập đều hàng năm trong suốt vòng đời của dự án
 $$
 \begin{align}

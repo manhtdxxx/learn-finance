@@ -15,11 +15,11 @@
 
 | Ratio                             | Interpretation                                                          |
 | --------------------------------- | ----------------------------------------------------------------------- |
-| *Net Income / Total Assets (ROA)* | Profitability – earning power relative to assets                        |
-| *Debt / Total Assets*             | Leverage – how much of the firm is financed by debt                     |
-| *Cash Flow / Total Debt*          | Liquidity – ability to cover debt with internal funds                   |
-| *Current Ratio*                   | Ability to pay short-term obligations                                   |
-| *Working Capital / Total Assets*  | Short-term financial health (WC = Current Assets - Current Liabilities) |
+| Net Income / Total Assets (ROA) | Profitability – earning power relative to assets                        |
+| Debt / Total Assets             | Leverage – how much of the firm is financed by debt                     |
+| Cash Flow / Total Debt          | Liquidity – ability to cover debt with internal funds                   |
+| Current Ratio                   | Ability to pay short-term obligations                                   |
+| Working Capital / Total Assets  | Short-term financial health (WC = Current Assets - Current Liabilities) |
 
 ---
 ### 1.2. Kết hợp các chỉ số (Edward Altman)
@@ -33,13 +33,13 @@
 	- Used ***mainly for manufacturing firms***, but there are variations for private firms, non-manufacturers, and emerging markets.
 - **Altman Z-score:**
 
-| Variable | Definition                                        |
-| -------- | ------------------------------------------------- |
-| X1       | *Working Capital / Total Assets*              |
-| X2       | *Cumulative Retained Earnings / Total Assets* |
-| X3       | *EBIT / Total Assets*                         |
-| X4       | *Market Capitalization / Total Liabilities*   |
-| X5       | *Sales / Total Assets*                        
+| Variable | Definition                                    |
+| -------- | --------------------------------------------- |
+| X1       | Working Capital / Total Assets              |
+| X2       | Cumulative Retained Earnings / Total Assets |
+| X3       | EBIT / Total Assets                         |
+| X4       | Market Capitalization / Total Liabilities   |
+| X5       | Sales / Total Assets                        |
 
 $$
 \begin{align}

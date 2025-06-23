@@ -33,23 +33,23 @@
 	- Chính phủ có thể dịch chuyển đường cầu sang phải qua vay mượn chính phủ, làm lãi suất cân bằng tăng lên. 
 	- NHTW có thể bù trừ sự gia tăng đó thông qua tăng cung tiền, làm đường cung dịch sang phải, từ đó giảm lãi suất cân bằng
 ##### 1.1.4. Demand and Supply Shocks
-- **Demand Shock**:
+- **Demand Shock:**
 	- Sự kiện bất ngờ, tạm thời làm tăng hoặc giảm nhu cầu đối với hàng hóa hoặc dịch vụ cụ thể
 	- Đặc điểm thông thường là sự dịch chuyển của GDP *cùng chiều* với lạm phát, lãi suất. Chính phủ chi tiều nhiều --> cầu tăng --> GDP tăng, lạm phát tăng; đồng thời chính phủ cũng phải vay mượn --> lãi suất tăng
-- **Supply Shock**:
+- **Supply Shock:**
 	- Sự kiện bất ngờ làm thay đổi đột ngột nguồn cung của sản phẩm hoặc hàng hóa, dẫn đến sự thay đổi không thể lường trước về giá
 	- Ví dụ: sự thay đổi giá dầu nhập khẩu, thiên tai...
 	- Đặc điểm thông thường là sự dịch chuyển của GDP *ngược chiều* với lạm phát, lãi suất. Khi cung giảm --> giá tăng --> lạm phát tăng --> lãi suất tăng, GDP giảm
 ##### 1.1.5. Macroeconomic Policies
 ###### Demand-side Policies
-- **Fiscal Policy**
+- **Fiscal Policy:**
 	- Tác động trực tiếp, tức thời nhất tới nền kinh tế nhưng thời gian hoạch định và thực hiện chính sách cồng kềnh
 	- Phương thức:
 		- ***Chi tiêu chính phủ***
 			- Tăng chi tiêu --> kích cầu nền kinh tế
 		- ***Thuế***
 			- Giảm thuế --> thu nhập ròng tăng --> kích cầu nền kinh tế
-- **Monetary Policy**
+- **Monetary Policy:**
 	- Tác động kém tức thời hơn
 	- NHTW thực hiện điều chỉnh cung tiền, từ đó tác động tới lãi suất
 		- Tăng cung tiền (mà cầu tiền không đổi) --> lãi suất giảm trong ngắn hạn --> kích cầu nền kinh tế
@@ -91,13 +91,13 @@
 ### 1.2. Sector Analysis
 ##### 1.2.1. Sensitivity to Economic Cycle
 - Các yếu tố xác định độ nhạy của thu nhập DN với chu kỳ kinh tế:
-	- **Doanh số :**
+	- **Doanh số:**
 		- *Mặt hàng thiết yếu* (như thực phẩm, thuốc men, điện nước...) thường *ít chịu tác động* bởi chu kỳ kinh tế. Dù kinh tế suy thoái, người dân vẫn phải tiêu dùng những sản phẩm này, nên *doanh số* của các công ty SXKD các mặt hàng thiết yếu *ít biến động*.
 		- Ngược lại, các mặt hàng như máy móc thiết bị, xe cộ, hàng xa xỉ, bất động sản,... thường là những *sản phẩm có giá trị cao* hoặc *không thiết yếu*. Khi nền kinh tế suy thoái, người tiêu dùng sẽ cắt giảm chi tiêu, khiến doanh số giảm mạnh. Vì vậy, các ngành này *nhạy cảm hơn* với biến động kinh tế.
 	- **Đòn bẩy hoạt động:**
 		- DN có *nhiều chi phí cố định* (như chi phí thuê nhà xưởng, máy móc...) sẽ có *đòn bẩy hoạt động cao*. Khi doanh thu tăng, lợi nhuận tăng rất nhanh. Nhưng khi doanh thu giảm (do suy thoái kinh tế), lợi nhuận cũng giảm mạnh, thậm chí lỗ.
 		- Do đó, doanh nghiệp có đòn bẩy hoạt động cao sẽ *nhạy cảm hơn* với các biến động của nền kinh tế.
-	- **Đòn bẩy tài chính :**
+	- **Đòn bẩy tài chính:**
 		- Khi nền kinh tế phát triển, doanh nghiệp có thể tận dụng *vay vốn* để tăng trưởng nhanh, tăng lợi nhuận. Nhưng trong thời kỳ kinh tế suy thoái, chi phí lãi vay vẫn phải trả, làm cho lợi nhuận sụt giảm nhanh hơn.
 		- Vì vậy, doanh nghiệp dùng *nhiều nợ* (đòn bẩy tài chính cao) sẽ *chịu ảnh hưởng lớn hơn* từ các biến động kinh tế.
 ##### 1.2.2. Industry Life Cycle
@@ -157,74 +157,74 @@
 ##### 1.3.1. Types of Stocks
 ###### 1.3.1.1. Based on Investment Style
 - **Growth Stocks - Cổ phiếu tăng trưởng**
-	- Đặc điểm :
+	- Đặc điểm:
 		- Tốc độ tăng doanh thu và lợi nhuận cao hơn mức trung bình ngành
 		- Thường không trả cổ tức (tái đầu tư)
 		- Định giá thường cao (P/E, P/B cao)
-	- ✅ Ưu điểm :
+	- ✅ Ưu điểm:
 		- Tiềm năng sinh lời cao trong dài hạn
 		- Phù hợp trong giai đoạn thị trường tăng trưởng
-	- ❌ Nhược điểm :
+	- ❌ Nhược điểm:
 		- Dễ bị định giá quá cao
 		- Biến động mạnh, rủi ro cao, đặc biệt khi thị trường đi xuống
 - **Value Stocks - Cổ phiếu giá trị**
-	- Đặc điểm :
+	- Đặc điểm:
 		- Bị định giá thấp hơn giá trị thực (theo phân tích cơ bản)
 		- Thường có cổ tức ổn định
 		- P/E, P/B thấp hơn trung bình ngành
-	- ✅ Ưu điểm :
+	- ✅ Ưu điểm:
 		- Rủi ro thấp hơn nhờ biên độ an toàn - ít bị định giá sai
 		- Có thể mang lại cả tăng giá và cổ tức
-	- ❌ Nhược điểm :
+	- ❌ Nhược điểm:
 		- Giao dịch với giá thấp hơn, có thể mất thời gian dài để thị trường nhận ra giá trị thực
 		- Có nguy cơ là “cạm bẫy giá trị” – bị định giá thấp do lý do chính đáng
 - **Speculative Stocks - Cổ phiếu đầu cơ**
-	- Đặc điểm :
+	- Đặc điểm:
 		- Rủi ro rất cao, nhưng cũng có khả năng sinh lời lớn
 		- Giá trị không tương ứng với thu nhập của công ty; biến động mạnh do tin tức, kỳ vọng thị trường
 		- Chủ yếu xuất hiện ở các công ty vốn hóa nhỏ, công ty mới nổi hoặc cổ phiếu penny
-	- ✅ Ưu điểm :
+	- ✅ Ưu điểm:
 		- Tiềm năng lợi nhuận rất cao nếu thành công
 		- Hấp dẫn với nhà đầu tư ngắn hạn hoặc ưa mạo hiểm
-	- ❌ Nhược điểm :
+	- ❌ Nhược điểm:
 		- Biến động rất mạnh
 		- Nguy cơ thua lỗ hoặc thất bại rất cao
 ###### 1.3.1.2. Based on Economic Sensitivity
 - **Cyclical Stocks - Cổ phiếu chu kỳ**
-	- Đặc điểm :
+	- Đặc điểm:
 		- Tăng trưởng tốt khi nền kinh tế mở rộng
 		- Kém hiệu quả khi kinh tế suy thoái
 		- Gồm các ngành như ô tô, du lịch, hàng xa xỉ...
-	- ✅ Ưu điểm :
+	- ✅ Ưu điểm:
 		- Sinh lợi cao trong thời kỳ kinh tế phát triển.
 		- Nếu chọn đúng thời điểm có thể thu được lợi nhuận lớn.
-	- ❌ Nhược điểm :
+	- ❌ Nhược điểm:
 		- Rất nhạy cảm với chu kỳ kinh tế.
 		- Thiếu khả năng phòng thủ trong thời kỳ suy thoái.
 - **Defensive Stocks - Cổ phiếu phòng vệ**
-	- Đặc điểm :
+	- Đặc điểm:
 		- Thu nhập ổn định bất kể tình hình kinh tế
 		- Gồm các ngành thiết yếu như điện, nước, tiêu dùng, y tế...
-	- ✅ Ưu điểm :
+	- ✅ Ưu điểm:
 		- Hoạt động ổn định, biến động thấp, an toàn hơn trong mọi giai đoạn
 		- Chỉ thực sự tốt khi thị trường suy thoái
 		- Thường chia cổ tức đều đặn
-	- ❌ Nhược điểm :
+	- ❌ Nhược điểm:
 		- Tiềm năng tăng trưởng hạn chế, ít hấp dẫn trong giai đoạn thị trường đi lên
 ##### 1.3.2. Porter's 4 Competitive Strategies
 - **Cost Leadership - Chiến lược dẫn đầu chi phí**
 	- Doanh nghiệp cố gắng trở thành *nhà cung cấp có chi phí thấp nhất* trong ngành, nhờ đó có thể bán hàng với *giá thấp hơn đối thủ*, thu hút khách hàng nhạy cảm về giá
-	- ✅ Ưu điểm :
+	- ✅ Ưu điểm:
 		- Có thể thu hút lượng khách hàng lớn nhờ giá rẻ
 		- Tạo rào cản cạnh tranh
 		- Giúp duy trì lợi nhuận ngay cả khi giá bán thấp
-	- ❌ Nhược điểm :
+	- ❌ Nhược điểm:
 		- Rủi ro về chất lượng nếu chi phí bị cắt quá sâu
 		- Dễ rơi vào cuộc đua hạ giá, làm giảm biên lợi nhuận toàn ngành
 		- Khó áp dụng nếu DN không đủ quy mô, công nghệ hoặc hiệu quả quản trị
 - **Differentiation - Chiến lược khác biệt hóa**
 	- Doanh nghiệp tạo ra sản phẩm hoặc dịch vụ có *tính năng độc đáo, chất lượng cao, thương hiệu mạnh…* để *khác biệt với đối thủ* khiến khách hàng sẵn sàng trả giá cao hơn
-	- ✅ Ưu điểm :
+	- ✅ Ưu điểm:
 		- Tạo lòng trung thành của khách hàng nhờ sự khác biệt
 		- Giảm áp lực cạnh tranh về giá
 		- Dễ nâng cao giá bán để tăng biên lợi nhuận
@@ -239,14 +239,14 @@
 		- Differentiation Focus - Tập trung khác biệt hóa
 ##### 1.3.3. SWOT
 ##### 1.3.4. Financial Statement Analysis
-- **Financial Indicators :**
+- **Financial Indicators:**
 	- Liquidity Ratios - Các chỉ số thanh khoản
 	- Leverage Ratios - Các chỉ số đòn bẩy tài chính 
 	- Efficiency Ratios - Chỉ số hiệu quả hoạt động
 	- Profitability Ratios - Các chỉ số sinh lời
 	- Valuation Ratios - Các chỉ số định giá
 	---
-- **Dupont Analysis :**
+- **Dupont Analysis:**
 	$$
 	\begin{align}
 	\text{ROE} &= \frac{\text{Net Income}}{\text{Equity}}\\\\
@@ -254,16 +254,16 @@
 	&= \text{Net Profit Margin}\ \cdot\ \text{Asset Turnover Ratio}\ \cdot\ \text{Financial Leverage Ratio} 
 	\end{align}
 	$$
-	- ✅ Ưu điểm :
+	- ✅ Ưu điểm:
 		- Cho phép bóc tách ROE thành 3 phần để xác định công ty đang có vấn đề ở đâu?
 			- *Net Profit Margin* – khả năng sinh lời từ doanh thu
 			- *Asset Turnover* – mức độ hiệu quả trong việc dùng tài sản để tạo doanh thu
 			- *Equity Multiplier* – mức độ sử dụng nợ để khuếch đại lợi nhuận
 		- Dễ dàng so sánh hiệu suất hoạt động giữa các công ty hoặc giữa các năm
-	- ❌ Nhược điểm :
+	- ❌ Nhược điểm:
 		- Thiếu độ tin cậy và linh hoạt khi phụ thuộc vào dữ liệu kế toán
 	---
-- **Company's Growth Rate :**
+- **Company's Growth Rate:**
 	$$
 	\begin{align}
 	\text{Sustainable Growth Rate} &= \text{Retention Ratio} \cdot \text{ROE} = (1 - \text{Dividend Payout Ratio}) \cdot \text{ROE}\\\\
@@ -296,7 +296,7 @@
 		$$
 	---
 - **Two-Stage DDM**
-	- Áp dụng với công ty đang trong giai đoạn :
+	- Áp dụng với công ty đang trong giai đoạn:
 		- Giai đoạn 1: tăng trưởng *cao* nhưng *ổn định* trong *`n` năm đầu*
 		- Giai đoạn 2: tăng trưởng *ổn định* với *tỉ lệ `g_2`*
 	![[two_stage_DDM.jpg#center|560]]
@@ -308,7 +308,7 @@
 	$$
 	---
 - **Three-Stage DDM**
-	- Áp dụng với công ty đang trong giai đoạn :
+	- Áp dụng với công ty đang trong giai đoạn:
 		- Giai đoạn 1: tăng trưởng *cao* nhưng *ổn định* trong *`n` năm đầu*
 		- Giai đoạn 2: tăng trưởng *giảm dần* trong *`m` năm tiếp theo*
 		- Giai đoạn 3: tăng trưởng *ổn định* với tỉ lệ `g`
@@ -322,7 +322,7 @@
 	$$
 ##### 2.1.2. Discounted Cash Flow (DCF)
 - **Free Cash Flow to Firm (FCFF)**
-	- FCFF là dòng tiền *còn lại* dùng để chi trả cho *cổ đông* và *chủ nợ* sau khi đã chi trả :
+	- FCFF là dòng tiền *còn lại* dùng để chi trả cho *cổ đông* và *chủ nợ* sau khi đã chi trả:
 		- Chi phí đầu tư tài sản dài hạn trong năm `<< CAPEX >>` 
 		- Thay đổi VLĐ - dòng tiền ra vào trong năm khi hoạt động kinh doanh
 		- Thuế
@@ -331,7 +331,7 @@
 		FCFF = EBIT \cdot (1 - CIT) + DA - CAPEX + \Delta WC
 		\end{align}
 		$$
-	- Định giá cổ phiếu theo FCFF :
+	- Định giá cổ phiếu theo FCFF theo mô hình Gordon:
 		$$
 		\begin{align}
 		P_0 &= \sum_{t=1}^n \frac{FCFF_t}{(1 + WACC)^{t}}
@@ -339,7 +339,7 @@
 		$$
 	---
 - **Free Cash Flow to Equity (FCFE)**
-	- Dòng tiền còn lại cho *riêng cổ đông* sau khi *chi trả thêm* :
+	- Dòng tiền còn lại cho *riêng cổ đông* sau khi *chi trả thêm*:
 		- Trả lãi
 		- Trả nợ gốc
 		- Vay thêm nợ mới
@@ -348,7 +348,7 @@
 		FCFE = FCFF - Interest \cdot (1 - CIT) - Principal + New\ Debt
 		\end{align}
 		$$
-	- Định giá cổ phiếu theo FCFE :
+	- Định giá cổ phiếu theo FCFE theo mô hình Gordon:
 		$$
 		\begin{align}
 		P_0 &= \sum_{t=1}^n \frac{FCFE_t}{(1 + r_e)^{t}}
@@ -357,23 +357,23 @@
 ---
 ##### 💡 Pros & Cons
 - **Dividend Discount Model (DDM)**
-	- ✅ Ưu điểm :
-		- *Đơn giản, dễ tính :* chỉ cần biết cổ tức, chi phí sử dụng VCSH và tốc độ tăng trưởng là có thể định giá cổ phiếu
-		- *Phù hợp với công ty chia cổ tức đều đặn :*  dễ áp dụng cho các công ty đã trưởng thành, dòng tiền ổn định (vd: ngân hàng, utilities)
-	- ❌ Nhược điểm :
-		- *Không dùng được nếu công ty không chia cổ tức :* rất nhiều công ty công nghệ hoặc tăng trưởng mạnh không chia cổ tức.
-		- *Không phản ánh đầy đủ dòng tiền tạo ra :* cổ tức chỉ là phần nhỏ của lợi nhuận → không thể hiện hết khả năng sinh lời
-		- *Nhạy cảm với giả định :* chỉ cần thay đổi nhỏ trong `g` hay `r_e` sẽ ảnh hưởng lớn đến kết quả định giá
+	- ✅ Ưu điểm:
+		- *Đơn giản, dễ tính:* chỉ cần biết cổ tức, chi phí sử dụng VCSH và tốc độ tăng trưởng là có thể định giá cổ phiếu
+		- *Phù hợp với công ty chia cổ tức đều đặn:*  dễ áp dụng cho các công ty đã trưởng thành, dòng tiền ổn định (vd: ngân hàng, utilities)
+	- ❌ Nhược điểm:
+		- *Không dùng được nếu công ty không chia cổ tức:* rất nhiều công ty công nghệ hoặc tăng trưởng mạnh không chia cổ tức.
+		- *Không phản ánh đầy đủ dòng tiền tạo ra:* cổ tức chỉ là phần nhỏ của lợi nhuận → không thể hiện hết khả năng sinh lời
+		- *Nhạy cảm với giả định:* chỉ cần thay đổi nhỏ trong `g` hay `r_e` sẽ ảnh hưởng lớn đến kết quả định giá
 	---
 - **Discounted Cash Flow (DCF)**
-	- ✅ Ưu điểm :
-		- *Phản ánh đúng bản chất tạo ra giá trị :* dựa vào dòng tiền thực tế doanh nghiệp tạo ra, dù có chia cổ tức hay không
-		- *Cho cái nhìn tổng thể về doanh nghiệp :* có thể định giá cả công ty (với FCFF), đánh giá cấu trúc vốn, hiệu quả sử dụng vốn
-		- *Áp dụng cho mọi loại doanh nghiệp :* từ startup, công ty tăng trưởng đến doanh nghiệp trưởng thành đều dùng được
-		- *Linh hoạt trong giả định :* dễ tùy chỉnh các kịch bản như tăng trưởng, đầu tư, chi phí vốn...
-	- ❌ Nhược điểm :
-		- *Phức tạp, cần nhiều dữ liệu :* phải thu thập thông tin tài chính chi tiết như lợi nhuận, chi phí, đầu tư, nợ...
-		- *Nặng về giả định :* phụ thuộc vào dự báo dòng tiền, `g`, `WACC`... → sai lệch có thể làm sai kết quả
+	- ✅ Ưu điểm:
+		- *Phản ánh đúng bản chất tạo ra giá trị:* dựa vào dòng tiền thực tế doanh nghiệp tạo ra, dù có chia cổ tức hay không
+		- *Cho cái nhìn tổng thể về doanh nghiệp:* có thể định giá cả công ty (với FCFF), đánh giá cấu trúc vốn, hiệu quả sử dụng vốn
+		- *Áp dụng cho mọi loại doanh nghiệp:* từ startup, công ty tăng trưởng đến doanh nghiệp trưởng thành đều dùng được
+		- *Linh hoạt trong giả định:* dễ tùy chỉnh các kịch bản như tăng trưởng, đầu tư, chi phí vốn...
+	- ❌ Nhược điểm:
+		- *Phức tạp, cần nhiều dữ liệu:* phải thu thập thông tin tài chính chi tiết như lợi nhuận, chi phí, đầu tư, nợ...
+		- *Nặng về giả định:* phụ thuộc vào dự báo dòng tiền, `g`, `WACC`... → sai lệch có thể làm sai kết quả
 ### 2.2. Relative Valuation Methods
 ##### 2.2.1. P/E - Price to Earnings
 $$
@@ -381,13 +381,13 @@ $$
 P/E &= \frac{Market\ Price}{EPS}
 \end{align}
 $$
-- 🔍 Ý nghĩa :
+- 🔍 Ý nghĩa:
 	- Cho biết nhà đầu tư sẵn sàng trả bao nhiêu đồng cho 1 đồng lợi nhuận sau thuế
 	- P/E cao có thể phản ánh kỳ vọng tăng trưởng, nhưng cũng có thể là định giá cao.
-- ✅ Ưu điểm :
+- ✅ Ưu điểm:
 	- Giúp nhà đầu tư nhanh chóng đánh giá mức độ đắt/rẻ của cổ phiếu so với lợi nhuận
 	- Thích hợp với doanh nghiệp *ổn định, trưởng thành, có lợi nhuận đều* (tiện ích, tiêu dùng thiết yếu, dược phẩm...)
-- ❌ Nhược điểm :
+- ❌ Nhược điểm:
 	- Dễ bị chi phối bởi các khoản thu nhập bất thường hoặc chính sách kế toán (vd: thu nhập bất thường không phải từ HĐKD)
 	- Không phản ánh dòng tiền thực
 	- Không phù hợp với công ty *lỗ hoặc lợi nhuận biến động mạnh* (startup công nghệ, chu kỳ khoáng sản, năng lượng, nông sản...)
@@ -398,12 +398,12 @@ $$
 P/B &= \frac{Market\ Price}{Book\ Value\ per\ Share}
 \end{align}
 $$
-- 🔍 Ý nghĩa :
+- 🔍 Ý nghĩa:
 	- Thể hiện giá cổ phiếu đang giao dịch cao bao nhiêu lần so với giá trị sổ sách (tài sản thuần)
 	- P/B thấp có thể là dấu hiệu cổ phiếu bị định giá thấp
-- ✅ Ưu điểm :
+- ✅ Ưu điểm:
 	- Hữu ích cho công ty có *tài sản hữu hình lớn* (ngân hàng, bất động sản, công nghiệp nặng...)
-- ❌ Nhược điểm :
+- ❌ Nhược điểm:
 	- Giá trị sổ sách có thể lỗi thời
 	- Không phù hợp với công ty dựa vào *tài sản vô hình* (công nghệ, dịch vụ...)
 ---
@@ -413,12 +413,12 @@ $$
 P/S &= \frac{Market\ Capitalization}{Sales}
 \end{align}
 $$
-- 🔍 Ý nghĩa :
+- 🔍 Ý nghĩa:
 	- Cho biết nhà đầu tư sẵn sàng trả bao nhiêu cho mỗi đồng doanh thu của công ty
-- ✅ Ưu điểm :
+- ✅ Ưu điểm:
 	- Doanh thu ít biến động hơn lợi nhuận
 	- Áp dụng được cho công ty *mới định hình* có *doanh thu tốt nhưng chưa có lãi* (startup, công nghệ mới, biotech...)
-- ❌ Nhược điểm :
+- ❌ Nhược điểm:
 	- Bỏ qua chi phí và khả năng sinh lời thực sự `<< công ty có doanh thu cao nhưng lỗ vẫn có P/S cao >>`
 	- Không phù hợp với doanh nghiệp *tỷ suất lợi nhuận thấp* (bán lẻ giá rẻ, logistic...)
 ---
@@ -429,12 +429,12 @@ P/FCF &= \frac{Market\ Capitalization}{FCF}\\\\
 FCF = Operating\ &Cash\ Flow\ -\ CAPEX
 \end{align}
 $$
-- 🔍 Ý nghĩa :
+- 🔍 Ý nghĩa:
 	- Phản ánh chi phí thực sự phải trả để sở hữu dòng tiền có thể tái đầu tư hoặc trả cổ tức
-- ✅ Ưu điểm :
+- ✅ Ưu điểm:
 	- Dòng tiền khó bị bóp méo bởi các quyết định kế toán
 	- Giải quyết khác biệt về chất lượng EPS giữa các công ty, nhất là doanh nghiệp có nhiều khoản khấu hao, chi phí phi tiền mặt `<< những khoản đó sẽ được cộng lại vào dòng tiền >>`
-- ❌ Nhược điểm :
+- ❌ Nhược điểm:
 	- FCF có thể bị ảnh hưởng lớn bởi chi tiêu vốn đột biến (CapEx)
 ---
 ##### 2.2.5 EV/EBITDA - Enterprise Value to EBITDA
@@ -444,13 +444,13 @@ EV/EBITDA &= \frac{EV}{Adjusted\ EBITDA}\\\\
 EV = Market\ Cap\ +\ Total\ Debt\ &-\ Cash\ and\ Cash\ Equivalents
 \end{align}
 $$
-- 🔍 Ý nghĩa :
+- 🔍 Ý nghĩa:
 	- Đo lường tổng giá trị doanh nghiệp so với khả năng sinh lợi thuần từ hoạt động kinh doanh 
 	`<< nếu dùng Adjusted EBITDA thì chỉ tính thu nhập và chi phí đến từ HĐKD >>`
 	- Phổ biến trong M&A 
-- ✅ Ưu điểm :
+- ✅ Ưu điểm:
 	- Không gồm lãi vay và thuế → phù hợp để so sánh các công ty có mức nợ khác nhau hoặc ở các quốc gia có thuế suất khác nhau
 	- Loại bỏ khấu hao (phi tiền mặt) → phản ánh rõ hơn khả năng tạo lợi nhuận từ hoạt động kinh doanh chính
-- ❌ Nhược điểm :
+- ❌ Nhược điểm:
 	- Không phản ánh dòng tiền thực sự `<< cộng lại khấu hao nhưng lại bỏ qua lãi vay, thuế, CAPEX và sự biến động vốn lưu động >>`
 

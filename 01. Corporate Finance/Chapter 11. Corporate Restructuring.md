@@ -1,14 +1,14 @@
 
 # 1. Sát nhập & Mua lại (M&A)
 
-| Tiêu chí                | **Sáp nhập (Merger)**                                                         | **Mua lại (Acquisition)**                                                    |
-| ----------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| **Khái niệm**           | Hai hoặc nhiều DN hợp nhất thành một pháp nhân mới.                 | Một DN mua lại và kiểm soát DN khác.                     |
-| **Tư cách pháp nhân**   | Các công ty ban đầu ***chấm dứt tư cách pháp nhân***, hình thành công ty mới. | Công ty bị mua có thể ***vẫn tồn tại***, nhưng bị kiểm soát bởi công ty mua. |
-| **Quyền lực kiểm soát** | Các bên thường ***thỏa thuận đồng thuận***, phân chia quyền lực mới.          | Bên mua ***nắm quyền kiểm soát hoàn toàn hoặc chi phối*** bên bị mua.        |
-| **Tính chất**           | Tính chất ***hòa hợp, đồng thuận***.                                          | Có thể là ***tự nguyện*** hoặc ***thâu tóm thù địch***.                      |
-| **Cơ cấu tài chính**    | Các bên thường ***kết hợp tài sản, nợ, cổ phần***.                            | Bên mua thường dùng ***tiền mặt, cổ phiếu hoặc tài sản khác*** để mua lại.   |
-| **Tình huống phổ biến** | Hai DN gặp thách thức giống nhau, muốn hợp lực.                     | Một DN lớn mua lại startup tiềm năng, hoặc mua công ty yếu hơn.    |
+| Tiêu chí            | **Sáp nhập (Merger)**                                                         | **Mua lại (Acquisition)**                                                    |
+| ------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Khái niệm           | Hai hoặc nhiều DN hợp nhất thành một pháp nhân mới.                           | Một DN mua lại và kiểm soát DN khác.                                         |
+| Tư cách pháp nhân   | Các công ty ban đầu ***chấm dứt tư cách pháp nhân***, hình thành công ty mới. | Công ty bị mua có thể ***vẫn tồn tại***, nhưng bị kiểm soát bởi công ty mua. |
+| Quyền lực kiểm soát | Các bên thường ***thỏa thuận đồng thuận***, phân chia quyền lực mới.          | Bên mua ***nắm quyền kiểm soát hoàn toàn hoặc chi phối*** bên bị mua.        |
+| Tính chất           | Tính chất ***hòa hợp, đồng thuận***.                                          | Có thể là ***tự nguyện*** hoặc ***thâu tóm thù địch***.                      |
+| Cơ cấu tài chính    | Các bên thường ***kết hợp tài sản, nợ, cổ phần***.                            | Bên mua thường dùng ***tiền mặt, cổ phiếu hoặc tài sản khác*** để mua lại.   |
+| Tình huống phổ biến | Hai DN gặp thách thức giống nhau, muốn hợp lực.                               | Một DN lớn mua lại startup tiềm năng, hoặc mua công ty yếu hơn.              |
 
 ---
 - **Các hình thức kết hợp sau khi thực hiện M&A:**
@@ -57,7 +57,7 @@
 	\text{EPS của DN mới} &= \frac{170.000.000}{3.400} = 50.000
 	\end{align}
 	$$
-	- Khi P/E của DN A và B bằng nhau, EPS sau sáp nhập = EPS của A
+	- Khi P/E của DN A và C bằng nhau, EPS sau sáp nhập = EPS của A
 ---
 - **Kế toán các giao dịch M&A:**
 	- ***Phương pháp mua lại:*** 
