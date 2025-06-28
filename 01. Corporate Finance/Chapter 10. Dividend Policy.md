@@ -130,7 +130,7 @@ $$
 	- Tỷ lệ an toàn (2 - 3)
 	$$
 	\begin{align}
-	Securities\ Dividend\ Rate &= \frac{Thu\ nhập\ mỗi\ cổ\ phần}{Cổ\ tức\ mỗi\ cổ\ phần}
+	Securities\ Dividend\ Rate &= \frac{EPS}{DPS}
 	\end{align}
 	$$
 ##### 2.3.2. Các chính sách cổ tức

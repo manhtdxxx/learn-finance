@@ -107,8 +107,8 @@
 		- Giai đoạn tương ứng: *Trưởng thành / Suy thoái*
 		- Đặc điểm:
 		    - Công ty lớn, đã trưởng thành
-		    - Tăng trưởng chậm (5-7%/năm)
-		    - Thường trả cổ tức đều đặn
+		    - Tăng trưởng chậm (2-5%/năm), thấp hơn mức lạm phát
+		    - Thường trả cổ tức đều đặn vì không có cơ hội tái đầu tư
 		- VD: điện lực, nước, viễn thông...
 	2. **Stalwarts – Doanh nghiệp ổn định**
 		- Giai đoạn tương ứng: *Trưởng thành*
@@ -120,27 +120,30 @@
 	 3. **Fast Growers – Doanh nghiệp tăng trưởng nhanh**
 		- Giai đoạn tương ứng: *Tăng trưởng*
 		- Đặc điểm:
-		    - Công ty nhỏ đến trung bình, đang mở rộng.
-		    - Tăng trưởng mạnh (>15-20%/năm).
-		    - Cổ phiếu tăng giá rất nhanh, nhưng rủi ro cũng cao.
+		    - Công ty nhỏ đến trung bình, đang mở rộng
+		    - Tăng trưởng mạnh (>15-20%/năm)
+		    - Cổ phiếu tăng giá rất nhanh, nhưng rủi ro cũng cao
 		- Ngành ví dụ: công nghệ, năng lượng tái tạo, thương mại điện tử...
 	4. **Cyclicals – Doanh nghiệp theo chu kỳ**
 		- Giai đoạn: *Có thể ở bất kỳ giai đoạn nào, nhưng phụ thuộc vào chu kỳ kinh tế*
 		- Đặc điểm:
-		    - Lợi nhuận biến động theo chu kỳ kinh tế.
-		    - Thường tăng mạnh khi kinh tế phục hồi, giảm sâu khi suy thoái.
+		    - Lợi nhuận biến động theo chu kỳ kinh tế
+		    - Thường tăng mạnh khi kinh tế phục hồi, giảm sâu khi suy thoái
 		- Ngành ví dụ: ô tô, xây dựng, hàng không, du lịch, bất động sản...
 	5. **Turnarounds – Doanh nghiệp đang tái cấu trúc / phục hồi**
 		- Giai đoạn: *Suy thoái → Có thể quay lại tăng trưởng*
 		- Đặc điểm:
-		    - Doanh nghiệp từng yếu kém, đang cố gắng cải tổ
-		    - Rủi ro cao, nhưng nếu thành công sẽ mang lại lợi nhuận lớn
+		    - Công ty từng gặp khủng hoảng: doanh thu giảm, bán tài sản, nợ cao, mất thị phần...
+		    - Cổ phiếu giảm mạnh
+			- Có dấu hiệu phục hồi: tái cấu trúc, cắt giảm chi phí, sản phẩm mới ...
+			- Rủi ro cao nhưng nếu thành công sẽ đem lợi nhuận lớn
 		- VD: hàng không, du lịch sau COVID
 	6. **Asset Plays – Tài sản ẩn**
 		- Giai đoạn: *Không rõ ràng theo chu kỳ*
 		- Đặc điểm:
-		    - Công ty có tài sản bị định giá thấp (đất đai, bản quyền, tài sản tài chính)
+		    - Công ty có tài sản bị định giá thấp (đất đai, tài sản trí tuệ, tài sản tài chính)
 		    - Không tập trung vào lợi nhuận hiện tại mà là giá trị tiềm ẩn
+		    - Dễ trở thành mục tiêu được mua lại bởi các công ty khác nhận thấy giá trị
 		- VD: bất động sản, khai khoáng, công nghệ...
 ##### 1.2.3. Porter's 5 Forces
 - Threat of New Entrants
