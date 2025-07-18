@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9b87f37333720fcd",
+        "id": "cbf3a8dc6cd116a4",
         "type": "tabs",
         "children": [
           {
-            "id": "a6281d74776b28ea",
+            "id": "5c1c582368361f3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Financial Investment/Chapter 02. Pricing Model.md",
+                "file": "02. Commercial Bank/Chapter 07. Nghiệp vụ bảo lãnh ngân hàng.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 02. Pricing Model"
+              "title": "Chapter 07. Nghiệp vụ bảo lãnh ngân hàng"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Financial Investment/Chapter 02. Pricing Model.md",
+                "file": "02. Commercial Bank/Chapter 07. Nghiệp vụ bảo lãnh ngân hàng.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 02. Pricing Model"
+              "title": "Outline of Chapter 07. Nghiệp vụ bảo lãnh ngân hàng"
             }
           },
           {
@@ -180,18 +180,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6281d74776b28ea",
+  "active": "5c1c582368361f3d",
   "lastOpenFiles": [
+    "02. Commercial Bank/Chapter 05. Nghiệp vụ tín dụng trung và dài hạn.md",
+    "04. Financial Investment/Chapter 05-2. Portfolio Theory.md",
+    "04. Financial Investment/Chapter 06. Portfolio Strategy.md",
+    "04. Financial Investment/Chapter 08-2. Behavioral Finance.md",
+    "04. Financial Investment/Chapter 08-1. Efficient Market Hypothesis.md",
+    "04. Financial Investment/Chapter 07. Technical Analysis.md",
+    "03. Financial Statement Analysis/Chapter 07. Joint Stock Company.md",
+    "04. Financial Investment/Chapter 02. Pricing Model.md",
     "04. Financial Investment/Chapter 04. Bond.md",
     "04. Financial Investment/Chapter 03. Stock.md",
-    "04. Financial Investment/Chapter 05-2. Portfolio Theory.md",
     "04. Financial Investment/Chapter 01. Overview.md",
-    "04. Financial Investment/Chapter 07. Technical Analysis.md",
-    "04. Financial Investment/Chapter 08-1. Efficient Market Hypothesis.md",
-    "04. Financial Investment/Chapter 08-2. Behavioral Finance.md",
     "03. Financial Statement Analysis/Chapter 09. Forecasting.md",
     "03. Financial Statement Analysis/Chapter 08. Financial Crisis & Risk.md",
-    "03. Financial Statement Analysis/Chapter 07. Joint Stock Company.md",
     "03. Financial Statement Analysis/Chapter 06. Efficiency & Profitability.md",
     "03. Financial Statement Analysis/Chapter 05. Liquidity & Solvency.md",
     "04. Financial Investment/Chapter 05-1. Asset Allocation.md",
@@ -205,9 +208,6 @@
     "01. Corporate Finance/Chapter 05-1. Cost of Capital.md",
     "01. Corporate Finance/Chapter 05-2. Leverage.md",
     "01. Corporate Finance/Chapter 06. Investment Appraisal.md",
-    "01. Corporate Finance/Chapter 07. Asset Management.md",
-    "04. Financial Investment/Chapter 06. Portfolio Strategy.md",
-    "03. Financial Statement Analysis/Chapter 04. AR & AP.md",
     "Visuals/technical_analysis",
     "Visuals/New folder",
     "Visuals/CAL_with_leveraging.png",
