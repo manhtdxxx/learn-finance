@@ -211,10 +211,10 @@ $$
 	- Giữ lãi suất coupon không đổi, ***thời gian đáo hạn càng dài thì duration càng cao*** `<< thời gian càng dài thì dòng tiền càng muộn >>`
 	- Giữ các nhân tố khác không đổi, ***YTM càng cao thì duration càng thấp*** `<< giống coupon, dòng tiền thu về sớm hơn >>`
 ##### 5.4.2. Modified Duration
-|                         | Công thức                                                                                                                                      | Ý nghĩa                                                                                            |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| ***Macaulay Duration*** | $$D_{macaulay} = \sum_{t= 1}^T \ t \cdot \frac{DCF_t}{P} \tag{3.1}$$                                                                           | Tính thời gian trung bình hoàn vốn                                                                 |
-| ***Modified Duration*** | $$D_{modified}= \frac{D_{macaulay}}{1 + YTM_{periodic}} \tag{3.2}$$<br>$$\text{hoặc:} \quad D_{modified}= -\frac{1}{P} \cdot \frac{dP}{dYTM}$$ | Đo độ nhạy giá trái phiếu với lãi suất. Cho biết giá thay đổi bao nhiêu % khi lãi suất thay đổi 1% |
+|                         | Công thức                                                                                                                           | Ý nghĩa                                                                                            |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| ***Macaulay Duration*** | $$D_{macaulay} = \sum_{t= 1}^T \ t \cdot \frac{DCF_t}{P} \tag{3.1}$$                                                                | Tính thời gian trung bình hoàn vốn                                                                 |
+| ***Modified Duration*** | $$D_{modified}= \frac{D_{macaulay}}{1 + YTM} \tag{3.2}$$<br>$$\text{hoặc:} \quad D_{modified}= -\frac{1}{P} \cdot \frac{dP}{dYTM}$$ | Đo độ nhạy giá trái phiếu với lãi suất. Cho biết giá thay đổi bao nhiêu % khi lãi suất thay đổi 1% |
 
 - **Công thức tính % thay đổi giá dựa trên Duration:**
 	$$
@@ -226,8 +226,7 @@ $$
 	$$
 	\begin{align}
 	&P = \sum_{t=1}^T \ \frac{CF_t}{(1 + YTM)^t} \\\\
-	&\Rightarrow \frac{dP}{dYTM} = \sum_{t=1}^T \ \frac{CF_t}{(1+YTM)^t} \\\\
-	&\Leftrightarrow\ ...\ = \sum_{t=1}^T \ \frac{-t \cdot CF_t}{(1+YTM)^{t+1}} \\\\
+	&\Rightarrow \frac{dP}{dYTM}  = \sum_{t=1}^T \frac{-t \cdot CF_t}{(1+YTM)^{t+1}} \\\\
 	&\Leftrightarrow\ ...\ = -P \cdot \left( \frac{1}{P} \cdot \sum_{t=1}^T \frac{t \cdot CF_t}{(1+YTM)^t} \right) \cdot \frac{1}{1+YTM} \\\\
 	\text{Thay (3.1) và (3.2)} \quad
 	&\Leftrightarrow\ ...\ = -P \cdot \frac{D_{macaulay}}{1+YTM} = -P \cdot D_{modified} \\\\

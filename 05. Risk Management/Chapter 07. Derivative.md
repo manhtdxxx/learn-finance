@@ -1,0 +1,101 @@
+# 1. Spot Contract
+- Hợp đồng giao ngay **không phải** là sản phẩm tài chính phái sinh
+- Trong đó việc mua hoặc bán ngoại tệ, công cụ tài chính hoặc hàng hóa để giao ngay tại thời điểm giao dịch và kết thúc thanh toán trong vòng 2 ngày
+- Nghiệp vụ thực hiện trên cơ sở giá giao ngay, tức là giá được xác định và có giá trị tại thời điểm giao dịch
+# 2. Forward Contract
+- Hợp đồng kỳ hạn là một loại chứng khoán phái sinh
+- Trong đó người mua và người bán sẽ thực hiện việc mua bán một tài sản tại một thời điểm nhất định trong tương lai với một mức giá nhất định thỏa thuận từ hôm nay
+- Lãi/Lỗ từ hợp đồng kỳ hạn: `< chênh lệch trừ đi phí hợp đồng nữa >`
+	- Khi giá kỳ hạn > giá giao ngay tại thời điểm đáo hạn → người mua lỗ
+	- Khi giá kỳ hạn < giá giao ngay tại thời điểm đáo hạn → người mua lãi
+- ***4 yếu tố chính tạo nên hợp đồng kỳ hạn:***
+	- Tài sản cơ sở
+		- Tài sản thực
+		- Tài sản tài chính
+	- Bên tham gia hợp đồng
+		- Người mua (Long Position)
+		- Người bán (Short Position)
+	- Thời điểm xác định trong tương lai
+		- Là ngày trao đổi tài sản cơ sở và thanh toán hợp đồng
+	- Giá xác định trong tương lai - Giá kỳ hạn
+		- Xác định dựa trên giá giao ngay & lãi suất thị trường
+- ***Đặc điểm:***
+	- Tài sản cơ sở là bất cứ thứ gì, không cần chuẩn hóa về khối lượng, chất lượng, giá trị...
+	- Là thỏa thuận trực tiếp giữa 2 bên, không qua trung gian
+	- Không được niêm yết và giao dịch trên thị trường tập trung, chỉ được giao dịch trên OTC
+	- Không cần thực hiện ký quỹ
+	- Tính thanh khoản thấp
+# 3. Future Contract
+- Về cơ bản, hợp đồng tương lai giống hợp đồng kỳ hạn nhưng sẽ khác ở một số đặc điểm dưới đây:
+- ***Đặc điểm:***
+	- Tài sản cơ sở được chuẩn hóa 
+	- Được giao dịch và niêm yết trên sàn giao dịch tương lai (Future Exchanges)
+	- Yêu cầu ký quỹ để giảm thiểu rủi ro
+	- Số tiền ký quỹ của mỗi bên sẽ được bù trừ qua sự chênh lệch giữa giá đã ấn định và giá tương lai hàng ngày (Market to Market). Nếu tài khoản ký quỹ < mức quy định, sàn yêu cầu nộp thêm (Margin Call)
+	- Thanh khoản cao, dễ đóng vị thế
+# 4. Swap Contract
+- ***Hợp đồng hoán đổi lãi suất - Interest Rate Swap***
+	- A đang vay ngân hàng theo LS thả nổi, B đang vay ngân hàng theo LS cố định
+	- A sợ LS thả nổi tăng nên muốn khóa lại LS cố định → làm hợp đồng hoán đổi LS với B
+	- Khi LS thả nổi > LS cố định → B bù trừ cho A một khoản chênh lệch LS = LS thả nổi - LS cố định
+	- Khi LS thả nổi < LS cố định → A bù trừ cho B một khoản chênh lệch LS = LS cố định - LS thả nổi
+- ***Hợp đồng hoán đổi tiền tệ - Currency Swap***
+	- Công ty A (Mỹ) cần EUR, công ty B (Châu Âu) cần USD.
+	- Nếu A tự đi vay từ ngân hàng Châu Âu, A phải chịu LS cao hơn vì A vay ngoài nước. Tương tự B → 2 bên làm hợp đồng hoán đổi TT
+	- B là bên Châu Âu, vay EUR với LS thấp hơn, sẽ đưa cho A. Tương tự A. Bản chất giống như:
+		- A đang vay EUR của B, không cần qua ngân hàng bên Châu Âu
+		- B đang vay USD của A, không cần qua ngân hàng bên Mỹ
+	- Cả 2 đều hưởng lợi vì việc đi vay với LS rẻ hơn `< phái sinh duy nhất mà cả 2 win-win >`
+	- Khi đến ngày trả lãi và gốc
+		- A trả cho B bằng đồng tiền EUR để B trả cho ngân hàng Châu Âu mà B đã vay
+		- B trả cho A bằng đồng tiền USD để A trả cho ngân hàng Mỹ mà A đã vay
+- ***Hợp đồng hoán đổi tín dụng - Credit Swap - CDS***
+	- Bản chất giống như bảo hiểm
+	- Ví dụ:
+		- A mua trái phiếu từ C
+		- A sợ C vỡ nợ → A (Protection Buyer) làm CDS với B (Protection Seller)
+		- A trả phí bảo hiểm định kì cho B
+		- Khi C vỡ nợ, giá trị trái phiếu giảm, B trả cho A phần thiệt hại
+- ***Hợp đồng hoán đổi hàng hóa - Commodity Swap***
+	- Bản chất giống như Interest Rate Swap, thay vì LS thì hợp đồng này hoán đổi giữa giá hàng hóa cố định và giá hàng hóa thả nổi
+	- Dành cho doanh nghiệp sản xuất - vận hành muốn phòng hộ trước biến động của giá hàng hóa
+	- Ví dụ:
+		- A là hãng hàng không, sợ giá dầu tăng, muốn khóa lại giá dầu ở một mức giá cố định → A làm hợp đồng hoán đổi HH với B (ngân hàng)
+		- Mỗi kỳ thanh toán, so sánh giá cố định và giá thị trường, rồi bù trừ tiền, không giao hàng thật. Giống như đánh cược vào giá thị trường của một hàng hóa cụ thể lên hay xuống
+			- Nếu giá lúc thanh toán > giá cố định → B trả cho A khoản chênh lệch
+			- Nếu giá lúc thanh toán < giá cố định → A trả cho B khoản chênh lệch
+		- Dù giá dầu có tăng, A vẫn có khoản chênh lệch nhận được từ hợp đồng + giá cố định để mua dầu, giúp giữ ổn định chi phí nguyên liệu đầu vào
+- ***Hợp đồng hoán đổi chứng khoán vốn - Equity Swap***
+	- Dành cho:
+		- Tổ chức nước ngoài bị giới hạn room
+		- Tổ chức không được phép nắm giữ cổ phiếu một số ngành
+		- Tổ chức muốn tận dụng đòn bẩy tài chính khi giá tăng, không phải bỏ vốn lớn để mua cổ phiếu thật, chỉ trả lãi suất như phí vay cổ phiếu
+		- Tổ chức nắm giữ cổ phiếu muốn phòng hộ khi giá giảm, không muốn bán sớm vì lý do thuế, phí giao dịch, ràng buộc pháp lý hay kì vọng giá tăng dài hạn 
+	- Trong đó:
+		- Một bên trả một mức lãi suất cố định hoặc thả nổi (Interest Rate)
+		- Bên còn lại trả tỷ suất sinh lời của cổ phiếu hoặc chỉ số (Equity Return) 
+	- Ví dụ:
+		- A muốn hưởng lợi khi VNM tăng, nhưng A không được/không muốn mua cổ phiếu thật và B nắm giữ VNM nhưng lo ngại giá cổ phiếu giảm → 2 bên ký swap với nhau
+		- A muốn nhận Equity Return từ B để hưởng lợi → A phải trả Interest Rate cho B. Số tiền trả cho mỗi bên được tính dựa trên một giá trị danh nghĩa đã xác định
+		- Cuối kỳ
+			- A trả cho B lãi suất
+			- Nếu Return > 0 (cổ phiếu tăng giá) → B trả cho A phần return đó
+				- A hưởng lợi, nhưng lợi nhuận bị giới hạn do phải trả lãi suất. Nếu return < lãi suất, A vẫn có thể lỗ
+				- B chịu rủi ro, nhận bù đắp bằng lãi suất
+			- Nếu Return < 0 (cổ phiếu giảm giá) → B nhận từ A phần return đó
+				- A chịu lỗ lớn, trả cả return lẫn lãi suất
+				- B phòng hộ thành công, được bù lỗ và còn nhận được thêm phần lãi suất
+# 5. Option Contract
+- Hợp đồng quyền chọn là thỏa thuận, theo đó bên mua có quyền mua hoặc bán một hàng hóa xác định với mức giá định trước (Strike Price) và phải trả một khoản tiền nhất định để mua quyền này (Premium). Bên mua quyền **có quyền thực hiện hoặc không thực hiện**
+- ***Hợp đồng gồm các thành phần chính:***
+	- Tài sản cơ sở
+	- Số lượng đơn vị tài sản cơ sở
+	- Giá thực hiện (Strike Price)
+	- Phí quyền chọn (Premium)
+	- Thời hạn hợp đồng
+- ***Quyền chọn mua - Call Option:***
+	- Người mua quyền chọn mua (Call Buyer) kì vọng giá tài sản cơ sở sẽ tăng và sẵn sàng trả phí quyền chọn để sau này thực hiện quyền mua với mức giá thực hiện < giá thị trường
+	- Người bán quyền chọn mua (Call Writer) hi vọng giá tài sản sẽ đi ngang hoặc giảm giá. Dù giá tài sản cơ sở giảm thì họ vẫn được bù đắp bằng phí khi bán quyền chọn
+- ***Quyền chọn bán - Put Option:***
+	- Người mua quyền chọn bán (Put Buyer) kì vọng giá tài sản cơ sở sẽ giảm và sẵn sàng trả phí quyền chọn để sau này thực hiện quyền bán với mức giá thực hiện > giá thị trường
+	- Người bán quyền chọn bán (Put Writer) hi vọng giá tài sản sẽ đi ngang hoặc tăng lên

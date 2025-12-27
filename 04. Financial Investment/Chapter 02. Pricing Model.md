@@ -1,4 +1,4 @@
-# 1. Simple Index Model - SIM
+	# 1. Simple Index Model - SIM
 ### 1.1. Assumption
 - Quan hệ tuyến tính giữa lợi suất của tài sản tài chính và lợi suất toàn thị trường
 - Rủi ro của chứng khoán bao gồm hai thành phần:
@@ -125,8 +125,8 @@ $$
 	- Nếu tài sản 
 		- Nằm bên trái `beta = 1` --> tài sản có rủi ro thấp, và mức sinh lời cũng thấp hơn thị trường ***(defensive)***
 		- Nằm bên phải `beta = 1` --> tài sản có rủi ro cao hơn thị trường, đòi hỏi mức sinh lời cao hơn ***(aggressive)***
-		- Nằm trên SML --> tài sản được định giá thấp theo CAPM ***(undervalued)***, giá trị thực cao hơn giá lý thuyết --> nên mua
-		- Nằm dưới SML --> tài sản được định giá cao theo CAPM ***(overvalued)***, giá trị thực thấp hơn giá lý thuyết --> nên bán
+		- Nằm trên SML --> tài sản được định giá thấp theo CAPM ***(undervalued)***, mức sinh lời thực cao hơn lý thuyết --> nên mua
+		- Nằm dưới SML --> tài sản được định giá cao theo CAPM ***(overvalued)***, mức sinh lời thực thấp hơn lý thuyết --> nên bán
 	---
 	- Chênh lệch giữa tỷ lệ lợi tức kỳ vọng thực tế và tỷ lệ lợi tức đo lượng bởi CAPM trên một cổ phiếu gọi là ***α*** của cổ phiếu đó, hay là ***phần tỷ lệ lợi tức được định giá sai*** trên thị trường
 		$$
